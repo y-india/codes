@@ -1,0 +1,15 @@
+{
+    "name": "Jokes",
+    "description": "A plugin that provides jokes to users.",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "author": "Papa Ji",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "download.png"
+    }
+}
+
+
+
+
