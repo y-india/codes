@@ -1,6 +1,6 @@
-import 'dart.io'
+import 'dart:io';
 
 void main(){
-  stdout.write("Hello Yuvi")
+  stdout.write("Hello Yuvi");
 }
 
