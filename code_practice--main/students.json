@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "BABLU",
+        "age": 17,
+        "class": 10,
+        "roll_no": 3,
+        "father_name": "bada bablu",
+        "years_in_school": 1,
+        "school_id": "103"
+    },
+    {
+        "id": 2,
+        "name": "OPPO",
+        "age": 17,
+        "class": 10,
+        "roll_no": 4,
+        "father_name": "OPPO ka baap",
+        "years_in_school": 2,
+        "school_id": "104"
+    },
+    {
+        "id": 3,
+        "name": "Charli Brown",
+        "age": 14,
+        "class": 10,
+        "roll_no": 9,
+        "father_name": "David Brown",
+        "years_in_school": 4,
+        "school_id": "109"
+    },
+    {
+        "id": 4,
+        "name": "Ravan",
+        "age": 18,
+        "class": 10,
+        "roll_no": 17,
+        "father_name": "Ravan Ka Papa",
+        "years_in_school": 3,
+        "school_id": "1017"
+    },
+    {
+        "id": 6,
+        "name": "UI TEST STUDENT 2",
+        "age": 17,
+        "class": 10,
+        "roll_no": 26,
+        "father_name": "UI testing for add",
+        "years_in_school": 1,
+        "school_id": "1026"
+    },
+    {
+        "id": 7,
+        "name": "UI TEST STUDENT 2",
+        "age": 20,
+        "class": 10,
+        "roll_no": 30,
+        "father_name": "UI testing for add",
+        "years_in_school": 1,
+        "school_id": "1030"
+    },
+    {
+        "id": 8,
+        "name": "Testing",
+        "age": 18,
+        "class": 10,
+        "roll_no": 31,
+        "father_name": "Testing F",
+        "years_in_school": 0,
+        "school_id": "1031"
+    },
+    {
+        "id": 10,
+        "name": "Ui Testing 2.1",
+        "age": 13,
+        "class": 10,
+        "roll_no": 16,
+        "father_name": "Ui Testing Father 2.1",
+        "years_in_school": 5,
+        "school_id": "1016"
+    },
+    {
+        "id": 11,
+        "name": "Naya Bacha",
+        "age": 16,
+        "class": 10,
+        "roll_no": 38,
+        "father_name": "Naya Baap",
+        "years_in_school": 0,
+        "school_id": "1038"
+    },
+    {
+        "id": 12,
+        "name": "Xxx",
+        "age": 15,
+        "class": 10,
+        "roll_no": 1,
+        "father_name": "",
+        "years_in_school": 0,
+        "school_id": "101"
+    }
+]
