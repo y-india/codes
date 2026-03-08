@@ -31,6 +31,7 @@ def run_prompt():
             f.write(answer)
 
         print("Answer saved to answer.txt")
+        print("Answer saved to answer.txt")
 
     except Exception as e:
         print("Error:", e)
