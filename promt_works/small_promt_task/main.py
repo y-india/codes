@@ -1,7 +1,7 @@
 import keyboard
 from openai import OpenAI
 
-API_KEY = "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"
+API_KEY = ""
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
@@ -31,7 +31,7 @@ def run_prompt():
             f.write(answer)
 
         print("Answer saved to answer.txt")
-        print("Answer saved to answer.txt")
+        # print("Answer saved to answer.txt")
 
     except Exception as e:
         print("Error:", e)

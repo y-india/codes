@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = "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"
+API_KEY = "<>"
 
 response = requests.post(
     "https://openrouter.ai/api/v1/chat/completions",

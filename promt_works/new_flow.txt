@@ -1,0 +1,15 @@
+Select text
+     ↓
+Alt + Shift + P
+     ↓
+Ctrl+C
+     ↓
+Notepad opens
+     ↓
+Ctrl+V → text pasted
+     ↓
+File saved
+     ↓
+Python reads file
+     ↓
+Prompt sent to model
