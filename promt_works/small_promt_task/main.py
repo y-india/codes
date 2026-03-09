@@ -1,7 +1,7 @@
 import keyboard
 from openai import OpenAI
 
-API_KEY = "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"
+API_KEY = "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"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
@@ -19,7 +19,7 @@ def run_prompt():
             prompt = f.read()
 
         response = client.chat.completions.create(
-            model="openai/gpt-4o-mini",
+            model="liquid/lfm-2.5-1.2b-thinking:free",
             messages=[
                 {"role": "user", "content": prompt}
             ]
