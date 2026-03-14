@@ -1,0 +1,1 @@
+keyboard.add_hotkey("alt+shift+p", run_prompt)

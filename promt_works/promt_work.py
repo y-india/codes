@@ -1,11 +1,24 @@
-
 import keyboard
-import win32clipboard
 import time
+import sqlite3
 from openai import OpenAI
 
 
-API_KEY = "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"
+API_KEY = "YOUR_KEY"
+
+
+import win32clipboard
+
+def get_clipboard_text():
+    win32clipboard.OpenClipboard()
+    try:
+        data = win32clipboard.GetClipboardData()
+    finally:
+        win32clipboard.CloseClipboard()
+
+    return data
+
+
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
@@ -15,23 +28,34 @@ client = OpenAI(
 PROMPT_FILE = "promt_works/temp_promt.txt"
 ANSWER_FILE = "promt_works/temp_answer.txt"
 
-
-
-
-
-import sqlite3
-
 DITTO_DB = r"C:\Users\User\AppData\Roaming\Ditto\Ditto.db"
 
+
+def get_latest_id():
+    conn = sqlite3.connect(DITTO_DB)
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT lID FROM Main ORDER BY lID DESC LIMIT 1")
+    row = cursor.fetchone()
+
+    conn.close()
+    return row[0] if row else 0
+
+
+last_id = get_latest_id()
+
+
 def get_ditto_text():
+    global last_id
+
     conn = sqlite3.connect(DITTO_DB)
     cursor = conn.cursor()
 
     cursor.execute("""
-        SELECT mText
+        SELECT lID, mText
         FROM Main
         WHERE mText IS NOT NULL
-        ORDER BY lDate DESC
+        ORDER BY lID DESC
         LIMIT 1
     """)
 
@@ -39,67 +63,69 @@ def get_ditto_text():
     conn.close()
 
     if row:
-        return row[0]
-    return ""
+        clip_id, text = row
+
+        if clip_id > last_id:
+            last_id = clip_id
+            return text
+
+    return None
 
 
+def process_prompt(prompt):
 
+    print("\nPrompt captured from clipboard.\n")
 
+    with open(PROMPT_FILE, "w", encoding="utf-8") as f:
+        f.write(prompt)
 
-def get_clipboard_text():
-    win32clipboard.OpenClipboard()
-    data = win32clipboard.GetClipboardData()
-    win32clipboard.CloseClipboard()
-    return data
+    print("PROMPT SENT TO MODEL:\n")
+    print(prompt)
+    print("\nRunning model...\n")
+
+    response = client.chat.completions.create(
+        model="liquid/lfm-2.5-1.2b-thinking:free",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    answer = response.choices[0].message.content
+
+    with open(ANSWER_FILE, "w", encoding="utf-8") as f:
+        f.write(answer)
+
+    print("Model finished.")
+    print("Answer saved to:", ANSWER_FILE)
+    print("\nReady for next prompt.\n")
 
 
 def run_prompt():
     try:
-        # copy selected text
-        keyboard.press("ctrl")
-        keyboard.press("c")
-        keyboard.release("c")
-        keyboard.release("ctrl")
 
-        time.sleep(2)
+        print("\nHotkey detected. Reading clipboard...\n")
 
-        prompt = get_ditto_text()
+        prompt = get_clipboard_text()
 
-        # save prompt to file
-        with open(PROMPT_FILE, "w", encoding="utf-8") as f:
-            f.write(prompt)
+        if not prompt:
+            print("Clipboard is empty. Copy text first.\n")
+            return
 
-        print("PROMPT SENT TO MODEL:")
-        print(prompt)
-
-        response = client.chat.completions.create(
-            model="liquid/lfm-2.5-1.2b-thinking:free",
-            messages=[{"role": "user", "content": prompt}]
-        )
-
-        answer = response.choices[0].message.content
-
-        with open(ANSWER_FILE, "w", encoding="utf-8") as f:
-            f.write(answer)
-
-        print("Answer saved")
+        process_prompt(prompt)
 
     except Exception as e:
         print("Error:", e)
 
-
-keyboard.add_hotkey("alt+shift+p", run_prompt)
-
-print("Listening...")
+keyboard.add_hotkey("alt+ctrl+space", run_prompt)
 
 keyboard.wait()
 
-"""
-India is a democratic country ?
-"""
+
+
+""" 
+India is a democratic country ? 
+""" 
 
 
 
-"""
-again incoorect answer
+""" 
+again incoorect answer 
 """
