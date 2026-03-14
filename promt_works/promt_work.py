@@ -5,7 +5,7 @@ import time
 from openai import OpenAI
 
 
-API_KEY = "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"
+API_KEY = "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"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
@@ -67,3 +67,6 @@ keyboard.wait()
 """
 India is a democratic country ?
 """
+
+
+
