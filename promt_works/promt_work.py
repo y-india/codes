@@ -16,6 +16,36 @@ PROMPT_FILE = "promt_works/temp_promt.txt"
 ANSWER_FILE = "promt_works/temp_answer.txt"
 
 
+
+
+
+import sqlite3
+
+DITTO_DB = r"C:\Users\User\AppData\Roaming\Ditto\Ditto.db"
+
+def get_ditto_text():
+    conn = sqlite3.connect(DITTO_DB)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        SELECT mText
+        FROM Main
+        WHERE mText IS NOT NULL
+        ORDER BY lDate DESC
+        LIMIT 1
+    """)
+
+    row = cursor.fetchone()
+    conn.close()
+
+    if row:
+        return row[0]
+    return ""
+
+
+
+
+
 def get_clipboard_text():
     win32clipboard.OpenClipboard()
     data = win32clipboard.GetClipboardData()
@@ -33,7 +63,7 @@ def run_prompt():
 
         time.sleep(2)
 
-        prompt = get_clipboard_text()
+        prompt = get_ditto_text()
 
         # save prompt to file
         with open(PROMPT_FILE, "w", encoding="utf-8") as f:
@@ -70,3 +100,6 @@ India is a democratic country ?
 
 
 
+"""
+again incoorect answer
+"""
