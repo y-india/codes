@@ -4,10 +4,32 @@ import sqlite3
 from openai import OpenAI
 
 
-API_KEY = "YOUR_KEY"
+API_KEY = 1
+
+if API_KEY == 1:
+    print("Please set your API key in the code.")
+    exit(1)
 
 
 import win32clipboard
+
+
+
+def show_instructions():
+    print("\n=== PROMPT LISTENER STARTED ===\n")
+
+    print("User workflow:\n")
+
+    print("1. Select text anywhere in Windows")
+    print("2. Press CTRL + C")
+    print("3. Press ALT + CTRL + SPACE")
+    print("4. Script sends prompt to model")
+    print("5. Answer saved to file\n")
+
+    print("Prompt file :", PROMPT_FILE)
+    print("Answer file :", ANSWER_FILE)
+
+    print("\nWaiting for hotkey...\n")
 
 def get_clipboard_text():
     win32clipboard.OpenClipboard()
@@ -81,14 +103,20 @@ def process_prompt(prompt):
 
     print("PROMPT SENT TO MODEL:\n")
     print(prompt)
-    print("\nRunning model...\n")
+    print("\nRunning model with reasoning...\n")
 
     response = client.chat.completions.create(
-        model="liquid/lfm-2.5-1.2b-thinking:free",
-        messages=[{"role": "user", "content": prompt}]
+        model="openrouter/hunter-alpha",
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        extra_body={
+            "reasoning": {"enabled": True}
+        }
     )
 
-    answer = response.choices[0].message.content
+    message = response.choices[0].message
+    answer = message.content
 
     with open(ANSWER_FILE, "w", encoding="utf-8") as f:
         f.write(answer)
@@ -114,6 +142,10 @@ def run_prompt():
     except Exception as e:
         print("Error:", e)
 
+
+
+show_instructions()
+
 keyboard.add_hotkey("alt+ctrl+space", run_prompt)
 
 keyboard.wait()
@@ -129,3 +161,4 @@ India is a democratic country ?
 """ 
 again incoorect answer 
 """
+

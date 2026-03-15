@@ -1,1 +1,1 @@
-keyboard.add_hotkey("alt+shift+p", run_prompt)
+India is a democratic country ? 
