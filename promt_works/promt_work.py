@@ -2,16 +2,17 @@ import keyboard
 import time
 import sqlite3
 from openai import OpenAI
+import win32clipboard
+
 
 
 API_KEY = 1
-
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)
 
 
-import win32clipboard
+
 
 
 
@@ -50,48 +51,10 @@ client = OpenAI(
 PROMPT_FILE = "promt_works/temp_promt.txt"
 ANSWER_FILE = "promt_works/temp_answer.txt"
 
-DITTO_DB = r"C:\Users\User\AppData\Roaming\Ditto\Ditto.db"
 
 
-def get_latest_id():
-    conn = sqlite3.connect(DITTO_DB)
-    cursor = conn.cursor()
-
-    cursor.execute("SELECT lID FROM Main ORDER BY lID DESC LIMIT 1")
-    row = cursor.fetchone()
-
-    conn.close()
-    return row[0] if row else 0
 
 
-last_id = get_latest_id()
-
-
-def get_ditto_text():
-    global last_id
-
-    conn = sqlite3.connect(DITTO_DB)
-    cursor = conn.cursor()
-
-    cursor.execute("""
-        SELECT lID, mText
-        FROM Main
-        WHERE mText IS NOT NULL
-        ORDER BY lID DESC
-        LIMIT 1
-    """)
-
-    row = cursor.fetchone()
-    conn.close()
-
-    if row:
-        clip_id, text = row
-
-        if clip_id > last_id:
-            last_id = clip_id
-            return text
-
-    return None
 
 
 def process_prompt(prompt):

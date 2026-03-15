@@ -1,13 +1,17 @@
-Yes, India is a democratic country — and it's the world's largest democracy by population.
+Yes, India is a democratic republic. This is defined in its Constitution, adopted in 1950, which establishes India as a "Sovereign Socialist Secular Democratic Republic."
 
-India became a democratic republic on January 26, 1950, when its Constitution came into effect. Key features of Indian democracy include:
+Key features of its democratic system include:
 
-- **Parliamentary system** with a President as head of state and a Prime Minister as head of government
-- **Universal adult suffrage** — every citizen over 18 (originally 21, lowered to 18 in 1988) can vote
-- **Multi-party elections** held regularly at national, state, and local levels
-- **Independent judiciary** with the Supreme Court at its apex
-- **Federal structure** that divides power between the central government and states
+1. **Universal Adult Suffrage** – All citizens over 18 (originally 21) have the right to vote, regardless of religion, caste, gender, or economic status.
+2. **Regular Elections** – Multi-party parliamentary elections at national and state levels, managed by an independent Election Commission.
+3. **Parliamentary System** – Based on the Westminster model, with a President as ceremonial head of state and a Prime Minister as head of government.
+4. **Independent Judiciary** – With the Supreme Court at its apex, empowered for judicial review.
+5. **Federal Structure** – With powers divided between the central government and states.
+6. **Fundamental Rights** – Guaranteed in Part III of the Constitution.
 
-With over 900 million eligible voters, India's elections are among the largest democratic exercises in the world. The Election Commission of India oversees the process.
+India is often called the world’s largest democracy by population. It has held regular national elections since 1952, with peaceful transfers of power between parties.
 
-India's democratic journey began with its independence from British rule in 1947 and has continued through regular, peaceful transfers of power over the decades. Is there a specific aspect of Indian democracy you'd like to know more about?
+**Context and debate:**  
+Some contemporary discussions note concerns about democratic backsliding—such as erosion of press freedom, minority rights, and institutional independence—while others point to its resilient electoral processes, vibrant civil society, and strong federalism as signs of democratic vitality. The 2023 V-Dem Institute report labeled India an "electoral autocracy," a classification the Indian government disputes, calling it biased.
+
+In summary: constitutionally and structurally, India is a democracy. The quality and trajectory of its democracy, however, are actively debated in academic and policy circles.
