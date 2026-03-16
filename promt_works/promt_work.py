@@ -5,7 +5,7 @@ import win32clipboard
 
 
 
-API_KEY = "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"
+API_KEY = "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"
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)
@@ -113,15 +113,14 @@ def process_prompt(prompt):
 
     improved_prompt = improve_prompt(prompt)
 
-    with open(ANSWER_FILE, "w", encoding="utf-8") as f:
-        f.write(improved_prompt)
+    with open(ANSWER_FILE, "a", encoding="utf-8") as f:
+        f.write(improved_prompt + "\n\n")
 
     print("IMPROVED PROMPT:\n")
     print(improved_prompt)
 
     print("\nSaved to:", ANSWER_FILE)
     print("\nReady for next prompt.\n")
-
 
 
 
@@ -167,5 +166,10 @@ keyboard.wait()
 
 
 """ 
-who i can connect with pm of india??
+what will happen if plant remove form earth in one secondd ???
 """ 
+
+
+"""
+pakistan popluation who much in 2024 ??
+"""
