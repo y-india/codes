@@ -6,12 +6,14 @@ import win32clipboard
 
 
 
-API_KEY = 1
+API_KEY = "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"
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)
 
 
+PROMPT_FILE = "promt_works/temp_promt.txt"
+ANSWER_FILE = "promt_works/temp_answer.md"
 
 
 
@@ -47,10 +49,6 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=API_KEY,
 )
-
-PROMPT_FILE = "promt_works/temp_promt.txt"
-ANSWER_FILE = "promt_works/temp_answer.txt"
-
 
 
 
@@ -116,12 +114,5 @@ keyboard.wait()
 
 
 """ 
-India is a democratic country ? 
+Is Iran's economy growing or shrinking? What are the main factors contributing to this trend? answer in 5 points
 """ 
-
-
-
-""" 
-again incoorect answer 
-"""
-
