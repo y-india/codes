@@ -1,19 +1,18 @@
 import keyboard
 import time
-import sqlite3
 from openai import OpenAI
 import win32clipboard
 
 
 
-API_KEY = "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"
+API_KEY = "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"
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)
 
 
 PROMPT_FILE = "promt_works/temp_promt.txt"
-ANSWER_FILE = "promt_works/temp_answer.md"
+ANSWER_FILE = "promt_works/better_promt.md"
 
 
 
@@ -34,6 +33,11 @@ def show_instructions():
 
     print("\nWaiting for hotkey...\n")
 
+
+
+
+
+
 def get_clipboard_text():
     win32clipboard.OpenClipboard()
     try:
@@ -42,6 +46,9 @@ def get_clipboard_text():
         win32clipboard.CloseClipboard()
 
     return data
+
+# 
+
 
 
 
@@ -55,36 +62,82 @@ client = OpenAI(
 
 
 
-def process_prompt(prompt):
 
-    print("\nPrompt captured from clipboard.\n")
 
-    with open(PROMPT_FILE, "w", encoding="utf-8") as f:
-        f.write(prompt)
 
-    print("PROMPT SENT TO MODEL:\n")
-    print(prompt)
-    print("\nRunning model with reasoning...\n")
+
+
+
+def improve_prompt(prompt):
+    words = prompt.split()
+    word_count = len(words)
+    limit = word_count * 3
+
+    instruction = f"""
+Rewrite the user's prompt to make it clearer and more effective.
+Do not change the intent.
+
+Constraints:
+- Maximum {limit} words
+- Keep meaning same
+- Make it clearer and more specific
+- Return ONLY the improved prompt.
+
+User prompt:
+{prompt}
+"""
 
     response = client.chat.completions.create(
         model="openrouter/hunter-alpha",
         messages=[
-            {"role": "user", "content": prompt}
-        ],
-        extra_body={
-            "reasoning": {"enabled": True}
-        }
+            {"role": "user", "content": instruction}
+        ]
     )
 
-    message = response.choices[0].message
-    answer = message.content
+    improved_prompt = response.choices[0].message.content.strip()
+    return improved_prompt
+
+
+
+
+
+
+
+
+
+
+
+def process_prompt(prompt):
+
+    print("\nPrompt captured from clipboard.\n")
+
+    improved_prompt = improve_prompt(prompt)
 
     with open(ANSWER_FILE, "w", encoding="utf-8") as f:
-        f.write(answer)
+        f.write(improved_prompt)
 
-    print("Model finished.")
-    print("Answer saved to:", ANSWER_FILE)
+    print("IMPROVED PROMPT:\n")
+    print(improved_prompt)
+
+    print("\nSaved to:", ANSWER_FILE)
     print("\nReady for next prompt.\n")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 def run_prompt():
@@ -114,5 +167,5 @@ keyboard.wait()
 
 
 """ 
-Is Iran's economy growing or shrinking? What are the main factors contributing to this trend? answer in 5 points
+who i can connect with pm of india??
 """ 
