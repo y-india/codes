@@ -5,7 +5,7 @@ import win32clipboard
 
 
 
-API_KEY = "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"
+API_KEY = "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"
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)
@@ -172,4 +172,8 @@ what will happen if plant remove form earth in one secondd ???
 
 """
 pakistan popluation who much in 2024 ??
+"""
+
+"""
+give me code to connvert this txt file into md 
 """
