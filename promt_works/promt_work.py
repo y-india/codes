@@ -5,7 +5,7 @@ import win32clipboard
 
 
 
-API_KEY = "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"
+API_KEY = "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"
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)

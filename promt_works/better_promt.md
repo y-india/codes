@@ -14,3 +14,7 @@ Create detailed notes summarizing the key points, themes, and important details 
 
 Produce structured, detailed notes analyzing the first seven chapters of the provided text. Include: 1) Core themes and arguments, 2) Key points and supporting evidence, 3) Significant characters, events, or concepts, 4) Notable details essential for understanding. Ensure comprehensive, organized summaries for each chapter.
 
+Provide a comprehensive and detailed response.
+
+You provided an excellent, clear, and detailed response.
+
