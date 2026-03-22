@@ -18,3 +18,22 @@ Provide a comprehensive and detailed response.
 
 You provided an excellent, clear, and detailed response.
 
+---NEW MODEL OF NEVIDEA--
+
+Convert the text file to Markdown format using code.
+
+Write Python code that converts .txt files to .md format. The code must handle both a single input file and all .txt files within a specified folder. For each converted file, add the line "### This file is converted from txt to md ###" at the very beginning and the line "### End of file ###" at the very end. The code should preserve all original content from the .txt file between these added lines.
+
+Generate a secure API key using NVAPI.
+
+Write a Python script that converts text files to Markdown format. The script must handle two distinct use cases:
+1.  Converting a single, user-specified `.txt` file.
+2.  Batch converting all `.txt` files within a user-specified directory.
+
+For each converted `.txt` file, create a new `.md` file with the same base name in the same location. The new file's content must be structured as follows:
+*   The first line must be: `### This file is converted from txt to md ###`
+*   The entire, unaltered original content of the `.txt` file must follow.
+*   The final line must be: `### End of file ###`
+
+The script should be robust, using `argparse` or similar for clear command-line argument handling. It must gracefully handle errors such as invalid file paths, read/write permission issues, and non-text files. Include clear logging or console output to confirm each successful conversion and report any failures. Ensure the original `.txt` files remain untouched.
+

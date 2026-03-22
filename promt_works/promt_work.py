@@ -5,7 +5,7 @@ import win32clipboard
 
 
 
-API_KEY = "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"
+API_KEY = "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"
 if API_KEY == 1:
     print("Please set your API key in the code.")
     exit(1)
@@ -51,55 +51,49 @@ def get_clipboard_text():
 
 
 
-
 client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=API_KEY,
+    base_url="https://integrate.api.nvidia.com/v1",
+    api_key=API_KEY
 )
-
-
-
-
-
-
-
-
-
-
-
 
 def improve_prompt(prompt):
     words = prompt.split()
     word_count = len(words)
-    limit = word_count * 3
+    limit = word_count * 5
 
     instruction = f"""
-Rewrite the user's prompt to make it clearer and more effective.
-Do not change the intent.
+Rewrite the user’s prompt to make it clearer, more precise, and better structured for a coder or corporate professional.
+Do not change the original intent.
+Return only the improved prompt with no explanations or extra text.
+Keep the meaning unchanged while adding relevant detail and specificity.
+Limit the response to {limit} words.
 
-Constraints:
-- Maximum {limit} words
-- Keep meaning same
-- Make it clearer and more specific
-- Return ONLY the improved prompt.
 
 User prompt:
 {prompt}
 """
 
-    response = client.chat.completions.create(
-        model="openrouter/hunter-alpha",
-        messages=[
-            {"role": "user", "content": instruction}
-        ]
+    completion = client.chat.completions.create(
+        model="deepseek-ai/deepseek-v3.2",
+        messages=[{"role": "user", "content": instruction}],
+        temperature=0.7,
+        top_p=0.95,
+        max_tokens=512,
+        stream=True
     )
 
-    improved_prompt = response.choices[0].message.content.strip()
-    return improved_prompt
+    improved_prompt = ""
 
+    for chunk in completion:
+        if not getattr(chunk, "choices", None):
+            continue
 
+        delta = chunk.choices[0].delta
 
+        if delta.content:
+            improved_prompt += delta.content
 
+    return improved_prompt.strip()
 
 
 
@@ -175,5 +169,7 @@ pakistan popluation who much in 2024 ??
 """
 
 """
-give me code to connvert this txt file into md 
+give me code to connvert this txt file into md , i have many files , so code will be working also on folder , but some time in only single file 
+and also i want to add some extra line in start and end of file and they are same for all files 
+start line is "### This file is converted from txt to md ###" and end line is "### End of file ###"
 """
