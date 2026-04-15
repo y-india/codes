@@ -20,7 +20,7 @@ url = "https://raw.githubusercontent.com/y-india/images_hosting/main/all_billion
 
 # choose your folder
 folder = r"billion_anaysis"
-filename = "all_billionaires.txt"
+filename = "../all_billionaires.txt"
 
 # create folder if it doesn't exist
 os.makedirs(folder, exist_ok=True)
