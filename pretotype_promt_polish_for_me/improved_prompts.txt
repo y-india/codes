@@ -1,0 +1,36 @@
+
+--- Original ---
+Create a code using the three provided info codes. The code should have the following features:
+
+* It can be run as a file on a local device
+
+* When run, it takes a prompt as input and converts it into a better prompt
+
+* The conversion process should be triggered by the following keyboard shortcuts: 
+
+  * Ctrl+C to initiate the conversion process
+
+  * Ctrl+Shift+Y to complete the conversion and display the better prompt
+--- Improved ---
+Create a code using the three provided info codes with the following features:
+* The code can be executed as a local file on a device
+* When executed, it:
+  * Accepts a prompt as input from the user
+  * Waits for a keyboard shortcut to initiate the conversion process
+  * Converts the input prompt into a better prompt when the following keyboard shortcuts are pressed:
+    * Ctrl+C to start the conversion process
+    * Ctrl+Shift+Y to finish the conversion and display the improved prompt
+
+--- Original ---
+great now 
+
+i want to ui as a pop up showing 
+
+my pormt and original promt below 
+
+take reference from this file
+--- Improved ---
+Create a user interface (UI) that displays as a pop-up. The pop-up should show:
+* Your prompt
+* The original prompt below it
+Use the provided file as a reference to complete this task.

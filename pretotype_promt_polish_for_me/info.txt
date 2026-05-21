@@ -1,0 +1,36 @@
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+
+
+
+def improve_prompt(text):
+    instruction = f"""
+Rewrite the given prompt to make it clearer, more specific, and easier for a beginner-level coder or data learner to understand.
+
+Strict Rules:
+1. Do NOT answer the original prompt.
+2. Do NOT explain the prompt.
+3. Do NOT add extra commentary, notes, examples, or opinions.
+4. Keep the original intent, meaning, and goal exactly the same.
+5. Improve clarity, structure, and precision.
+6. Use simple, direct, beginner-friendly language.
+7. Convert vague instructions into practical and actionable wording.
+8. Use step-by-step format or bullet points if it improves readability.
+9. Ensure the output is only a rewritten version of the prompt.
+10. Prevent generating solutions, explanations, or unrelated text.
+
+Output Requirements:
+- Return only the rewritten prompt.
+- Keep it concise, complete, and easy to follow.
+
+Prompt:
+{text}
+"""
+
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[{"role": "user", "content": instruction}]
+    )
+
+    return response.choices[0].message.content.strip()
+
