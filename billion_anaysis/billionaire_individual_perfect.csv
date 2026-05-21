@@ -1,0 +1,3375 @@
+name,age,net_worth_million_usd,industries,country,self_made,gender
+Elon Musk,54,800629.06,Technology,United States,True,M
+Larry Page,53,260898.2,Technology,United States,True,M
+Jeff Bezos,62,248778.91,Technology,United States,True,M
+Sergey Brin,52,240743.24,Technology,United States,True,M
+Mark Zuckerberg,41,216089.31,Technology,United States,True,M
+Larry Ellison,81,179055.65,Technology,United States,True,M
+Jensen Huang,63,163293.01,Technology,United States,True,M
+Michael Dell,61,158994.27,Technology,United States,True,M
+Bernard Arnault & family,77,151350.62,Fashion & Retail,France,False,M
+Rob Walton & family,81,144971.96,Fashion & Retail,United States,False,M
+Jim Walton & family,77,142247.62,Fashion & Retail,United States,False,M
+Warren Buffett,95,142093.85,Finance & Investments,United States,True,M
+Amancio Ortega,90,140357.23,Fashion & Retail,Spain,True,M
+Alice Walton,76,133082.98,Fashion & Retail,United States,False,F
+Carlos Slim Helu & family,86,127464.49,Telecom,Mexico,True,M
+Steve Ballmer,70,120811.14,Technology,United States,True,M
+Changpeng Zhao,49,109705.71,Finance & Investments,Canada,True,M
+Michael Bloomberg,84,109419.0,Finance & Investments,United States,True,M
+Bill Gates,70,104126.09,Technology,United States,True,M
+Mukesh Ambani,69,94836.79,Diversified,India,False,M
+Francoise Bettencourt Meyers & family,72,90753.04,Fashion & Retail,France,False,F
+Giancarlo Devasini,61,89300.0,Finance & Investments,Italy,True,M
+Thomas Peterffy,81,82887.12,Finance & Investments,United States,True,M
+Julia Koch & family,64,81190.0,Diversified,United States,False,F
+Charles Koch & family,90,73790.0,Diversified,United States,False,M
+Zhang Yiming,42,69300.0,Technology,China,True,M
+Gautam Adani,63,67638.76,Diversified,India,True,M
+Zhong Shanshan,71,67610.16,Food & Beverage,China,True,M
+Jeff Yass,67,67435.0,Finance & Investments,United States,True,M
+Tadashi Yanai & family,77,65629.54,Fashion & Retail,Japan,True,M
+Dieter Schwarz,86,65613.88,Fashion & Retail,Germany,False,M
+Robin Zeng,57,64437.41,Energy,Hong Kong,True,M
+Germán Larrea Mota Velasco & family,72,63005.06,Metals & Mining,Mexico,False,M
+Ma Huateng,54,52677.16,Technology,China,True,M
+Ken Griffin,57,49939.31,Finance & Investments,United States,True,M
+Lukas Walton,39,48594.89,Fashion & Retail,United States,False,M
+Giovanni Ferrero,61,48250.76,Food & Beverage,Italy,False,M
+Iris Fontbona & family,83,48189.51,Metals & Mining,Chile,False,F
+Li Ka-shing,97,47305.38,Diversified,Hong Kong,True,M
+Masayoshi Son,68,47075.27,Finance & Investments,Japan,True,M
+Jacqueline Mars,86,46717.78,Food & Beverage,United States,False,F
+John Mars,90,46717.78,Food & Beverage,United States,False,M
+Mark Mateschitz,33,45315.49,Food & Beverage,Austria,False,M
+Gianluigi Aponte,85,44608.52,Logistics,Switzerland,True,M
+Rafaela Aponte-Diamant,81,44608.52,Logistics,Switzerland,True,F
+Andrea Pignataro,55,42185.67,Finance & Investments,Italy,True,M
+Klaus-Michael Kuehne,88,40279.72,Logistics,Germany,False,M
+Alain Wertheimer,77,39423.25,Fashion & Retail,France,False,M
+Gerard Wertheimer,75,39423.25,Fashion & Retail,France,False,M
+Thomas Frist Jr & family,87,38747.99,Healthcare,United States,True,M
+Stephen Schwarzman,79,38658.28,Finance & Investments,United States,True,M
+Savitri Jindal & family,76,38035.79,Metals & Mining,India,False,F
+Jean-Louis van der Velde,62,38000.0,Finance & Investments,Netherlands,True,M
+Paolo Ardoino,41,38000.0,Finance & Investments,Italy,True,M
+William Ding,54,37243.57,Technology,China,True,M
+Alexey Mordashov & family,60,36946.33,Metals & Mining,Russia,True,M
+Miriam Adelson & family,80,36238.48,Gambling & Casinos,United States,False,F
+Eric Schmidt,71,35965.55,Technology,United States,True,M
+Zheng Shuliang & family,80,35372.17,Metals & Mining,China,False,F
+Colin Huang,46,35303.51,Technology,China,True,M
+Henry Samueli,71,35247.34,Technology,United States,True,M
+Eduardo Saverin,44,34913.38,Technology,Brazil,True,M
+Eyal Ofer,75,34533.51,Diversified,Israel,False,M
+Idan Ofer,70,33366.41,Diversified,Israel,False,M
+He Xiangjian & family,83,32700.13,Manufacturing,China,True,M
+Marilyn Simons & family,75,32548.96,Finance & Investments,United States,False,F
+Abigail Johnson,64,31979.84,Finance & Investments,United States,False,F
+Robert Pera,48,31674.24,Technology,United States,True,M
+Shiv Nadar,80,31498.72,Technology,India,True,M
+Lyndal Stephens Greth & family,51,31464.18,Energy,United States,False,F
+Len Blavatnik,68,31391.15,Diversified,United States,True,M
+Elaine Marshall & family,83,30930.0,Diversified,United States,False,F
+MacKenzie Scott,56,30873.33,Technology,United States,False,F
+Michal Strnad,33,30790.26,Manufacturing,Czech Republic,False,M
+Andreas von Bechtolsheim & family,70,30506.52,Technology,Germany,True,M
+Melinda French Gates,61,30134.59,Technology,United States,False,F
+Vladimir Potanin,65,29740.3,Metals & Mining,Russia,True,M
+Huang Shilin,59,29498.58,Energy,China,True,M
+Vagit Alekperov,75,29475.06,Energy,Russia,True,M
+Lakshmi Mittal,75,29151.47,Metals & Mining,India,False,M
+Stefan Quandt,59,28746.18,Automotive,Germany,False,M
+François Pinault & family,89,28704.83,Fashion & Retail,France,True,M
+Susanne Klatten,63,28664.33,Automotive,Germany,False,F
+Aliko Dangote,69,28643.73,Manufacturing,Nigeria,True,M
+Leonid Mikhelson & family,70,28301.37,Energy,Russia,True,M
+Reinhold Wuerth & family,91,27688.36,Manufacturing,Germany,True,M
+Jack Ma,61,27639.87,Technology,China,True,M
+Peter Thiel,58,27531.39,Finance & Investments,United States,True,M
+Emmanuel Besnier,55,26490.54,Food & Beverage,France,False,M
+Vicky Safra & family,73,26417.9,Finance & Investments,Greece,False,F
+Cyrus Poonawalla,84,26179.47,Healthcare,India,False,M
+Rick Cohen & family,73,25934.91,Technology,United States,False,M
+Israel Englander,77,25766.5,Finance & Investments,United States,True,M
+Suleiman Kerimov & family,60,25662.2,Finance & Investments,Russia,True,M
+Pham Nhat Vuong,57,25634.55,Diversified,Vietnam,True,M
+Vladimir Lisin,69,25532.47,Metals & Mining,Russia,True,M
+Gina Rinehart,72,25235.2,Metals & Mining,Australia,False,F
+Phil Knight & family,88,25156.45,Fashion & Retail,United States,True,M
+Dang Yanbao,53,25002.83,Metals & Mining,China,True,M
+Lei Jun,56,24707.3,Technology,China,True,M
+Stuart Hoegner,65,24700.0,Finance & Investments,Canada,True,M
+Jay Y. Lee,57,24563.79,Technology,South Korea,False,M
+Wang Chuanfu,60,24357.99,Automotive,China,True,M
+Gennady Timchenko,73,24165.65,Energy,Russia,True,M
+Christy Walton,77,24108.43,Fashion & Retail,United States,False,F
+Dilip Shanghvi,70,24099.98,Healthcare,India,True,M
+Daniel Gilbert,64,24076.81,Finance & Investments,United States,True,M
+Prajogo Pangestu,81,23834.81,Diversified,Indonesia,True,M
+David Tepper,68,23687.0,Finance & Investments,United States,True,M
+Harry Triguboff,93,23162.1,Real Estate,Australia,True,M
+Steve Cohen,69,22978.74,Finance & Investments,United States,True,M
+Henry Nicholas III,66,22966.87,Technology,United States,True,M
+Rupert Murdoch & family,95,22794.18,Media & Entertainment,United States,False,M
+Diane Hendricks,79,22332.9,Construction & Engineering,United States,True,F
+Stefan Persson,78,22292.64,Fashion & Retail,Sweden,False,M
+Stanley Kroenke,78,22238.5,Sports,United States,True,M
+Todd Graves,54,21983.0,Food & Beverage,United States,True,M
+Yu Yong,65,21840.41,Finance & Investments,China,True,M
+Eric Li,62,21753.08,Automotive,China,True,M
+Vinod Adani,77,21564.64,Diversified,Cyprus,True,M
+Ernest Garcia II,68,21555.48,Automotive,United States,True,M
+Chen Tianshi,41,21269.9,Technology,China,True,M
+John Fredriksen,81,21034.42,Logistics,Cyprus,True,M
+Michael Platt,58,20901.0,Finance & Investments,United Kingdom,True,M
+Kumar Birla,58,20827.85,Diversified,India,False,M
+Prince Alwaleed Bin Talal Alsaud,71,20826.38,Finance & Investments,Saudi Arabia,True,M
+John Doerr,74,20632.84,Finance & Investments,United States,True,M
+Zhong Huijuan,65,20618.31,Healthcare,China,True,F
+Andrey Melnichenko & family,54,20422.09,Metals & Mining,Russia,True,M
+Renata Kellnerova & family,58,19994.65,Finance & Investments,Czech Republic,False,F
+Kwong Siu-hing,96,19946.78,Real Estate,Hong Kong,False,F
+Jerry Jones & family,83,19873.61,Sports,United States,True,M
+Nancy Walton Laurie,74,19842.37,Fashion & Retail,United States,False,F
+John Tu,84,19822.0,Technology,United States,True,M
+David Sun,74,19798.21,Technology,United States,True,M
+Andrew Forrest & family,64,19542.14,Metals & Mining,Australia,True,M
+Philip Anschutz,86,19401.0,Finance & Investments,United States,False,M
+Qin Yinglin,61,19289.63,Food & Beverage,China,True,M
+Lu Xiangyang,63,19224.02,Automotive,China,True,M
+Donald Bren,93,19212.09,Real Estate,United States,True,M
+Brett Adcock,40,19104.43,Technology,United States,True,M
+Takemitsu Takizaki,80,18922.79,Manufacturing,Japan,True,M
+Dhanin Chearavanont,87,18826.25,Diversified,Thailand,False,M
+Jorge Paulo Lemann & family,86,18823.95,Food & Beverage,Brazil,True,M
+Beate Heister,75,18803.0,Fashion & Retail,Germany,False,F
+Karl Albrecht Jr. & family,78,18803.0,Fashion & Retail,Germany,False,M
+Nik Storonsky,41,18750.0,Finance & Investments,United Kingdom,True,M
+Chen Jianhua,55,18628.54,Manufacturing,China,True,M
+Wang Weixiu & family,75,18384.85,Manufacturing,China,True,M
+Torstein Hagen,83,18230.49,Service,Norway,True,M
+James Ratcliffe,73,18223.74,Manufacturing,United Kingdom,True,M
+Ludwig Merckle,61,18090.4,Finance & Investments,Germany,False,M
+R. Budi Hartono,86,18027.05,Finance & Investments,Indonesia,False,M
+Charles Ergen,73,18006.46,Media & Entertainment,United States,True,M
+Edwin Chen,38,18000.0,Technology,United States,True,M
+Eric Smidt,66,17923.0,Fashion & Retail,United States,True,M
+Theo Albrecht Jr & family,75,17751.93,Fashion & Retail,Germany,False,M
+Nathan Kirsh,94,17618.62,Fashion & Retail,Eswatini (Swaziland),True,M
+Alejandro Baillères Gual & family,64,17588.46,Diversified,Mexico,False,M
+John Collison,35,17490.0,Technology,Ireland,True,M
+Patrick Collison,37,17490.0,Technology,Ireland,True,M
+Radhakishan Damani,71,17453.6,Fashion & Retail,India,True,M
+Low Tuck Kwong,78,17430.34,Energy,Indonesia,True,M
+John Menard Jr,86,17289.51,Fashion & Retail,United States,True,M
+Pei Zhenhua,67,17227.6,Energy,China,True,M
+Jan Koum,50,17023.05,Technology,United States,True,M
+Stephen Ross,85,16982.71,Real Estate,United States,True,M
+Arthur Dantchik,68,16877.0,Finance & Investments,United States,True,M
+Sarath Ratanavadi,60,16874.31,Energy,Thailand,True,M
+Anders Holch Povlsen,53,16685.41,Fashion & Retail,Denmark,False,M
+Georg Schaeffler,61,16676.82,Automotive,Germany,False,M
+Wang Wei,55,16477.1,Service,China,True,M
+Mikhail Fridman,62,16440.85,Energy,Russia,True,M
+Brad Jacobs,69,16292.67,Logistics,United States,True,M
+Enrique Razon Jr.,66,16084.31,Logistics,Philippines,False,M
+Peter Mallouk,56,16082.0,Finance & Investments,United States,True,M
+Charlene de Carvalho-Heineken & family,71,16075.34,Food & Beverage,Netherlands,False,F
+George Kaiser,83,16033.2,Energy,United States,False,M
+Harold Hamm & family,80,16000.0,Energy,United States,True,M
+Zhang Zhidong,54,15743.12,Technology,China,True,M
+Zou Zhinong & family,58,15540.41,Manufacturing,China,True,M
+Ray Dalio,76,15383.97,Finance & Investments,United States,True,M
+Friedhelm Loh,79,15293.29,Manufacturing,Germany,False,M
+Johann Rupert & family,75,15292.45,Fashion & Retail,South Africa,False,M
+Hussain Sajwani,73,15284.97,Real Estate,United Arab Emirates,True,M
+Jaime Gilinski Bacal,68,15112.37,Finance & Investments,Colombia,False,M
+Xavier Niel & family,58,15088.96,Telecom,France,True,M
+Barry Lam,77,14995.51,Technology,Taiwan,True,M
+Donald Newhouse,96,14932.09,Media & Entertainment,United States,False,M
+James Dyson,78,14925.64,Manufacturing,United Kingdom,True,M
+Shahid Khan,75,14882.93,Automotive,United States,True,M
+Liu Debing,50,14845.92,Technology,China,True,M
+Zhou Qunfei & family,65,14806.31,Technology,Hong Kong,True,F
+Ann Walton Kroenke,77,14560.73,Fashion & Retail,United States,False,F
+David Velez & family,44,14524.68,Finance & Investments,Colombia,True,M
+Ralph Lauren & Family,86,14500.03,Fashion & Retail,United States,True,M
+Alisher Usmanov,72,14268.77,Metals & Mining,Russia,True,M
+Li Shuirong & family,69,14246.55,Manufacturing,China,True,M
+Joseph Lau,74,14246.24,Real Estate,Hong Kong,True,M
+Adam Foroughi,45,14210.91,Technology,United States,True,M
+Antonia Ax:son Johnson & family,82,14203.65,Diversified,Sweden,False,F
+Wang Liping & family,60,13951.34,Manufacturing,China,True,M
+Hamdi Ulukaya,53,13933.39,Food & Beverage,Turkey,True,M
+Jason Chang,82,13927.52,Manufacturing,Singapore,True,M
+Ivan Glasenberg,69,13918.81,Metals & Mining,Switzerland,True,M
+Robert Kuok,102,13911.46,Diversified,Malaysia,True,M
+Sunil Mittal,68,13895.16,Telecom,India,True,M
+Robert Kraft,84,13841.58,Sports,United States,True,M
+Andre Esteves,57,13814.41,Finance & Investments,Brazil,True,M
+Dmitri Bukhman,40,13560.54,Media & Entertainment,Israel,True,M
+Igor Bukhman,44,13560.54,Media & Entertainment,Israel,True,M
+Laurene Powell Jobs,62,13536.72,Technology,United States,False,F
+Jack Dangermond,80,13507.18,Technology,United States,True,M
+Peter Woo,79,13405.67,Real Estate,Hong Kong,False,M
+Zhu Yi,62,13303.6,Healthcare,China,True,M
+Robert Duggan,82,13274.05,Healthcare,United States,True,M
+David Reuben,87,13245.27,Real Estate,United Kingdom,True,M
+Simon Reuben,85,13245.27,Diversified,United Kingdom,True,M
+Dan Cathy,73,13236.97,Food & Beverage,United States,False,M
+Trudy Cathy White,70,13236.97,Food & Beverage,United States,False,F
+Bubba Cathy,72,13226.98,Food & Beverage,United States,False,M
+Edward Johnson IV,61,13194.03,Finance & Investments,United States,False,M
+Ken Fisher,75,13154.0,Finance & Investments,United States,True,M
+J. Christopher Reyes,72,13100.0,Food & Beverage,United States,True,M
+Jude Reyes,70,13100.0,Food & Beverage,United States,True,M
+Uday Kotak,67,13058.72,Finance & Investments,India,True,M
+Abdulsamad Rabiu,65,12996.22,Diversified,Nigeria,False,M
+Wang Laisheng,61,12993.61,Technology,Hong Kong,True,M
+Charles Schwab,88,12988.18,Finance & Investments,United States,True,M
+Terry Gou,75,12980.62,Technology,Taiwan,True,M
+Richard Kinder,81,12834.28,Energy,United States,True,M
+Orlando Bravo,55,12834.13,Finance & Investments,United States,True,M
+Michael Sabel,59,12766.4,Energy,United States,True,M
+Robert Pender,72,12766.4,Energy,United States,True,M
+George Roberts,82,12757.31,Finance & Investments,United States,True,M
+Joseph Tsai,62,12755.25,Technology,Canada,True,M
+Wang Laichun,58,12737.53,Technology,Hong Kong,True,F
+Sandra Ortega Mera,57,12600.11,Fashion & Retail,Spain,False,F
+Sun Piaoyang,67,12517.16,Healthcare,China,True,M
+David Steward,74,12412.19,Technology,United States,True,M
+Alexander Karp,58,12380.94,Technology,United States,True,M
+Andrew Beal,73,12373.63,Finance & Investments,United States,True,M
+Li Ping,58,12326.44,Energy,Hong Kong,True,M
+Cao Renxian,57,12300.32,Energy,China,True,M
+Chris Larsen,65,12278.04,Finance & Investments,United States,True,M
+Hasso Plattner & family,82,12277.58,Technology,Germany,True,M
+Yuan Fugen & family,75,12241.61,Manufacturing,China,True,M
+Wang Ning & family,39,12188.85,Media & Entertainment,China,True,M
+Leon Black,74,12142.01,Finance & Investments,United States,True,M
+Vinod Khosla,71,12105.24,Technology,United States,True,M
+Francine von Finck & family,81,12022.4,Finance & Investments,Germany,False,F
+Anthoni Salim,76,11997.76,Diversified,Indonesia,False,M
+Bruce Cheng,89,11997.35,Technology,Taiwan,True,M
+Viatcheslav Kantor,72,11953.66,Manufacturing,Russia,True,M
+Alexander Gerko,46,11943.92,Finance & Investments,United Kingdom,True,M
+Pierre Omidyar,58,11933.48,Technology,United States,True,M
+James Goodnight,83,11890.35,Technology,United States,True,M
+Jim Pattison,97,11837.49,Diversified,Canada,True,M
+Christopher Hohn,59,11830.0,Finance & Investments,United Kingdom,True,M
+Kushal Pal Singh,94,11780.38,Real Estate,India,False,M
+Henry Kravis,82,11728.64,Finance & Investments,United States,True,M
+Marijke Mars,61,11685.94,Food & Beverage,United States,False,F
+Pamela Mars,65,11685.94,Food & Beverage,United States,False,F
+Valerie Mars,67,11685.94,Food & Beverage,United States,False,F
+Victoria Mars,69,11685.94,Food & Beverage,United States,False,F
+Michael Federmann & family,82,11633.58,Technology,Israel,True,M
+Ernesto Bertarelli,60,11539.6,Healthcare,Switzerland,False,M
+Finn Rausing,71,11523.61,Food & Beverage,Sweden,False,M
+Jorn Rausing,66,11515.17,Food & Beverage,Sweden,False,M
+Kirsten Rausing,73,11515.17,Food & Beverage,Sweden,False,F
+Liang Wenfeng,41,11500.0,Technology,China,True,M
+Vikram Lal & family,84,11487.28,Automotive,India,False,M
+Dan Friedkin,61,11427.53,Automotive,United States,False,M
+Wei Jianjun & family,62,11385.65,Automotive,China,True,M
+Tilman Fertitta,68,11336.67,Food & Beverage,United States,True,M
+Zhang Hejun,74,11284.94,Manufacturing,China,True,M
+Nadia Thiele & family,50,11281.51,Finance & Investments,Germany,False,F
+Charlie Mills,64,11275.86,Healthcare,United States,False,M
+Liu Yongxing,77,11265.73,Service,China,True,M
+Rafael Del Pino,67,11227.2,Construction & Engineering,Spain,False,M
+Juan Carlos Escotet,66,11227.11,Finance & Investments,Venezuela,True,M
+Andreas Struengmann & family,76,11215.1,Healthcare,Germany,True,M
+Thomas Struengmann & family,76,11215.1,Healthcare,Germany,True,M
+Charoen Sirivadhanabhakdi & family,81,11211.23,Food & Beverage,Thailand,True,M
+Elizabeth Johnson,62,11208.72,Finance & Investments,United States,False,F
+Charles Butt,88,11136.6,Fashion & Retail,United States,False,M
+John Malone,85,11121.0,Media & Entertainment,United States,True,M
+Ravi Jaipuria,71,11087.98,Food & Beverage,India,False,M
+Qi Shi & family,56,11084.98,Technology,China,True,M
+Gabe Newell,63,11033.6,Media & Entertainment,United States,True,M
+Carrie Perrodo & family,75,11028.48,Energy,France,False,F
+Gong Hongjia & family,61,11027.78,Finance & Investments,Hong Kong,True,M
+Anthony Pratt,66,11021.41,Manufacturing,Australia,False,M
+Mikhail Prokhorov,60,10989.36,Finance & Investments,Russia,True,M
+Mark Stevens,66,10968.65,Finance & Investments,United States,True,M
+Sulaiman Al Habib,74,10948.87,Healthcare,Saudi Arabia,True,M
+Riley Bechtel & family,74,10889.14,Construction & Engineering,United States,False,M
+Johann Graf,79,10865.36,Gambling & Casinos,Austria,True,M
+Carl Cook,63,10832.49,Healthcare,United States,False,M
+Ramzi Musallam,57,10784.0,Finance & Investments,United States,True,M
+Andrei Guryev & family,66,10772.91,Manufacturing,Russia,True,M
+Lin Muqin & family,62,10764.96,Food & Beverage,China,True,M
+Francesco Gaetano Caltagirone,83,10761.71,Construction & Engineering,Italy,True,M
+Jeffery Hildebrand,67,10716.34,Energy,United States,True,M
+Thomas Schmidheiny,80,10640.14,Construction & Engineering,Switzerland,False,M
+German Khan,64,10606.4,Energy,Russia,True,M
+Nicky Oppenheimer & family,80,10583.5,Metals & Mining,South Africa,False,M
+Sherry Brydson,80,10570.03,Media & Entertainment,Canada,False,F
+Arthur Blank,83,10538.17,Sports,United States,True,M
+Martin Lorentzon,57,10454.61,Technology,Sweden,True,M
+Douglas Leone,68,10409.4,Finance & Investments,United States,True,M
+Randa Duncan Williams,64,10396.01,Energy,United States,False,F
+Jimmy Haslam,72,10335.12,Fashion & Retail,United States,False,M
+Leonid Fedun,70,10330.66,Energy,Russia,True,M
+Dannine Avara,62,10324.05,Energy,United States,False,F
+Zhou Chaonan,65,10316.02,Manufacturing,China,True,F
+Fernando Roberto Moreira Salles,79,10311.57,Diversified,Brazil,False,M
+Milane Frantz,56,10310.91,Energy,United States,False,F
+Ernest Garcia III,43,10296.87,Automotive,United States,False,M
+Theo Mueller,86,10283.94,Food & Beverage,Germany,False,M
+Magdalena Martullo-Blocher,57,10192.61,Manufacturing,Switzerland,False,F
+Karel Komarek,57,10179.29,Gambling & Casinos,Czech Republic,True,M
+Lin Bin,58,10161.53,Technology,United States,True,M
+Pang Kang,70,10128.06,Food & Beverage,China,True,M
+Luis Carlos Sarmiento,93,10100.18,Finance & Investments,Colombia,True,M
+Chen Tao & family,54,10075.69,Technology,China,True,M
+Tom Gores,61,10055.6,Finance & Investments,United States,True,M
+Pierre Chen,69,10049.65,Technology,Taiwan,True,M
+Daniel Kretinsky,50,10048.59,Energy,Czech Republic,True,M
+Robert F. Smith,63,10044.7,Finance & Investments,United States,True,M
+Scott Duncan,43,10028.22,Energy,United States,False,M
+Vincent Bolloré & family,74,10028.2,Finance & Investments,France,False,M
+David Cheriton,75,9966.84,Technology,Canada,True,M
+Dustin Moskovitz,41,9950.8,Technology,United States,True,M
+Michael Kim,62,9948.45,Finance & Investments,United States,True,M
+Josh Harris,61,9947.16,Finance & Investments,United States,True,M
+Blair Parry-Okeden,75,9922.47,Media & Entertainment,United States,False,F
+Harry Stine & family,84,9891.0,Food & Beverage,United States,True,M
+Tobi Lutke,45,9889.59,Technology,Canada,True,M
+Jim Kennedy,78,9873.73,Media & Entertainment,United States,False,M
+Li Xiting,75,9848.24,Healthcare,Singapore,True,M
+Tahir & family,74,9820.22,Diversified,Indonesia,True,M
+Graeme Hart,70,9820.19,Finance & Investments,New Zealand,True,M
+Antony Ressler,65,9816.4,Finance & Investments,United States,True,M
+Micky Arison,76,9815.48,Service,United States,False,M
+Viktor Vekselberg,69,9801.28,Diversified,Russia,True,M
+Pauline MacMillan Keinath,92,9781.15,Food & Beverage,United States,False,F
+Liang Wengen,69,9768.98,Manufacturing,China,True,M
+Iskander Makhmudov,62,9733.57,Metals & Mining,Russia,True,M
+Juan Roig,76,9674.5,Fashion & Retail,Spain,False,M
+Fredrik Lundberg,74,9603.44,Real Estate,Sweden,False,M
+Michael Rubin,53,9592.38,Fashion & Retail,United States,True,M
+Pedro Moreira Salles,66,9522.0,Diversified,Brazil,False,M
+Georg Stumpf,53,9517.63,Diversified,Austria,True,M
+Carl Bennet,74,9496.69,Finance & Investments,Sweden,True,M
+Yi Zheng,55,9481.58,Technology,China,True,M
+Anthony Bamford & family,80,9473.18,Construction & Engineering,United Kingdom,False,M
+Murali Divi & family,75,9441.16,Healthcare,India,True,M
+Yan Junjie,37,9439.49,Technology,China,True,M
+Daniel Ek,43,9395.85,Technology,Sweden,True,M
+Wu Jianshu,62,9357.32,Automotive,Hong Kong,True,M
+Ken Langone,90,9351.07,Finance & Investments,United States,True,M
+Law Kar Po,77,9351.01,Real Estate,Hong Kong,False,M
+Roman Abramovich & family,59,9345.62,Diversified,Russia,True,M
+Viktor Rashnikov,77,9307.8,Manufacturing,Russia,True,M
+Terrence Pegula,75,9287.0,Energy,United States,True,M
+Zhang Xuexin & family,78,9276.29,Metals & Mining,China,True,M
+David Geffen,83,9263.4,Media & Entertainment,United States,True,M
+Jean-Michel Besnier,58,9261.19,Food & Beverage,France,False,M
+Marie Besnier Beauvalot,45,9261.19,Food & Beverage,France,False,F
+Todd Boehly,52,9254.0,Finance & Investments,United States,True,M
+Nassef Sawiris,65,9231.28,Construction & Engineering,Egypt,False,M
+Les Wexner & family,88,9227.79,Fashion & Retail,United States,True,M
+Maria Asuncion Aramburuzabala & family,62,9206.75,Food & Beverage,Mexico,False,F
+John Morris,78,9145.94,Fashion & Retail,United States,True,M
+Brian Chesky,44,9113.5,Technology,United States,True,M
+Rajan Mittal,66,9091.41,Telecom,India,False,M
+Rakesh Mittal,70,9067.49,Telecom,India,False,M
+Bruce Kovner,81,9045.7,Finance & Investments,United States,True,M
+You Xiaoping & family,68,9030.86,Manufacturing,China,True,M
+Elisabeth DeLuca & family,78,9028.44,Food & Beverage,United States,False,F
+Lee Boo-jin,55,9005.95,Technology,South Korea,False,F
+Eric Wittouck,79,9000.0,Finance & Investments,Belgium,False,M
+Jeff Greene,71,8995.09,Real Estate,United States,True,M
+Odd Reitan & family,74,8993.56,Fashion & Retail,Norway,False,M
+Chen Dongsheng,68,8972.89,Finance & Investments,China,True,M
+William Ackman,59,8970.79,Finance & Investments,United States,True,M
+Pavel Tykac,61,8929.07,Metals & Mining,Czech Republic,True,M
+Patrick Soon-Shiong,73,8851.61,Healthcare,United States,True,M
+David Shaw,75,8823.0,Finance & Investments,United States,True,M
+Wang Yusuo & family,62,8761.36,Energy,China,True,M
+Zeng Fangqin,60,8760.61,Technology,Hong Kong,True,F
+Frank Lowy,95,8750.29,Finance & Investments,Australia,True,M
+Yuri Milner,64,8689.6,Finance & Investments,Israel,True,M
+Lynsi Snyder,43,8665.5,Food & Beverage,United States,False,F
+Sri Prakash Lohia,73,8664.95,Manufacturing,Indonesia,False,M
+Nathan Blecharczyk,42,8640.84,Technology,United States,True,M
+Otto Toto Sugiri,72,8628.87,Technology,Indonesia,True,M
+Xu Gaoming,61,8625.31,Fashion & Retail,China,True,M
+Lin Li,62,8614.09,Finance & Investments,China,True,M
+Lee Seo-hyun,52,8597.58,Technology,South Korea,False,F
+Neil Bluhm,88,8568.61,Real Estate,United States,True,M
+Azim Premji,80,8568.3,Technology,India,False,M
+Robert Rowling,72,8513.96,Service,United States,False,M
+Justin Sun,35,8500.0,Finance & Investments,St. Kitts and Nevis,True,M
+Denise York & family,75,8468.7,Sports,United States,False,F
+Michael Dorrell,52,8467.0,Finance & Investments,United States,True,M
+Kjell Inge Rokke,67,8464.81,Logistics,Norway,True,M
+Yitzhak Tshuva,77,8457.46,Real Estate,Israel,True,M
+Massimiliana Landini Aleotti & family,83,8456.11,Healthcare,Italy,False,F
+Laurent Dassault,72,8450.08,Diversified,France,False,M
+Stephen Bisciotti,66,8410.65,Sports,United States,True,M
+Tamara Gustavson,64,8405.11,Service,United States,False,F
+Jean Salata,60,8397.32,Finance & Investments,Chile,True,M
+Alexandra Schoerghuber & family,67,8391.87,Real Estate,Germany,False,F
+Marie-Hélène Habert-Dassault,61,8383.24,Diversified,France,False,F
+Thierry Dassault,69,8383.24,Diversified,France,False,M
+Denise Coates,58,8382.42,Gambling & Casinos,United Kingdom,True,F
+J. Joe Ricketts & family,84,8372.47,Finance & Investments,United States,True,M
+Leo KoGuan,71,8370.94,Technology,United States,True,M
+Mat Ishbia,46,8352.77,Finance & Investments,United States,False,M
+Leonard Stern,88,8314.6,Real Estate,United States,False,M
+Morris Chang,94,8313.85,Technology,Taiwan,True,M
+Patrick Drahi,62,8287.64,Telecom,France,True,M
+Alexei Kuzmichev,63,8283.45,Energy,Russia,True,M
+Sofie Kirk Kristiansen,50,8243.98,Manufacturing,Denmark,False,F
+Thomas Kirk Kristiansen,47,8243.98,Manufacturing,Denmark,False,M
+Agnete Kirk Thinggaard,42,8243.82,Manufacturing,Denmark,False,F
+Hong Ra-hee,80,8185.64,Technology,South Korea,False,F
+Rekha Jhunjhunwala,62,8155.8,Finance & Investments,India,False,F
+Don Hankey,82,8151.9,Finance & Investments,United States,True,M
+Cai Huabo,50,8151.07,Technology,China,True,M
+Tatyana Kim,50,8123.95,Fashion & Retail,Russia,True,F
+Brian Armstrong,43,8108.22,Finance & Investments,United States,True,M
+Cho Jung-ho,67,8080.85,Finance & Investments,South Korea,False,M
+Paul Tudor Jones II,71,8075.0,Finance & Investments,United States,True,M
+Pankaj Patel,73,8065.99,Healthcare,India,False,M
+Igor Olenicoff,83,8000.05,Real Estate,United States,True,M
+Maximilian Viessmann,37,7992.67,Manufacturing,Germany,False,M
+Seo Jung-jin,68,7991.72,Healthcare,South Korea,True,M
+David Siegel,64,7980.0,Finance & Investments,United States,True,M
+John Overdeck,56,7980.0,Finance & Investments,United States,True,M
+Francis Choi,78,7965.98,Real Estate,Hong Kong,True,M
+Andreas Halvorsen,65,7964.49,Finance & Investments,Norway,True,M
+Dirk Rossmann & family,79,7952.94,Fashion & Retail,Germany,True,M
+Gayle Benson,79,7943.64,Sports,United States,False,F
+Joe Gebbia,44,7936.7,Technology,United States,True,M
+Kelcy Warren,70,7930.28,Energy,United States,True,M
+Jacques Saadé Jr,54,7925.74,Logistics,France,False,M
+Rodolphe Saadé,56,7925.74,Logistics,France,False,M
+Tanya Saadé Zeenny,58,7925.74,Logistics,France,False,F
+Jonathan Gray,56,7920.09,Finance & Investments,United States,True,M
+Philippe Laffont,58,7893.8,Finance & Investments,United States,True,M
+Li Hua,48,7889.91,Finance & Investments,China,True,M
+Cen Junda,61,7863.57,Healthcare,China,True,M
+Ron Baron,82,7860.63,Finance & Investments,United States,True,M
+Li Ge,59,7858.8,Healthcare,United States,True,M
+Viktor Kharitonin,53,7856.21,Healthcare,Russia,True,M
+David Duffield,85,7843.72,Technology,United States,True,M
+Wolfgang Marguerre & family,84,7830.1,Healthcare,Germany,True,M
+Guillaume Pousaz,44,7823.0,Finance & Investments,Switzerland,True,M
+Vyacheslav Kim,56,7813.43,Finance & Investments,Kazakhstan,True,M
+Wang Xing,47,7812.28,Technology,China,True,M
+Judy Faulkner,82,7812.1,Technology,United States,True,F
+Min Kao & family,77,7798.17,Technology,United States,True,M
+Sami Mnaymneh,64,7797.0,Finance & Investments,United States,True,M
+Tony Tamer,68,7797.0,Finance & Investments,United States,True,M
+Jorge Moll Filho & family,81,7782.84,Healthcare,Brazil,True,M
+Stanley Druckenmiller,72,7781.0,Finance & Investments,United States,True,M
+Rinat Akhmetov,59,7779.0,Metals & Mining,Ukraine,True,M
+Dennis Washington,91,7751.82,Logistics,United States,True,M
+Zhang Congyuan,78,7741.15,Fashion & Retail,Taiwan,True,M
+Daniel Tsai,70,7721.69,Finance & Investments,Taiwan,False,M
+Zong Fuli,44,7720.63,Food & Beverage,China,False,F
+Jim Kavanaugh,63,7716.87,Technology,United States,True,M
+Steven Rales,75,7715.31,Manufacturing,United States,True,M
+Mikhail Gutseriev,68,7705.27,Energy,Russia,True,M
+Rahel Blocher,50,7687.51,Manufacturing,Switzerland,False,F
+Ronda Stryker,71,7683.02,Healthcare,United States,False,F
+Maria Fernanda Amorim & family,91,7682.26,Diversified,Portugal,False,F
+Jeffrey Lurie,74,7647.0,Sports,United States,False,M
+Paolo Rocca,73,7646.92,Metals & Mining,Italy,False,M
+Gianfelice Rocca,78,7646.67,Metals & Mining,Italy,False,M
+Sudhir Mehta,72,7633.99,Healthcare,India,False,M
+Samir Mehta,62,7633.85,Healthcare,India,False,M
+Michael Kadoorie,84,7619.09,Energy,Hong Kong,False,M
+Daniel Nadler,42,7619.0,Technology,Canada,True,M
+Tse Ping & family,74,7608.98,Healthcare,China,True,M
+Hasmukh Chudgar & family,92,7608.8,Healthcare,India,True,M
+Oleg Deripaska,58,7567.24,Metals & Mining,Russia,True,M
+Cliff Obrecht,40,7560.0,Technology,Australia,True,M
+Melanie Perkins,38,7560.0,Technology,Australia,True,F
+Juergen Blickle,79,7511.1,Manufacturing,Germany,False,M
+Quek Leng Chan,84,7501.07,Diversified,Malaysia,False,M
+Thai Lee,67,7501.0,Technology,United States,True,F
+George Soros,95,7499.0,Finance & Investments,United States,True,M
+Maria Angelicoussis,44,7493.62,Logistics,Greece,False,F
+John Brown,91,7486.63,Healthcare,United States,True,M
+John Grayken,69,7484.0,Finance & Investments,Ireland,True,M
+Michael Milken,79,7472.0,Finance & Investments,United States,True,M
+Xu Shihui,68,7450.81,Food & Beverage,China,True,M
+Dona Bertarelli,58,7449.22,Healthcare,Switzerland,False,F
+Richard Tsai,68,7444.58,Finance & Investments,Taiwan,False,M
+Tench Coxe,68,7441.84,Finance & Investments,United States,True,M
+Andrew Cherng,78,7429.97,Food & Beverage,United States,True,M
+Peggy Cherng,78,7429.97,Food & Beverage,United States,True,F
+Piero Ferrari & family,80,7426.93,Automotive,Italy,False,M
+Kerry Stokes,85,7400.16,Diversified,Australia,True,M
+Mong-Koo Chung,88,7386.37,Automotive,South Korea,False,M
+George Kurtz,55,7373.52,Technology,United States,True,M
+Alain Bouchard,77,7353.77,Fashion & Retail,Canada,True,M
+Kjeld Kirk Kristiansen,78,7331.52,Manufacturing,Denmark,False,M
+Gary Rollins & family,81,7325.74,Service,United States,False,M
+Marc Benioff,61,7319.81,Technology,United States,True,M
+Frederik Paulsen,75,7315.71,Healthcare,Sweden,False,M
+Janice McNair & family,89,7315.36,Sports,United States,False,F
+Roger Penske,89,7315.32,Automotive,United States,True,M
+Howard Lutnick & family,64,7314.46,Finance & Investments,United States,True,M
+Ding Shizhong,55,7308.28,Fashion & Retail,China,True,M
+Marcos Galperin,54,7299.56,Technology,Argentina,True,M
+Mark Walter,65,7293.7,Finance & Investments,United States,True,M
+Zhang Daocai,76,7288.68,Diversified,China,True,M
+Abel Avellan,55,7247.65,Telecom,United States,True,M
+Patrick Ryan,88,7244.31,Finance & Investments,United States,True,M
+Daniel Ziff,54,7188.75,Finance & Investments,United States,False,M
+Dirk Ziff,62,7188.75,Finance & Investments,United States,False,M
+Robert Ziff,59,7188.75,Finance & Investments,United States,False,M
+Yang Shaopeng,68,7158.62,Logistics,China,True,M
+Daryl Katz,64,7141.7,Diversified,Canada,True,M
+Albert Avdolyan,55,7133.7,Energy,Russia,True,M
+Ling Tang,65,7118.17,Technology,Canada,True,F
+Radovan Vitek,55,7109.14,Real Estate,Czech Republic,True,M
+Michael Moritz,71,7103.58,Finance & Investments,United States,True,M
+Karen Pritzker,68,7102.99,Finance & Investments,United States,False,F
+Philip Ng,67,7084.37,Real Estate,Singapore,False,M
+Teddy Sagi,54,7082.69,Gambling & Casinos,Israel,True,M
+Chase Coleman III,50,7080.0,Finance & Investments,United States,True,M
+Ty Warner,81,7062.21,Real Estate,United States,True,M
+Steven Spielberg,79,7056.1,Media & Entertainment,United States,True,M
+Liu Hanyuan,62,7024.13,Energy,China,True,M
+Charles Simonyi,77,7022.71,Technology,United States,True,M
+James Clark,82,7001.23,Technology,United States,True,M
+Christopher Olah,33,7000.0,Technology,Canada,True,M
+Daniela Amodei,38,7000.0,Technology,United States,True,F
+Dario Amodei,43,7000.0,Technology,United States,True,M
+Jack Clark,37,7000.0,Technology,United States,True,M
+Jared Kaplan,41,7000.0,Technology,United States,True,M
+Sam McCandlish,35,7000.0,Technology,United States,True,M
+Tom Brown,39,7000.0,Technology,United States,True,M
+Edythe Broad & family,90,6997.98,Diversified,United States,False,F
+Ding Shijia,62,6980.25,Fashion & Retail,China,True,M
+Vincent Viola,70,6968.89,Finance & Investments,United States,True,M
+Cui Lixin,57,6967.89,Metals & Mining,China,True,M
+Joe Lewis,89,6961.4,Finance & Investments,United Kingdom,True,M
+Robert Ng,74,6960.9,Real Estate,Singapore,False,M
+Sumet Jiaravanon,91,6935.09,Diversified,Thailand,False,M
+Lu Weiding,55,6920.39,Diversified,China,False,M
+Koon Poh Keong,65,6914.87,Manufacturing,Malaysia,True,M
+Clive Calder,79,6897.0,Media & Entertainment,United Kingdom,True,M
+Miguel Krigsner,76,6896.62,Fashion & Retail,Brazil,True,M
+Marian Ilitch & family,93,6896.5,Food & Beverage,United States,True,F
+Stephen Smith,74,6880.29,Finance & Investments,Canada,True,M
+Tsai Eng-meng,69,6877.84,Food & Beverage,Taiwan,False,M
+Max Van Hoegaerden Herrmann Telles,30,6871.19,Food & Beverage,Brazil,False,M
+Fan Hongwei,59,6869.14,Energy,China,True,F
+Alexander Otto,58,6862.28,Real Estate,Germany,False,M
+Edward Roski Jr,87,6858.48,Real Estate,United States,False,M
+Michael Otto,83,6853.24,Fashion & Retail,Germany,False,M
+Gopikishan Damani,68,6846.39,Fashion & Retail,India,True,M
+Jaran Chiaravanont,96,6837.09,Diversified,Thailand,False,M
+Andrei Skoch & family,60,6828.28,Metals & Mining,Russia,True,M
+Marc Rowan,63,6815.55,Finance & Investments,United States,True,M
+Ricardo Faria,51,6800.0,Food & Beverage,Brazil,True,M
+Evangelos Marinakis & family,58,6798.23,Logistics,Greece,False,M
+Jay Chaudhry,66,6797.55,Technology,United States,True,M
+Alain Merieux & family,88,6786.72,Healthcare,France,False,M
+Vivek Chaand Sehgal,69,6746.25,Automotive,Australia,True,M
+Florentino Perez,79,6720.07,Construction & Engineering,Spain,True,M
+Dmitry Rybolovlev & family,59,6713.09,Manufacturing,Russia,True,M
+Horst Julius Pudwill,81,6706.94,Manufacturing,Germany,True,M
+Rahul Bhatia,66,6695.65,Service,India,False,M
+Paul Singer,81,6673.5,Finance & Investments,United States,True,M
+Herb Simon,91,6653.98,Real Estate,United States,True,M
+Mohed Altrad,78,6644.24,Construction & Engineering,France,True,M
+Pavel Durov,41,6620.0,Technology,United Arab Emirates,True,M
+Ray Lee Hunt,83,6601.65,Energy,United States,False,M
+Joseph Liemandt,57,6598.0,Technology,United States,True,M
+James Chambers,69,6596.97,Media & Entertainment,United States,False,M
+Margaretta Taylor,84,6596.22,Media & Entertainment,United States,False,F
+Katharine Rayner,81,6591.15,Media & Entertainment,United States,False,F
+Michael Intrator,57,6590.31,Technology,United States,True,M
+Lee Thiam Wah,62,6583.72,Fashion & Retail,Malaysia,True,M
+Peter Gilgan,75,6576.05,Construction & Engineering,Canada,True,M
+Mark Scheinberg,52,6568.06,Gambling & Casinos,Canada,True,M
+Xu Hang,63,6564.18,Healthcare,Hong Kong,True,M
+Albert Boehringer,85,6563.45,Healthcare,Germany,False,M
+Barbara Boehringer,53,6563.45,Healthcare,Germany,False,F
+Christian Boehringer,60,6563.45,Healthcare,Germany,False,M
+Christoph Boehringer,55,6563.45,Healthcare,Germany,False,M
+Erich von Baumbach,54,6563.45,Healthcare,Germany,False,M
+Franz von Baumbach,24,6563.45,Healthcare,Germany,False,M
+Hubertus von Baumbach,58,6563.45,Healthcare,Germany,False,M
+Isabel Boehringer,45,6563.45,Healthcare,Germany,False,F
+Johannes von Baumbach,20,6563.45,Healthcare,Germany,False,M
+Katharina von Baumbach,26,6563.45,Healthcare,Germany,False,F
+Mathias Boehringer,57,6563.45,Healthcare,Germany,False,M
+Maximilian von Baumbach,28,6563.45,Healthcare,Germany,False,M
+Otto Boehringer,95,6563.45,Healthcare,Germany,False,M
+Philipp Boehringer,47,6563.45,Healthcare,Germany,False,M
+Ulrike von Baumbach,84,6563.45,Healthcare,Germany,False,F
+Remon Vos,55,6558.69,Real Estate,Netherlands,True,M
+Mike Adenuga,73,6552.02,Diversified,Nigeria,True,M
+Erich Wesjohann & family,80,6541.25,Food & Beverage,Germany,True,M
+Robin Li,57,6539.59,Technology,China,True,M
+Robert Rich Jr,85,6538.68,Food & Beverage,United States,False,M
+Jim Davis & family,82,6529.9,Manufacturing,United States,True,M
+Mike Cannon-Brookes,46,6508.28,Technology,Australia,True,M
+Tsai Hong-tu,73,6494.34,Finance & Investments,Taiwan,False,M
+H. Ross Perot Jr,67,6487.39,Real Estate,United States,False,M
+Emanuele (Lino) Saputo & family,89,6470.75,Food & Beverage,Canada,False,M
+Rudolf Maag,80,6468.24,Healthcare,Switzerland,True,M
+Mark Meijer & family,68,6460.15,Fashion & Retail,United States,False,M
+Doug Meijer & family,72,6456.15,Fashion & Retail,United States,False,M
+Hank Meijer & family,74,6456.15,Fashion & Retail,United States,False,M
+Timur Turlov,38,6450.91,Finance & Investments,Kazakhstan,True,M
+David Thomson,68,6433.5,Media & Entertainment,Canada,False,M
+Peter Thomson,61,6433.5,Media & Entertainment,Canada,False,M
+Taylor Thomson,66,6433.5,Media & Entertainment,Canada,False,F
+Bruce Flatt,60,6430.21,Finance & Investments,Canada,True,M
+Dietmar Hopp & family,86,6391.7,Technology,Germany,True,M
+Richard Li,59,6372.05,Finance & Investments,Hong Kong,False,M
+Tsai Cheng-ta,76,6366.74,Finance & Investments,Taiwan,False,M
+Matthias Reimann-Andersen,61,6352.0,Fashion & Retail,Germany,False,M
+Renate Reimann-Haas,74,6352.0,Fashion & Retail,Germany,False,F
+Stefan Reimann-Andersen,62,6352.0,Fashion & Retail,Germany,False,M
+Wolfgang Reimann,73,6352.0,Fashion & Retail,Germany,False,M
+Yasumitsu Shigeta,61,6335.35,Telecom,Japan,True,M
+Liu Jincheng & family,61,6331.44,Manufacturing,China,True,M
+Arnon Milchan,81,6312.13,Media & Entertainment,Israel,True,M
+Stefano Pessina,84,6307.0,Fashion & Retail,Monaco,False,M
+Martha Ingram & family,90,6304.36,Media & Entertainment,United States,False,F
+Franz Viegener,43,6295.86,Manufacturing,Germany,False,M
+Thomas Kaeser,72,6295.86,Manufacturing,Germany,False,M
+Carlos Alberto Sicupira & family,78,6286.52,Food & Beverage,Brazil,True,M
+Ma Jianrong,62,6284.88,Fashion & Retail,China,True,M
+Clifford Asness,59,6282.0,Finance & Investments,United States,True,M
+Anna Viegener,35,6263.15,Manufacturing,Germany,False,F
+Steve Lavin & family,70,6263.0,Food & Beverage,United States,False,M
+Robert Bass,78,6262.89,Energy,United States,False,M
+Leonardo Maria Del Vecchio,30,6261.1,Fashion & Retail,Italy,False,M
+Donald Trump,79,6259.1,Real Estate,United States,False,M
+Hu Baifan,63,6253.6,Healthcare,China,True,M
+Chen Bang,60,6223.8,Healthcare,China,True,M
+Liu Yonghao & family,74,6217.18,Service,China,True,M
+Euisun Chung,55,6215.93,Automotive,South Korea,False,M
+Carl Douglas,64,6212.48,Diversified,Sweden,False,M
+Lutz Mario Helmig & family,79,6205.97,Healthcare,Germany,True,M
+Marina Budiman,64,6173.32,Technology,Indonesia,True,F
+Gwendolyn Sontheim Meyer,64,6163.48,Food & Beverage,United States,False,F
+Wang Xin,53,6135.75,Manufacturing,China,True,M
+Michael Herz,82,6121.14,Fashion & Retail,Germany,False,M
+Wolfgang Herz,75,6121.14,Fashion & Retail,Germany,False,M
+Scott Farquhar,46,6115.35,Technology,Australia,True,M
+Claudio Del Vecchio,69,6091.9,Fashion & Retail,Italy,False,M
+Mitchell Morgan & family,71,6089.15,Real Estate,United States,True,M
+Jayshree Ullal,65,6085.0,Technology,United States,True,F
+Clemente Del Vecchio,21,6078.29,Fashion & Retail,Italy,False,M
+Luca Del Vecchio,24,6078.29,Fashion & Retail,Italy,False,M
+Marisa Del Vecchio,67,6078.29,Fashion & Retail,Italy,False,F
+Nicoletta Zampillo,68,6078.29,Fashion & Retail,Italy,False,F
+Paola Del Vecchio,64,6078.29,Fashion & Retail,Italy,False,F
+Rocco Basilico,36,6078.29,Fashion & Retail,Italy,False,M
+Benu Gopal Bangur,94,6075.4,Manufacturing,India,False,M
+Andrew Currie,70,6056.51,Manufacturing,United Kingdom,True,M
+Bill Haslam,67,6045.09,Fashion & Retail,United States,False,M
+Robert Hale Jr,59,6044.0,Telecom,United States,True,M
+Elizabeth Uihlein,80,6039.41,Manufacturing,United States,True,F
+Richard Uihlein,80,6039.41,Manufacturing,United States,True,M
+Mark Cuban,67,6038.93,Media & Entertainment,United States,True,M
+John Reece,69,6035.46,Manufacturing,United Kingdom,True,M
+Thomas Pritzker,75,6028.8,Finance & Investments,United States,False,M
+Chip Wilson,69,6025.26,Fashion & Retail,Canada,True,M
+Mikhail Lomtadze,50,6017.87,Finance & Investments,Georgia,True,M
+Venu Srinivasan,73,6010.21,Automotive,India,False,M
+Kwak Dong Shin,51,6001.65,Technology,South Korea,False,M
+Eric Douglas,57,6000.31,Diversified,Sweden,False,M
+Cai Haoyu,38,6000.0,Technology,China,True,M
+William Goldring & family,83,6000.0,Food & Beverage,United States,False,M
+Jeffrey Koo Jr,61,5995.64,Finance & Investments,Taiwan,False,M
+Sky Xu,42,5985.0,Fashion & Retail,China,True,M
+Shapoor Mistry,61,5980.07,Diversified,Ireland,False,M
+Shari Arison,68,5964.81,Service,Israel,False,F
+Zhang Yong,55,5958.22,Food & Beverage,Singapore,True,M
+Vladimir Kim,65,5947.0,Metals & Mining,Kazakhstan,True,M
+John A. Sobrato & family,86,5931.03,Real Estate,United States,True,M
+Alex Behring,59,5930.11,Finance & Investments,Brazil,True,M
+Trevor Rees-Jones,74,5928.0,Energy,United States,True,M
+Annette Lerner & family,96,5925.15,Real Estate,United States,False,F
+Rick Caruso,67,5917.72,Real Estate,United States,True,M
+Satyanarayan Nuwal,73,5901.4,Manufacturing,India,True,M
+Jack Dorsey,49,5840.1,Technology,United States,True,M
+Alexander Abramov,67,5830.66,Metals & Mining,Russia,True,M
+Hao Tang,54,5820.17,Technology,China,True,M
+John Sall,78,5811.54,Technology,United States,True,M
+Anthony von Mandl,76,5807.38,Food & Beverage,Canada,True,M
+Michal Solowow,63,5805.8,Finance & Investments,Poland,True,M
+Justin Ishbia,48,5802.6,Finance & Investments,United States,False,M
+Margot Birmingham Perot,92,5796.25,Technology,United States,False,F
+Joesley Batista,54,5788.53,Food & Beverage,Brazil,False,M
+Wesley Batista,53,5788.53,Food & Beverage,Brazil,False,M
+William Berkley & family,79,5761.12,Finance & Investments,United States,True,M
+Lai Meisong,55,5756.06,Logistics,China,True,M
+Tomas Olivo Lopez,52,5743.53,Real Estate,Spain,True,M
+Tom Morris,71,5736.45,Fashion & Retail,United Kingdom,True,M
+Richard Liu,52,5727.97,Technology,China,True,M
+Giuseppe De'Longhi & family,87,5722.05,Fashion & Retail,Italy,False,M
+Thomas Secunda,71,5721.0,Finance & Investments,United States,True,M
+Christiane Schoeller,58,5720.05,Media & Entertainment,Germany,False,F
+Stefan von Holtzbrinck,62,5720.05,Media & Entertainment,Germany,False,M
+John Henry,76,5718.77,Sports,United States,True,M
+Wu Yajun,62,5715.44,Real Estate,China,True,F
+Maria Del Pino,70,5712.28,Construction & Engineering,Spain,False,F
+Carl Thoma,77,5689.22,Finance & Investments,United States,True,M
+Heinrich Otto Deichmann,63,5667.21,Fashion & Retail,Germany,False,M
+Huang Li,62,5660.11,Technology,China,True,M
+Matthias Reinhart,66,5640.24,Finance & Investments,Switzerland,True,M
+Samuel Yin,75,5639.95,Diversified,Taiwan,False,M
+Archie Aldis Emmerson & family,97,5631.87,Manufacturing,United States,True,M
+Don Vultaggio & family,74,5625.55,Food & Beverage,United States,True,M
+Leonid Boguslavsky,74,5621.09,Finance & Investments,Canada,True,M
+Renuka Jagtiani,72,5600.0,Fashion & Retail,India,False,F
+Bert Beveridge,64,5592.77,Food & Beverage,United States,True,M
+M.A. Yusuff Ali,70,5592.45,Fashion & Retail,India,True,M
+Sofia Högberg Schörling,47,5591.76,Diversified,Sweden,False,F
+Bob Gaglardi & family,85,5588.96,Real Estate,Canada,True,M
+Johnelle Hunt,94,5582.73,Logistics,United States,True,F
+Jiang Bin,59,5581.65,Technology,China,True,M
+Lim Hariyanto Wijaya Sarwono,97,5578.95,Metals & Mining,Indonesia,True,M
+Austen Cargill II,75,5576.63,Food & Beverage,United States,False,M
+James Cargill II,77,5576.63,Food & Beverage,United States,False,M
+Marianne Liebmann,72,5576.63,Food & Beverage,United States,False,F
+Margarita Louis-Dreyfus & family,63,5576.48,Food & Beverage,Switzerland,False,F
+Gao Dekang & family,74,5575.58,Fashion & Retail,China,True,M
+Andy Mills,65,5572.53,Healthcare,United States,False,M
+Reed Hastings,65,5570.45,Technology,United States,True,M
+Michel Leclercq & family,86,5568.69,Fashion & Retail,France,False,M
+Michael Ashley,61,5568.68,Fashion & Retail,United Kingdom,True,M
+Edward Stack & family,71,5559.48,Fashion & Retail,United States,False,M
+Märta Schörling Andreen,41,5555.61,Diversified,Sweden,False,F
+Zhu Baoguo & family,64,5552.86,Healthcare,China,True,M
+Naguib Sawiris,71,5550.4,Telecom,Egypt,False,M
+Ali Ghodsi,47,5547.0,Technology,Sweden,True,M
+Yang Chang-Chih,79,5546.16,Manufacturing,Taiwan,True,M
+Andre Koo,58,5536.34,Finance & Investments,Taiwan,False,M
+Zhang Hongchao,50,5531.41,Food & Beverage,China,True,M
+Zhang Hongfu,42,5531.41,Food & Beverage,China,True,M
+Romesh T. Wadhwani,78,5521.0,Technology,United States,True,M
+Charles B. Johnson,93,5504.32,Finance & Investments,United States,False,M
+Neal Blue & family,91,5498.3,Manufacturing,United States,True,M
+Nusli Wadia,82,5491.8,Food & Beverage,India,False,M
+Gordon Getty & family,92,5487.68,Energy,United States,False,M
+Peter Kellogg,83,5483.61,Finance & Investments,United States,False,M
+Jerzy Starak,78,5467.27,Healthcare,Poland,True,M
+Rakesh Gangwal,72,5463.55,Service,United States,True,M
+Ronald Wanek,84,5450.26,Manufacturing,United States,True,M
+Jon Yarbrough,68,5444.38,Gambling & Casinos,United States,True,M
+Joseph Grendys,64,5443.64,Food & Beverage,United States,True,M
+Ken Xie & family,63,5437.4,Technology,United States,True,M
+Jeremy Jacobs Sr & family,86,5430.38,Service,United States,False,M
+Dinara Kulibayeva,58,5428.59,Finance & Investments,Kazakhstan,False,F
+Timur Kulibayev,59,5428.59,Finance & Investments,Kazakhstan,True,M
+Forrest Li,48,5406.38,Media & Entertainment,Singapore,True,M
+Russell Savage,55,5405.0,Food & Beverage,United States,True,M
+Bulat Utemuratov,68,5398.0,Metals & Mining,Kazakhstan,True,M
+Lin Shu-hong,97,5397.71,Manufacturing,Taiwan,True,M
+Lynda Resnick,83,5393.5,Food & Beverage,United States,True,F
+Stewart Resnick,89,5393.5,Food & Beverage,United States,True,M
+Xiao Yongming & family,61,5383.37,Diversified,China,True,M
+Hortensia Herrero,75,5382.3,Fashion & Retail,Spain,False,F
+Jeff Skoll,61,5380.48,Technology,United States,True,M
+Mario Verrocchi,68,5367.86,Fashion & Retail,Australia,True,M
+Ivan Tavrin,49,5363.86,Finance & Investments,Russia,True,M
+Matthew Prince,51,5356.16,Technology,United States,True,M
+Torbjorn Tornqvist,72,5354.7,Energy,Sweden,True,M
+Reinhold Schmieding,71,5352.09,Healthcare,United States,True,M
+Alejandro Bulgheroni,81,5348.16,Energy,Argentina,False,M
+Peter Spuhler,66,5341.99,Manufacturing,Switzerland,True,M
+George Economou,73,5331.23,Logistics,Greece,True,M
+Thomas Tull,55,5314.5,Media & Entertainment,United States,True,M
+Jean (Gigi) Pritzker,63,5303.3,Service,United States,False,F
+Arkady Rotenberg,74,5290.53,Construction & Engineering,Russia,True,M
+Rajiv Bajaj,59,5290.3,Diversified,India,False,M
+Sanjiv Bajaj,56,5290.3,Diversified,India,False,M
+Catherine Commisso & family,68,5287.14,Telecom,United States,False,F
+Ian Livingstone,63,5265.2,Real Estate,United Kingdom,True,M
+Richard Livingstone,61,5265.2,Real Estate,United Kingdom,True,M
+Jiang Rensheng & family,72,5256.45,Healthcare,China,True,M
+Murat Ulker,67,5254.7,Food & Beverage,Turkey,False,M
+Jamshyd Godrej,77,5240.08,Real Estate,India,False,M
+Smita Crishna Godrej,75,5240.07,Diversified,India,False,F
+Chairul Tanjung,63,5229.07,Diversified,Indonesia,True,M
+Jon Stryker,67,5218.01,Healthcare,United States,False,M
+Josh Kushner,40,5213.0,Finance & Investments,United States,True,M
+Andrei Kozitsyn,65,5209.93,Metals & Mining,Russia,True,M
+Chandru Raheja,85,5191.69,Real Estate,India,False,M
+Isaac Perlmutter,83,5182.95,Media & Entertainment,United States,True,M
+Shaul Shani,71,5182.16,Telecom,Israel,True,M
+Saban Cemil Kazanci,65,5181.77,Energy,Turkey,False,M
+Joao Moreira Salles,64,5170.52,Diversified,Brazil,False,M
+Walther Moreira Salles Junior,70,5170.52,Finance & Investments,Brazil,False,M
+Barry Diller,84,5151.45,Media & Entertainment,United States,True,M
+Pyotr Aven,71,5131.1,Finance & Investments,Russia,True,M
+Takao Yasuda,76,5121.57,Fashion & Retail,Japan,True,M
+Ruan Xueping,54,5112.4,Manufacturing,Hong Kong,True,M
+Jeffrey Cheah,81,5110.7,Real Estate,Malaysia,True,M
+Joy Alukkas,69,5104.12,Fashion & Retail,India,False,M
+God Nisanov,54,5103.55,Real Estate,Russia,True,M
+Zarakh Iliev,59,5103.55,Real Estate,Russia,True,M
+Haryanto Tjiptodihardjo,62,5094.26,Manufacturing,Indonesia,False,M
+Mangal Prabhat Lodha,70,5092.63,Real Estate,India,True,M
+George Lucas,81,5088.56,Media & Entertainment,United States,True,M
+Martin Haefner,72,5086.97,Technology,Switzerland,False,M
+Fernand Huts,75,5081.8,Logistics,Belgium,True,M
+Frank Wang,45,5076.0,Technology,China,True,M
+Tim Sweeney,55,5076.0,Media & Entertainment,United States,True,M
+Ruan Liping,61,5065.02,Manufacturing,Hong Kong,True,M
+Jose Joao Abdalla Filho,80,5057.12,Finance & Investments,Brazil,False,M
+Gaye Farncombe,74,5055.54,Media & Entertainment,Canada,False,F
+Linda Campbell,76,5055.54,Media & Entertainment,Canada,False,F
+Jorge Mas,63,5053.86,Construction & Engineering,United States,False,M
+Lin Lairong & family,57,5038.65,Metals & Mining,China,True,M
+Robert Faith,62,5035.36,Real Estate,United States,True,M
+Dan Kurzius,54,5034.38,Technology,United States,True,M
+Ion Stoica,61,5031.0,Technology,Romania,True,M
+Matei Zaharia,41,5031.0,Technology,Romania,True,M
+Lachhman Das Mittal,95,5030.05,Automotive,India,False,M
+Nicolas D'Ieteren,51,5019.46,Automotive,Belgium,False,M
+Thomas Hagen & family,90,5002.28,Finance & Investments,United States,False,M
+Scott Cook,73,4978.22,Technology,United States,True,M
+Stephen Feinberg,66,4976.0,Finance & Investments,United States,True,M
+Mike Brown & family,90,4969.7,Sports,United States,False,M
+Arturo Moreno,79,4965.46,Sports,United States,True,M
+Park Hyeon-joo,67,4964.49,Finance & Investments,South Korea,True,M
+Cho Tak Wong,79,4964.0,Manufacturing,Hong Kong,True,M
+Stephen Mandel Jr,70,4963.0,Finance & Investments,United States,True,M
+Lorinc Meszaros,60,4957.2,Diversified,Hungary,True,M
+Vikas Oberoi,55,4954.04,Real Estate,India,False,M
+Andrew Karam,44,4944.77,Technology,United States,True,M
+Tsai Ming-kai,76,4939.72,Technology,Taiwan,True,M
+Shen Guojun,63,4935.39,Fashion & Retail,China,True,M
+Ryan Cohen,40,4933.33,Finance & Investments,Canada,True,M
+Peter Cancro,68,4928.52,Food & Beverage,United States,True,M
+Chen Weiliang,49,4925.12,Manufacturing,China,True,M
+Georg Nemetschek & family,92,4912.09,Technology,Germany,True,M
+Igor Altushkin,55,4904.33,Metals & Mining,Russia,True,M
+Scott Crabill,56,4893.02,Finance & Investments,United States,True,M
+Holden Spaht,51,4888.47,Finance & Investments,United States,True,M
+Igor Kesaev,59,4887.39,Fashion & Retail,Russia,True,M
+Hamad bin Jassim bin Jaber Al Thani,66,4885.32,Finance & Investments,Qatar,False,M
+Steven Klinsky,69,4884.0,Finance & Investments,United States,True,M
+Lin Tsung-Chi,85,4877.95,Manufacturing,Taiwan,True,M
+Arkady Volozh,62,4870.73,Technology,Israel,True,M
+Anil Agarwal & family,72,4868.04,Metals & Mining,India,True,M
+Seth Boro,50,4865.2,Finance & Investments,United States,True,M
+Zhu Yan & family,55,4864.55,Real Estate,China,False,F
+Nithin Kamath,46,4863.24,Finance & Investments,India,True,M
+Eren Ozmen,67,4856.77,Manufacturing,United States,True,F
+Andrei Bokarev,59,4851.48,Manufacturing,Russia,True,M
+Ronald Lauder,82,4847.66,Fashion & Retail,United States,False,M
+Jiang Weiping & family,71,4846.61,Manufacturing,China,True,M
+Markus Blocher,55,4844.04,Manufacturing,Switzerland,False,M
+Eduardo Hochschild,62,4827.09,Metals & Mining,Peru,False,M
+Eric Yuan & family,56,4826.85,Technology,United States,True,M
+John Catsimatidis,77,4819.0,Energy,United States,True,M
+Thomas Straumann,62,4800.61,Healthcare,Switzerland,False,M
+Gail Miller & family,82,4796.85,Automotive,United States,True,F
+Kevin David Lehmann,23,4786.18,Fashion & Retail,Germany,False,M
+Garrett Camp,47,4784.23,Technology,Canada,True,M
+Qiu Jianping & family,64,4757.87,Manufacturing,China,True,M
+Henning Oldendorff,68,4753.0,Logistics,Germany,False,M
+Tomasz Biernacki,53,4752.28,Fashion & Retail,Poland,True,M
+Hans Peter Wild,84,4749.66,Food & Beverage,Switzerland,False,M
+Xu Jinfu & family,62,4748.97,Manufacturing,China,True,M
+N. Murray Edwards,66,4744.04,Energy,Canada,True,M
+Daniel D'Aniello,79,4737.53,Finance & Investments,United States,True,M
+Gao Guangrong,56,4735.35,Technology,China,True,M
+Dan Snyder,61,4726.31,Sports,United States,True,M
+Egor Kulkov,54,4710.98,Healthcare,Russia,True,M
+Lee Yeow Chor,59,4709.03,Real Estate,Malaysia,False,M
+George Bishop,88,4701.1,Energy,United States,True,M
+Ye Chenghai & family,82,4696.18,Healthcare,Hong Kong,True,M
+Julia Thiele-Schuerhoff & family,54,4692.18,Manufacturing,Germany,False,F
+Erwin Franz Mueller,93,4691.52,Fashion & Retail,Germany,True,M
+Abdulla Al Futtaim & family,86,4689.91,Automotive,United Arab Emirates,False,M
+Drayton McLane Jr,89,4683.92,Fashion & Retail,United States,False,M
+Nikolai Buinov,58,4680.73,Energy,Russia,True,M
+Wendy Abrams,61,4680.24,Healthcare,United States,False,F
+Hansjoerg Wyss,91,4679.97,Healthcare,Switzerland,True,M
+Walter Frey,82,4676.79,Automotive,Switzerland,False,M
+Theodore Rachmat,82,4676.72,Diversified,Indonesia,False,M
+George Prokopiou & family,79,4675.24,Logistics,Greece,True,M
+Fatih Ozmen,68,4667.33,Manufacturing,United States,True,M
+Liang Zhaoxian,63,4664.03,Manufacturing,China,False,M
+Jennifer Gilbert,57,4663.72,Finance & Investments,United States,False,F
+Stephen Cohen,43,4651.28,Technology,United States,True,M
+Dagmar Dolby & family,84,4646.35,Technology,United States,False,F
+Steven Udvar-Hazy,80,4629.73,Service,United States,True,M
+Wang Yanqing,60,4625.87,Manufacturing,China,True,M
+Baba Kalyani,77,4615.26,Automotive,India,False,M
+Michael Xie,57,4609.91,Technology,United States,True,M
+Xiang Guangda,68,4605.56,Metals & Mining,China,True,M
+Tom Golisano,84,4602.26,Service,United States,True,M
+Michael Pieper,80,4598.69,Manufacturing,Switzerland,True,M
+Eduardo Eurnekian,93,4597.94,Diversified,Argentina,True,M
+Xia Zuoquan,64,4597.44,Automotive,China,True,M
+John Gandel,91,4594.83,Real Estate,Australia,False,M
+Scott Kapnick,67,4588.93,Finance & Investments,United States,True,M
+Marc Ladreit de Lacharriere,85,4587.52,Finance & Investments,France,True,M
+Li Chunan,57,4584.79,Manufacturing,China,True,M
+Andrej Babis,71,4581.9,Food & Beverage,Czech Republic,True,M
+Joe Mansueto,69,4573.63,Finance & Investments,United States,True,M
+Anne Beaufour,62,4571.85,Healthcare,France,False,F
+Akira Mori & family,89,4563.85,Real Estate,Japan,False,M
+David Filo,60,4559.43,Technology,United States,True,M
+Eleanor Butt Crook & family,93,4558.6,Fashion & Retail,United States,False,F
+Abhay Firodia,81,4550.6,Automotive,India,False,M
+Eric Lefkofsky,56,4542.28,Technology,United States,True,M
+Carlos Hank Rhon & family,78,4540.24,Diversified,Mexico,False,M
+Helen Johnson-Leipold,69,4534.55,Manufacturing,United States,False,F
+Laurence Graff & family,87,4529.0,Fashion & Retail,United Kingdom,True,M
+Friede Springer,83,4527.93,Media & Entertainment,Germany,False,F
+Rupert Johnson Jr,85,4519.26,Finance & Investments,United States,False,M
+Maria-Elisabeth Schaeffler-Thumann,84,4511.69,Automotive,Germany,False,F
+Ben Chestnut,51,4504.89,Technology,United States,True,M
+Somurai Jaruphnit,72,4500.8,Diversified,Thailand,False,F
+Beatriz Davila de Santo Domingo,87,4499.05,Food & Beverage,Colombia,False,F
+Fabien Pinckaers,47,4498.72,Technology,Belgium,True,M
+Yu Renrong,60,4473.2,Manufacturing,China,True,M
+James Duff,65,4472.2,Diversified,United States,True,M
+Li Xiang,44,4460.37,Automotive,China,True,M
+Li Min,60,4455.26,Technology,China,True,M
+Thomas Duff,69,4454.6,Diversified,United States,True,M
+Carlo Fidani,71,4452.8,Real Estate,Canada,False,M
+Lynn Schusterman & family,87,4448.82,Energy,United States,False,F
+Bernard Fraisse & family,69,4442.71,Healthcare,France,True,M
+Jason Jiang,53,4437.14,Media & Entertainment,Singapore,True,M
+Rajiv Jain,58,4429.68,Finance & Investments,United States,True,M
+Anthony Pritzker,65,4426.23,Service,United States,False,M
+Antti Herlin,69,4423.12,Manufacturing,Finland,False,M
+Andreas Martinos & family,70,4422.96,Logistics,Greece,True,M
+Winifred J. Marquart,67,4420.08,Manufacturing,United States,False,F
+Albert Chao & family,76,4419.08,Manufacturing,United States,True,M
+Dorothy Chao Jenkins & family,80,4419.08,Manufacturing,United States,False,F
+James Chao & family,78,4419.08,Manufacturing,United States,True,M
+H. Fisk Johnson,67,4409.3,Manufacturing,United States,False,M
+Anna Katharina Viessmann,40,4407.7,Manufacturing,Germany,False,F
+Miao Hangen,60,4400.74,Diversified,China,True,M
+S. Curtis Johnson,70,4395.27,Manufacturing,United States,False,M
+Aristotelis Mistakidis,64,4391.27,Metals & Mining,Greece,True,M
+Paul Foster,68,4387.44,Energy,United States,True,M
+Erik Selin,58,4371.84,Real Estate,Sweden,True,M
+Donald Sterling,92,4367.52,Real Estate,United States,True,M
+Nancy Mills Barnett,62,4365.3,Healthcare,United States,False,F
+Zhang Jianzhong,60,4361.74,Manufacturing,China,True,M
+Pansy Ho,63,4338.27,Gambling & Casinos,Hong Kong,False,F
+Wang Jianlin,71,4337.77,Real Estate,China,True,M
+Byron Trott,67,4337.0,Finance & Investments,United States,True,M
+Angela Bennett,82,4331.79,Metals & Mining,Australia,False,F
+John Middleton,71,4328.8,Food & Beverage,United States,False,M
+Phil Ruffin,91,4327.35,Diversified,United States,True,M
+Maggie Hardy,60,4325.57,Service,United States,False,F
+C. Dean Metropoulos,79,4323.86,Food & Beverage,United States,True,M
+Patrizio Bertelli,80,4297.64,Fashion & Retail,Italy,True,M
+Sid Bass,84,4297.24,Energy,United States,False,M
+Willy Michel,79,4293.11,Healthcare,Switzerland,True,M
+Kuok Khoon Hong,76,4292.97,Manufacturing,Singapore,False,M
+Miuccia Prada,76,4292.6,Fashion & Retail,Italy,False,F
+Hamilton James & family,74,4290.12,Finance & Investments,United States,True,M
+Yeung Kin-man,73,4288.96,Manufacturing,Hong Kong,True,M
+Gustav Magnar Witzoe,32,4285.39,Food & Beverage,Norway,False,M
+Sukanto Tanoto,76,4275.5,Diversified,Indonesia,True,M
+Vlad Tenev,39,4273.98,Finance & Investments,United States,True,M
+Stewart Rahr,80,4271.7,Healthcare,United States,False,M
+Michael Jordan,63,4270.5,Sports,United States,True,M
+Falguni Nayar,63,4244.69,Fashion & Retail,India,True,F
+Renzo Rosso & family,70,4236.61,Fashion & Retail,Italy,True,M
+Pablo Legorreta,62,4233.27,Finance & Investments,United States,True,M
+Carl Icahn,90,4232.2,Finance & Investments,United States,True,M
+Martin Bouygues,73,4230.25,Construction & Engineering,France,False,M
+Nadir Godrej,75,4225.82,Diversified,India,False,M
+Antonio Gracias,55,4220.11,Finance & Investments,United States,True,M
+Penny Pritzker,66,4218.6,Finance & Investments,United States,False,F
+Richard Schulze,85,4215.33,Fashion & Retail,United States,True,M
+Ravi Pillai,72,4214.02,Construction & Engineering,India,True,M
+Jose Roberto Marinho,70,4210.71,Media & Entertainment,Brazil,False,M
+John Caudwell,73,4209.44,Telecom,United Kingdom,True,M
+Joao Roberto Marinho,72,4209.31,Media & Entertainment,Brazil,False,M
+Du Jiangtao & family,56,4198.96,Manufacturing,China,True,M
+Fu Liquan,58,4197.01,Technology,China,True,M
+Maurizio Billi,68,4196.46,Healthcare,Brazil,False,M
+Rodger Riney & family,80,4196.45,Finance & Investments,United States,True,M
+Lin Chen-hai,79,4192.78,Real Estate,Taiwan,True,M
+Samuel Tak Lee,87,4192.06,Real Estate,Hong Kong,False,M
+Hubert Burda,86,4187.89,Media & Entertainment,Germany,False,M
+Yang Steven Meng,43,4183.87,Technology,China,True,M
+David MacNeil,67,4183.53,Manufacturing,United States,True,M
+Baiju Bhatt,41,4182.52,Finance & Investments,United States,True,M
+Alexandre Van Damme,63,4180.3,Food & Beverage,Belgium,False,M
+Abdulla bin Ahmad Al Ghurair & family,97,4174.64,Diversified,United Arab Emirates,False,M
+Daniel Och,65,4170.0,Finance & Investments,United States,True,M
+Olivier Bouygues,75,4167.42,Construction & Engineering,France,False,M
+Agoes Projosasmito,70,4164.56,Metals & Mining,Indonesia,True,M
+Yang Weidong & family,57,4163.88,Manufacturing,China,True,M
+Luo Liguo & family,70,4163.51,Manufacturing,China,True,M
+Hu Kaijun,64,4160.95,Healthcare,China,True,M
+Cai Kui,63,4155.11,Real Estate,China,True,M
+Giuliana Benetton,88,4153.71,Fashion & Retail,Italy,True,F
+Luciano Benetton,90,4153.71,Fashion & Retail,Italy,True,M
+David Rubenstein,76,4153.43,Finance & Investments,United States,True,M
+Roger Samuelsson,62,4141.14,Healthcare,Sweden,True,M
+Adi Godrej,84,4139.48,Diversified,India,False,M
+Lam Wai-ying,68,4137.06,Manufacturing,Hong Kong,True,F
+Tung Chee Chen,83,4130.96,Logistics,Hong Kong,False,M
+Robert Johnson & family,79,4130.91,Sports,United States,False,M
+Song Zuowen,79,4128.69,Diversified,China,True,M
+Mahendra Choksi & family,85,4112.09,Manufacturing,India,False,M
+Lin Jianhua,63,4108.83,Manufacturing,China,True,M
+Niels Peter Louis-Hansen,78,4103.98,Healthcare,Denmark,False,M
+Todd Christopher,63,4100.0,Fashion & Retail,United States,True,M
+Otto Happel,78,4097.86,Construction & Engineering,Germany,False,M
+Lee Yeow Seng,48,4097.85,Real Estate,Malaysia,False,M
+William Conway Jr,76,4092.65,Finance & Investments,United States,True,M
+Paul Gauselmann & family,91,4088.57,Gambling & Casinos,Germany,True,M
+Michael Saylor,61,4088.22,Technology,United States,True,M
+Yakir Gabay,60,4087.02,Real Estate,Cyprus,True,M
+Ugur Sahin,60,4085.46,Healthcare,Germany,True,M
+Daniel Mate,62,4084.55,Metals & Mining,Spain,True,M
+Samvel Karapetyan,60,4079.06,Construction & Engineering,Russia,True,M
+Charles Zegar,78,4075.0,Finance & Investments,United States,True,M
+Bob Parsons,75,4073.0,Technology,United States,True,M
+Han Arming Hanafia,69,4070.72,Technology,Indonesia,True,M
+Paul-Heinz Wesjohann & family,82,4069.88,Food & Beverage,Germany,True,M
+Miguel Fluxa Rossello,87,4069.72,Service,Spain,False,M
+Dong Zengping,65,4068.45,Manufacturing,China,True,M
+Ivar Tollefsen,64,4066.41,Real Estate,Norway,True,M
+Ji Qi,59,4055.37,Real Estate,Singapore,True,M
+Gil Shwed,57,4049.04,Technology,Israel,True,M
+John Paulson,70,4048.0,Finance & Investments,United States,True,M
+David Blitzer,56,4042.0,Sports,United States,True,M
+Kailashchandra Nuwal,68,4036.58,Manufacturing,India,False,M
+Norman Braman,93,4035.66,Automotive,United States,True,M
+N.R. Narayana Murthy,79,4032.53,Technology,India,True,M
+Mohamed Mansour,78,4031.11,Diversified,Egypt,True,M
+Li Liangbin,58,4030.38,Manufacturing,China,True,M
+Jim Davis,66,4015.22,Service,United States,True,M
+Angelo Koo,60,4001.96,Finance & Investments,Taiwan,False,M
+David Nahmad,79,4000.0,Fashion & Retail,Monaco,True,M
+Jack Link & family,80,4000.0,Food & Beverage,United States,True,M
+Sunny Varkey,69,4000.0,Service,India,False,M
+Clive Palmer,72,3998.67,Metals & Mining,Australia,True,M
+Brian Venturo,41,3998.62,Technology,United States,True,M
+Otto Philipp Braun,48,3996.26,Healthcare,Germany,False,M
+Neal Aronson,61,3996.2,Finance & Investments,United States,True,M
+Patrick Lee,84,3990.3,Manufacturing,Hong Kong,True,M
+Jim Coulter,66,3990.21,Finance & Investments,United States,True,M
+Fang Wei,52,3988.13,Manufacturing,China,True,M
+Julio Ponce Lerou,80,3987.24,Metals & Mining,Chile,True,M
+Marc Lore,54,3979.39,Technology,United States,True,M
+Wang Junmin,57,3979.38,Healthcare,China,True,M
+Norbert Dentressangle & family,71,3975.47,Logistics,France,True,M
+Nirmal Minda,68,3974.3,Automotive,India,False,M
+Cui Genliang,67,3973.63,Manufacturing,China,True,M
+Patrice Motsepe,64,3967.44,Metals & Mining,South Africa,True,M
+Nguyen Thi Phuong Thao,55,3965.9,Diversified,Vietnam,True,F
+Alberto Siccardi & family,82,3960.44,Healthcare,Switzerland,False,M
+Patrizio Vinciarelli,79,3958.74,Technology,United States,True,M
+Wu Kai,58,3956.83,Energy,China,True,M
+Shi Yuzhu,63,3953.43,Diversified,China,True,M
+Reinold Geiger,78,3947.07,Fashion & Retail,Austria,True,M
+Edward DeBartolo Jr,79,3947.05,Real Estate,United States,False,M
+Stewart Horejsi & family,88,3944.15,Finance & Investments,United States,True,M
+Catharina Claas-Muhlhauser,50,3943.68,Manufacturing,Germany,False,F
+Thomas Siebel,73,3937.06,Technology,United States,True,M
+Zhang Wanzhen,76,3932.94,Manufacturing,China,True,M
+David Wertheim,68,3931.46,Food & Beverage,Israel,False,M
+Ray Davis,84,3925.39,Energy,United States,True,M
+Harsh Mariwala,74,3922.25,Food & Beverage,India,False,M
+Richard White,71,3916.93,Technology,Australia,True,M
+Jed McCaleb,51,3909.0,Finance & Investments,United States,True,M
+Alejandro Santo Domingo,49,3908.31,Food & Beverage,United States,False,M
+Ronald McAulay,90,3892.57,Energy,Hong Kong,False,M
+Amos Hostetter Jr,89,3892.49,Media & Entertainment,United States,True,M
+J.B. Pritzker,61,3890.36,Finance & Investments,United States,False,M
+Margaret Baker,60,3885.88,Healthcare,United States,False,F
+Geoffrey Kwok,40,3884.95,Real Estate,Hong Kong,False,M
+Jonathan Kwok,34,3884.95,Real Estate,Hong Kong,False,M
+Herbert Wertheim,86,3883.65,Finance & Investments,United States,True,M
+José E. Feliciano,52,3876.8,Finance & Investments,United States,True,M
+Mark Shoen,75,3876.28,Automotive,United States,False,M
+Wen-Ta Hsieh,65,3873.86,Manufacturing,Taiwan,True,M
+Theodore Leonsis,70,3873.79,Sports,United States,True,M
+Zhao Fenggang,60,3872.01,Energy,China,True,M
+Steve Wynn,84,3864.95,Gambling & Casinos,United States,True,M
+Ron Burkle,73,3864.36,Finance & Investments,United States,True,M
+Kwek Leng Beng,85,3861.36,Diversified,Singapore,False,M
+Chan Tan Ching-fen,65,3858.48,Real Estate,Hong Kong,False,F
+Daniel Loeb,64,3857.5,Finance & Investments,United States,True,M
+Behdad Eghbali,49,3856.3,Finance & Investments,United States,True,M
+Ben Lamm,44,3853.97,Technology,United States,True,M
+P.N.C. Menon,77,3853.92,Real Estate,Oman,True,M
+Louis Le Duff,79,3832.98,Food & Beverage,France,True,M
+Daniel Sundheim,49,3831.0,Finance & Investments,United States,True,M
+Giorgio Perfetti,59,3830.1,Food & Beverage,Italy,False,M
+Shekhar Bajaj,77,3828.75,Diversified,India,False,M
+Kumud Bajaj,71,3828.71,Diversified,India,False,F
+Niraj Bajaj,71,3828.71,Diversified,India,False,M
+Kavitark Ram Shriram,69,3828.42,Technology,United States,True,M
+Vinod Rai Gupta,80,3826.41,Manufacturing,India,False,F
+Mitchell Rales,69,3819.51,Manufacturing,United States,True,M
+Dan Olsson,79,3818.64,Diversified,Sweden,False,M
+Martin Ebner,80,3817.93,Finance & Investments,Switzerland,True,M
+Stephen Jarislowsky,100,3815.43,Finance & Investments,Canada,True,M
+Ira Rennert,91,3813.8,Finance & Investments,United States,True,M
+Meg Whitman,69,3809.36,Technology,United States,True,F
+David Baszucki,63,3807.19,Technology,United States,True,M
+Kim Beom-su,60,3792.54,Technology,South Korea,True,M
+Pat Stryker,70,3787.87,Healthcare,United States,False,F
+Masahiro Miki,70,3786.95,Fashion & Retail,Japan,True,M
+Liu Sheng,55,3786.95,Manufacturing,China,True,M
+Najib Mikati,70,3784.72,Telecom,Lebanon,True,M
+Taha Mikati,81,3784.72,Telecom,Lebanon,True,M
+Cameron Adams,46,3780.0,Technology,Australia,True,M
+Scott Shleifer,48,3780.0,Finance & Investments,United States,True,M
+Danielle Bellon & family,86,3778.25,Service,France,False,F
+Erman Ilicak,58,3778.01,Construction & Engineering,Turkey,True,M
+Weili Dai,64,3767.78,Technology,United States,True,F
+Anand Mahindra,70,3762.0,Diversified,India,False,M
+Lawrence Stroll,66,3751.95,Fashion & Retail,Canada,True,M
+John Fisher,64,3751.5,Fashion & Retail,United States,False,M
+Kommer Damen,82,3747.99,Manufacturing,Netherlands,False,M
+August Troendle,70,3741.22,Healthcare,United States,True,M
+Danny Harris,53,3728.71,Fashion & Retail,United States,True,M
+Dennis Bastas,59,3727.98,Healthcare,Australia,True,M
+Brunello Cucinelli & family,72,3719.81,Fashion & Retail,Italy,True,M
+Alceu Elias Feldmann & family,76,3717.86,Energy,Brazil,True,M
+Ralph Dommermuth,62,3716.1,Technology,Germany,True,M
+Robert Clark,67,3713.32,Construction & Engineering,United States,True,M
+Maggie Gu,44,3710.0,Fashion & Retail,China,True,F
+Molly Miao,40,3710.0,Fashion & Retail,China,True,F
+Ren Xiaoqing,45,3710.0,Fashion & Retail,China,True,M
+Chao Chung-Hsin,71,3708.52,Manufacturing,Taiwan,True,M
+Liang Feng,57,3706.81,Manufacturing,China,True,M
+Liu Wei,39,3700.0,Technology,China,True,M
+Marco DeGeorge,52,3692.5,Fashion & Retail,United States,True,M
+Fernando Chico Pardo,74,3691.43,Service,Mexico,True,M
+Sol Daurella,60,3690.14,Food & Beverage,Spain,False,F
+Kenneth Dart,71,3676.86,Finance & Investments,Belize,False,M
+Romano Minozzi,91,3676.75,Diversified,Italy,True,M
+Adam Kwok,43,3673.24,Real Estate,Hong Kong,False,M
+Qian Dongqi,68,3671.34,Manufacturing,China,True,M
+Takahisa Takahara,64,3669.66,Fashion & Retail,Japan,False,M
+James Packer,58,3669.01,Finance & Investments,Australia,False,M
+Ricardo Salinas Pliego & family,70,3661.19,Fashion & Retail,Mexico,False,M
+Wang Junlin & family,63,3642.69,Food & Beverage,China,True,M
+Spiro Latsis & family,79,3642.37,Diversified,Greece,False,M
+Roman Trotsenko,55,3640.61,Logistics,Russia,True,M
+Peter Hargreaves,79,3638.05,Finance & Investments,United Kingdom,True,M
+Remo Ruffini,64,3637.97,Fashion & Retail,Italy,True,M
+Hiroshi Mikitani,61,3636.61,Fashion & Retail,Japan,True,M
+Barry Zekelman,59,3634.0,Manufacturing,Canada,False,M
+Issad Rebrab & family,82,3632.1,Food & Beverage,Algeria,True,M
+Hemant Taneja,51,3632.0,Technology,United States,True,M
+Panagiotis Tsakos & family,90,3631.33,Logistics,Greece,True,M
+Cai Dongchen,73,3620.06,Healthcare,China,True,M
+G. M. Rao,75,3616.43,Logistics,India,True,M
+Vladimir Litvinenko & family,70,3616.41,Manufacturing,Russia,True,M
+Leon G. Cooperman,83,3614.0,Finance & Investments,United States,True,M
+Sun Weijie,62,3608.16,Manufacturing,China,True,M
+Antonio Del Valle Ruiz & family,87,3604.96,Manufacturing,Mexico,True,M
+Nick Caporella,90,3603.46,Food & Beverage,United States,True,M
+Zhou Jianping,65,3593.58,Fashion & Retail,China,True,M
+Shlomo Eliahu,90,3591.91,Finance & Investments,Israel,True,M
+Prasert Prasarttong-Osoth,93,3590.86,Healthcare,Thailand,True,M
+Yao Liangsong,61,3590.27,Manufacturing,China,True,M
+Liora Ofer,72,3588.92,Finance & Investments,Israel,False,F
+Martua Sitorus,66,3584.44,Manufacturing,Indonesia,True,M
+Hilton Schlosberg & family,73,3583.61,Food & Beverage,United Kingdom,True,M
+Jean Coutu & family,98,3583.42,Fashion & Retail,Canada,True,M
+Fabrizio Di Amato,62,3582.84,Construction & Engineering,Italy,True,M
+Brian Acton,54,3581.0,Technology,United States,True,M
+Lorenzo Fertitta,57,3578.8,Sports,United States,False,M
+Juan Abello,84,3577.12,Finance & Investments,Spain,False,M
+Wolfgang Leitner,73,3571.6,Construction & Engineering,Austria,True,M
+Li Zhenguo & family,58,3571.06,Manufacturing,China,True,M
+William Wrigley Jr,62,3567.95,Food & Beverage,United States,False,M
+Syed Mokhtar AlBukhary,74,3565.81,Construction & Engineering,Malaysia,True,M
+Jeff Rothschild,71,3563.92,Technology,United States,True,M
+Jonathan Nelson,69,3563.36,Finance & Investments,United States,True,M
+Frank Fertitta III,64,3562.96,Sports,United States,False,M
+Hans Georg Naeder & family,64,3562.25,Manufacturing,Germany,False,M
+Travis Kalanick,49,3562.0,Technology,United States,True,M
+Isabella Seràgnoli,80,3548.72,Manufacturing,Italy,False,F
+Marc Fielmann,36,3543.84,Manufacturing,Germany,False,M
+April Goh,35,3538.99,Manufacturing,Singapore,False,F
+Hu Rongda & family,66,3538.57,Manufacturing,China,True,M
+Hong Jie,58,3534.19,Manufacturing,China,True,M
+Palmer Luckey,33,3532.88,Technology,United States,True,M
+C.C. Leung,76,3526.7,Technology,Taiwan,True,M
+Kentaro Ogawa,77,3526.49,Food & Beverage,Japan,True,M
+Ramon Ang,72,3524.25,Food & Beverage,Philippines,True,M
+Klaus-Peter Schulenberg,74,3521.62,Service,Germany,True,M
+Koos Bekker,73,3515.19,Media & Entertainment,South Africa,True,M
+Eduard Schleicher,70,3503.16,Manufacturing,Germany,False,M
+Ursula Hutter-Schleicher,69,3503.16,Manufacturing,Germany,False,F
+Luo Yuhao,36,3500.0,Technology,China,True,M
+Chao Yung-Tsang,70,3496.58,Manufacturing,Taiwan,True,M
+Neil Shen,58,3493.9,Finance & Investments,China,True,M
+Michael Latifi,63,3485.17,Food & Beverage,Canada,True,M
+Gilles Martin,62,3483.59,Healthcare,France,True,M
+Udo Schütz & family,89,3481.66,Manufacturing,Germany,True,M
+Qiu Wensheng,53,3477.66,Manufacturing,China,True,M
+Peter Sondakh,76,3477.46,Finance & Investments,Indonesia,True,M
+Jacques D'Amours,69,3472.01,Fashion & Retail,Canada,True,M
+Bom Kim,47,3465.78,Technology,United States,True,M
+Sergio Stevanato & family,83,3462.66,Healthcare,Italy,True,M
+Vincent McMahon,80,3456.22,Sports,United States,True,M
+Howard Schultz,72,3453.28,Food & Beverage,United States,True,M
+Travis Boersma,55,3450.17,Food & Beverage,United States,True,M
+Georg von Opel,59,3445.54,Finance & Investments,Switzerland,False,M
+Catheline Perier D'Ieteren,81,3432.63,Automotive,Belgium,False,F
+Christian Haub,61,3430.71,Fashion & Retail,Germany,False,M
+Richard Peery,87,3430.37,Real Estate,United States,True,M
+Susan Alfond,80,3427.94,Fashion & Retail,United States,False,F
+Ted Alfond,81,3427.94,Fashion & Retail,United States,False,M
+Bill Alfond,77,3427.87,Fashion & Retail,United States,False,M
+Ankur Jain,36,3423.37,Finance & Investments,United States,True,M
+Karsanbhai Patel,82,3413.1,Diversified,India,True,M
+Waleed Mohammad Al Zaabi,62,3407.55,Real Estate,United Arab Emirates,True,M
+Niva Gurevitch,54,3403.25,Finance & Investments,Israel,False,F
+Tali Griffel,40,3403.25,Finance & Investments,Israel,False,F
+Sanjiv Goenka,65,3401.83,Diversified,India,False,M
+Eva Maria Bucher-Haefner,69,3400.0,Technology,Switzerland,False,F
+Gwynne Shotwell,62,3400.0,Technology,United States,True,F
+Parker Conrad,46,3400.0,Technology,United States,True,M
+Martin Lau,53,3396.37,Technology,Hong Kong,True,M
+Michiel Le Roux,76,3395.47,Finance & Investments,South Africa,True,M
+Jack Gance,80,3393.72,Healthcare,Australia,True,M
+Felix Baker,57,3392.59,Finance & Investments,United States,True,M
+Julian Baker,59,3392.59,Finance & Investments,United States,True,M
+Keith Dunleavy & family,56,3389.0,Healthcare,United States,True,M
+Xie Weitong,69,3384.25,Metals & Mining,Taiwan,True,M
+Gang Ye,45,3384.15,Media & Entertainment,Singapore,True,M
+Jack Cockwell,85,3383.0,Finance & Investments,Canada,True,M
+Zhang Tao,53,3378.88,Fashion & Retail,China,True,M
+Roberto Irineu Marinho,78,3376.74,Media & Entertainment,Brazil,False,M
+Mário Araripe,71,3374.04,Energy,Brazil,True,M
+Peter Beck,49,3372.7,Technology,New Zealand,True,M
+Prathap Reddy,94,3365.36,Healthcare,India,True,M
+Vivek Jain,70,3355.74,Manufacturing,India,False,M
+Sean Parker,46,3355.56,Technology,United States,True,M
+Warren Stephens,69,3355.53,Finance & Investments,United States,False,M
+Augusto Perfetti,79,3354.4,Food & Beverage,Italy,False,M
+Xue Min,69,3348.27,Healthcare,China,True,M
+Segolene Gallienne,48,3343.07,Manufacturing,Belgium,False,F
+B. Partha Saradhi Reddy,72,3335.95,Healthcare,India,True,M
+Sam Altman,40,3333.53,Finance & Investments,United States,True,M
+William Hockey,36,3332.0,Finance & Investments,United States,True,M
+Ma Yunsheng,63,3327.1,Diversified,China,True,M
+Todd Wanek,62,3318.7,Manufacturing,United States,False,M
+Mark Davis,70,3316.8,Sports,United States,False,M
+Thomas James,83,3299.55,Finance & Investments,United States,False,M
+Gerry Harvey,86,3298.76,Fashion & Retail,Australia,True,M
+E. Joe Shoen,76,3292.22,Automotive,United States,False,M
+Xiao Hongxing,59,3291.09,Manufacturing,China,True,M
+David Zalik,52,3284.08,Technology,United States,True,M
+Alan Howard,62,3278.5,Finance & Investments,United Kingdom,True,M
+Shiv Kishan Agrawal,85,3278.3,Food & Beverage,India,False,M
+Zhou Xiaoping,64,3273.72,Manufacturing,China,True,F
+P.V. Ramprasad Reddy,68,3273.64,Healthcare,India,True,M
+Wang Yun'an,40,3269.92,Food & Beverage,China,True,M
+Jay Paul,78,3267.01,Real Estate,United States,True,M
+Ryan Smith,47,3264.0,Technology,United States,True,M
+Wilhelm Beier & family,70,3253.44,Healthcare,Germany,True,M
+Theo Roussis,72,3252.11,Manufacturing,Belgium,False,M
+Lawrence Golub,66,3252.0,Finance & Investments,United States,True,M
+Haim Saban,81,3250.11,Media & Entertainment,United States,True,M
+Eric Sprott,81,3246.69,Finance & Investments,Canada,True,M
+Yu Zhuyun,52,3246.69,Construction & Engineering,China,True,M
+John Tyson & family,72,3243.39,Food & Beverage,United States,False,M
+Sophie Luise Fielmann,31,3240.35,Manufacturing,Germany,False,F
+Martin Hetzner,54,3236.74,Technology,Germany,True,M
+Long Wan,85,3233.13,Food & Beverage,China,True,M
+Lucio Tan,91,3227.7,Diversified,Philippines,True,M
+Harish Ahuja,70,3223.86,Manufacturing,India,False,M
+Jim Breyer,64,3222.39,Finance & Investments,United States,True,M
+Chen Qiongxiang,65,3217.99,Energy,China,True,F
+Alexandr Wang,29,3215.0,Technology,United States,True,M
+Roberto Sallouti,54,3213.8,Finance & Investments,Brazil,True,M
+Frank VanderSloot,77,3211.43,Fashion & Retail,United States,True,M
+Tang Jie,49,3206.14,Technology,China,True,M
+Kwon Hyuk-bin,52,3206.07,Media & Entertainment,South Korea,True,M
+Yang Huiyan & family,44,3205.19,Real Estate,China,False,F
+John Pritzker,72,3204.51,Finance & Investments,United States,False,M
+Byunghoon Kim,37,3202.11,Fashion & Retail,South Korea,True,M
+John Dorrance III,82,3202.0,Food & Beverage,Ireland,False,M
+Henry Laufer,80,3200.0,Finance & Investments,United States,True,M
+Maritsa Lazari & family,81,3199.62,Real Estate,United Kingdom,True,F
+John Coates,56,3198.41,Gambling & Casinos,United Kingdom,True,M
+Pierre Karl Péladeau,64,3195.49,Media & Entertainment,Canada,False,M
+Wu Yingming,59,3195.44,Energy,China,True,M
+Nikhil Kamath,39,3195.13,Finance & Investments,India,True,M
+Howard Butt III & family,74,3195.0,Fashion & Retail,United States,False,M
+Stephen Butt & family,70,3195.0,Fashion & Retail,United States,False,M
+Kiran Mazumdar-Shaw,73,3193.45,Healthcare,India,True,F
+Ben Navarro,63,3190.3,Finance & Investments,United States,True,M
+Stephen Lansdown,73,3186.3,Finance & Investments,Guernsey,True,M
+Marina Berlusconi,59,3186.16,Media & Entertainment,Italy,False,F
+Pier Silvio Berlusconi,56,3186.16,Media & Entertainment,Italy,False,M
+Cheng Xue,56,3184.52,Food & Beverage,China,True,F
+Cho Hyun-joon,58,3183.2,Diversified,South Korea,False,M
+Miriam Baumann-Blocher,51,3179.72,Manufacturing,Switzerland,False,F
+William Chisholm,57,3179.2,Finance & Investments,United States,True,M
+Tung Chee Hwa,88,3176.99,Logistics,Hong Kong,False,M
+Chen Jiancheng,67,3172.18,Manufacturing,China,True,M
+Feng Hailiang,65,3170.32,Metals & Mining,China,True,M
+Frank Love,57,3170.0,Fashion & Retail,United States,False,M
+Greg Love,64,3170.0,Fashion & Retail,United States,False,M
+Jenny Love Meyer,60,3170.0,Fashion & Retail,United States,False,F
+Laura Love,63,3170.0,Fashion & Retail,United States,False,F
+Kamal Ghaffarian,68,3168.31,Energy,United States,True,M
+Senapathy Gopalakrishnan,71,3166.72,Technology,India,True,M
+Chen Fashu,65,3166.36,Finance & Investments,China,True,M
+Dewi Kam,75,3163.29,Energy,Indonesia,True,F
+Oprah Winfrey,72,3158.29,Media & Entertainment,United States,True,F
+Selina Stihl,48,3156.11,Manufacturing,Germany,False,F
+Wang Junshi & family,77,3151.85,Manufacturing,China,True,M
+Glen Taylor,85,3146.85,Service,United States,True,M
+Caroline Hagen Kjos,42,3144.52,Diversified,Norway,False,F
+Gerald Ford,81,3141.26,Finance & Investments,United States,True,M
+Wu Xiangdong,57,3140.08,Food & Beverage,China,True,M
+Alan Trefler,70,3139.4,Technology,United States,True,M
+Denis O'Brien,68,3136.94,Telecom,Ireland,True,M
+Sam Gance,76,3134.15,Healthcare,Australia,True,M
+Frank Blase,66,3133.91,Manufacturing,Germany,False,M
+Kagemasa Kozuki,85,3129.31,Media & Entertainment,Japan,True,M
+Sergei Galitsky,58,3125.4,Fashion & Retail,Russia,True,M
+Duke Reyes,69,3123.0,Food & Beverage,United States,False,M
+Surender Saluja,79,3120.57,Energy,India,True,M
+Jurgen Wirtgen,60,3119.89,Construction & Engineering,Germany,False,M
+Stefan Wirtgen,55,3119.89,Construction & Engineering,Germany,False,M
+Mahima Datla,48,3118.39,Healthcare,India,False,F
+Yan Zhou,38,3114.87,Food & Beverage,China,True,M
+Li Hongxin & family,73,3113.3,Manufacturing,China,True,M
+Eduardo Vivas,40,3107.76,Technology,United States,True,M
+Ferit Faik Sahenk,62,3106.0,Diversified,Turkey,False,M
+William Stone,71,3104.87,Technology,United States,True,M
+George Argyros & family,89,3104.74,Real Estate,United States,True,M
+Robert Friedland,75,3099.63,Metals & Mining,United States,True,M
+Leena Tewari,68,3097.75,Healthcare,India,False,F
+Yoshiko Mori,85,3092.23,Real Estate,Japan,False,F
+Sanjit Biswas,44,3092.18,Technology,United States,True,M
+Alfred Gantner,58,3091.72,Finance & Investments,Switzerland,True,M
+Marcel Erni,61,3091.72,Finance & Investments,Switzerland,True,M
+Urs Wietlisbach,64,3091.72,Finance & Investments,Switzerland,True,M
+Barry Sternlicht,65,3091.62,Finance & Investments,United States,True,M
+Robert Sands,67,3089.43,Food & Beverage,United States,False,M
+Zhang Gongyun,63,3089.31,Manufacturing,China,True,M
+Lin Ming-hsiung,76,3084.74,Fashion & Retail,Taiwan,True,M
+Harsh Goenka,68,3083.74,Diversified,India,False,M
+Chey Tae-won,65,3083.17,Technology,South Korea,False,M
+Ren Yuanlin,72,3079.37,Logistics,China,True,M
+Masahiro Noda,87,3073.9,Technology,Japan,True,M
+Lottie Tham & family,77,3072.47,Fashion & Retail,Sweden,False,F
+Rajan Raheja & family,71,3068.41,Diversified,India,False,M
+Arvind Tiku,56,3063.21,Energy,India,True,M
+Fernando De Leon,47,3062.4,Real Estate,United States,True,M
+Arun Bharat Ram,85,3062.19,Manufacturing,India,False,M
+He Xiaopeng,48,3060.84,Automotive,China,True,M
+Wu Guangming,64,3057.12,Healthcare,China,True,M
+Danna Azrieli,58,3051.65,Real Estate,Israel,False,F
+Naomi Azrieli,60,3051.65,Real Estate,Canada,False,F
+Sharon Azrieli,65,3051.65,Real Estate,Canada,False,F
+Jerry Yang,57,3050.06,Technology,United States,True,M
+Shmuel Harlap,81,3046.25,Automotive,Israel,False,M
+Phillip T. (Terry) Ragon,76,3045.35,Technology,United States,True,M
+Ge Weidong,57,3044.02,Finance & Investments,Hong Kong,True,M
+John Paul DeJoria,82,3032.37,Fashion & Retail,United States,True,M
+Qiu Guanghe & family,74,3031.47,Fashion & Retail,China,True,M
+Liu Jingkang,34,3031.38,Manufacturing,China,True,M
+J. Tomilson Hill,77,3022.07,Finance & Investments,United States,True,M
+Yuji Otsuka,72,3020.87,Technology,Japan,False,M
+Sergei Popov,54,3017.13,Finance & Investments,Russia,True,M
+Deng Weiming & family,57,3015.7,Manufacturing,China,True,M
+Choo Chong Ngen,73,3015.18,Real Estate,Singapore,True,M
+Ye Qiongjiu,71,3009.73,Technology,China,True,F
+Susan Ocampo & family,68,3007.0,Technology,United States,True,F
+Richard Chandler,67,3006.1,Finance & Investments,New Zealand,False,M
+Chen Bangdong,65,3003.08,Manufacturing,China,True,M
+Joel Greenberg,68,3003.0,Finance & Investments,United States,True,M
+John Bicket,46,3001.19,Technology,United States,True,M
+Michael S. Smith,70,3000.0,Energy,United States,True,M
+Sathien Sathientham,72,2999.51,Food & Beverage,Thailand,True,M
+Edward Bass,80,2994.83,Energy,United States,False,M
+Zhang Ning,52,2991.91,Manufacturing,Canada,True,F
+Martin Viessmann,72,2991.6,Manufacturing,Germany,False,M
+Firoz Mistry,29,2990.04,Diversified,Ireland,False,M
+Zahan Mistry,27,2990.04,Diversified,Ireland,False,M
+Alpana Dangi,53,2989.06,Finance & Investments,India,False,F
+Alberto Palatchi,76,2982.66,Fashion & Retail,Spain,True,M
+Anatoly Sedykh,61,2981.55,Metals & Mining,Russia,True,M
+Dmitry Pumpyansky,62,2969.37,Metals & Mining,Russia,True,M
+Madhukar Parekh,79,2968.19,Manufacturing,India,False,M
+Anu Aga,83,2964.88,Construction & Engineering,India,False,F
+Thomas Wu,76,2962.89,Finance & Investments,Taiwan,False,M
+Zhang Lei,53,2960.0,Finance & Investments,Singapore,True,M
+Semahat Sevim Arsel,97,2945.96,Diversified,Turkey,False,F
+Vadim Moshkovich,59,2940.65,Food & Beverage,Russia,True,M
+George Alexander Muthoot,70,2940.31,Finance & Investments,India,False,M
+George Jacob Muthoot,73,2940.31,Finance & Investments,India,False,M
+George Thomas Muthoot,75,2940.31,Finance & Investments,India,False,M
+Sara George Muthoot,66,2940.31,Finance & Investments,India,False,F
+Tor Peterson,61,2938.39,Metals & Mining,United States,True,M
+Balkrishan Goenka,59,2937.81,Manufacturing,India,True,M
+Nicolas Berggruen,64,2934.94,Real Estate,United States,False,M
+Rufino Vigil Gonzalez,77,2933.07,Metals & Mining,Mexico,True,M
+Gerald Frere,74,2932.93,Manufacturing,Belgium,False,M
+Deng Wen,58,2931.21,Food & Beverage,China,True,M
+Jonathan Tisch,72,2930.0,Diversified,United States,False,M
+Wang Changtian,61,2929.61,Media & Entertainment,China,True,M
+Sebastian Glaser,47,2925.22,Technology,Germany,False,M
+Gudrun Heine,71,2922.41,Healthcare,Germany,False,F
+Sybill Storz,89,2922.41,Healthcare,Germany,False,F
+Christina Rohde,50,2921.24,Technology,Germany,False,F
+Thomas Kwok,74,2920.62,Real Estate,Hong Kong,False,M
+Feridun Gecgel,55,2920.16,Diversified,Turkey,True,M
+Brannin McBee,41,2918.15,Technology,United States,True,M
+Wayne Rothbaum,58,2914.7,Healthcare,United States,True,M
+Georgi Domuschiev,53,2913.45,Diversified,Bulgaria,True,M
+Kiril Domuschiev,57,2913.45,Diversified,Bulgaria,True,M
+Ajay Piramal,70,2911.38,Healthcare,India,False,M
+Kei Hoi Pang,60,2911.11,Real Estate,China,True,M
+John Krystynak,57,2905.0,Technology,United States,True,M
+Arvind Poddar,68,2903.87,Automotive,India,False,M
+Jamie Dimon,70,2903.18,Finance & Investments,United States,True,M
+Ugo Gussalli Beretta & family,88,2902.84,Manufacturing,Italy,False,M
+Lindsay Fox,89,2900.84,Logistics,Australia,True,M
+Luca Garavoglia,57,2898.14,Food & Beverage,Italy,False,M
+Karthik Sarma,51,2895.0,Finance & Investments,India,True,M
+Zhang Jian,57,2894.22,Manufacturing,China,True,M
+T.Y. Tsai,73,2893.23,Finance & Investments,Taiwan,False,M
+Chang Kuo-Hua,71,2892.64,Logistics,Taiwan,False,M
+Peter Unger,81,2892.03,Automotive,Germany,True,M
+Gu Yuhua & family,76,2891.55,Manufacturing,China,True,M
+Don Levin,74,2888.5,Manufacturing,United States,True,M
+Kim Jun-ki,81,2888.25,Diversified,South Korea,True,M
+Katarina Martinson,44,2887.66,Diversified,Sweden,False,F
+Glenn Dubin,69,2884.0,Finance & Investments,United States,True,M
+Lee Bass,69,2882.26,Energy,United States,False,M
+Huang Shan,55,2880.43,Technology,China,True,M
+Safra Catz,64,2880.19,Technology,United States,True,F
+Filiz Sahenk,59,2878.25,Diversified,Turkey,False,F
+Lina Tombolato,78,2875.14,Finance & Investments,Italy,False,F
+Daniel Pritzker,66,2873.62,Finance & Investments,United States,False,M
+Annalisa Doris,55,2869.54,Finance & Investments,Italy,False,F
+Hayes Barnard,54,2867.95,Finance & Investments,United States,True,M
+Massimo Doris,58,2867.94,Finance & Investments,Italy,False,M
+Jin Xin,59,2866.84,Manufacturing,China,True,M
+Stephen Deckoff,60,2861.4,Finance & Investments,United States,True,M
+Marcel Herrmann Telles & family,76,2855.98,Food & Beverage,Brazil,True,M
+Chao Teng-hsiung,81,2846.35,Real Estate,Taiwan,True,M
+Craig McCaw,76,2842.76,Telecom,United States,False,M
+Chung Mong-joon,74,2834.93,Manufacturing,South Korea,False,M
+Sylvan Adams,67,2834.9,Real Estate,Israel,False,M
+Mohamed Alabbar,69,2834.14,Diversified,United Arab Emirates,True,M
+Mitchell Goldhar,64,2828.81,Real Estate,Canada,True,M
+Mikhail Shelkov,57,2825.74,Metals & Mining,Russia,True,M
+Philip Niarchos,72,2823.3,Diversified,Greece,False,M
+Maja Oeri,71,2822.43,Healthcare,Switzerland,False,F
+Jeffrey Talpins,51,2820.0,Finance & Investments,United States,True,M
+Tim Cook,65,2818.85,Technology,United States,True,M
+Richard Branson,75,2817.74,Diversified,United Kingdom,True,M
+Tran Dinh Long,65,2817.01,Manufacturing,Vietnam,True,M
+M.Satyanarayana Reddy,69,2814.05,Healthcare,India,True,M
+Chen Kaixuan,67,2813.24,Manufacturing,China,True,M
+Zhao Yan,59,2812.45,Diversified,China,True,F
+Rodney Sacks & family,76,2807.26,Food & Beverage,United States,True,M
+Jay-Z,56,2804.25,Media & Entertainment,United States,True,M
+Su Hua,44,2803.25,Media & Entertainment,China,True,M
+Adam Neumann,47,2802.5,Real Estate,Israel,True,M
+Victor Pinchuk,65,2800.0,Metals & Mining,Ukraine,True,M
+Barbara Tyson,77,2799.17,Food & Beverage,United States,False,F
+David Peñaloza Alanís,52,2797.47,Construction & Engineering,Mexico,False,M
+Shen Xiqiang & family,78,2797.02,Energy,China,True,M
+Kwek Leng Kee,71,2795.24,Diversified,Singapore,False,M
+Abdullah bin Sulaiman Al Rajhi,68,2792.89,Finance & Investments,Saudi Arabia,False,M
+Alfredo Egydio Arruda Villela Filho,56,2789.15,Finance & Investments,Brazil,False,M
+Ted Turner,87,2787.05,Media & Entertainment,United States,False,M
+John Arnold,52,2787.0,Finance & Investments,United States,True,M
+Cao Longxiang & family,68,2782.41,Healthcare,China,True,M
+Larry Tanenbaum,80,2780.82,Sports,Canada,True,M
+Brett Hildebrand,64,2780.0,Finance & Investments,United States,True,M
+Zhang Li,73,2778.4,Real Estate,China,True,M
+Francois Feuillet & family,77,2772.94,Automotive,France,False,M
+Harindarpal Banga,75,2771.3,Finance & Investments,India,True,M
+Amy Adams Strunk,70,2771.0,Sports,United States,False,F
+Wu Guanjiang & family,57,2770.97,Healthcare,China,True,M
+Mathias Doepfner,63,2770.51,Media & Entertainment,Germany,False,M
+Herb Chambers,84,2764.34,Automotive,United States,True,M
+Christian Latouche & family,85,2764.25,Finance & Investments,France,True,M
+Manohar Lal Agarwal,71,2763.4,Food & Beverage,India,False,M
+Zheng Jianjiang & family,65,2762.96,Manufacturing,China,True,M
+Chi Yufeng,55,2762.5,Technology,China,False,M
+Masaaki Arai,60,2760.23,Real Estate,Japan,True,M
+Bernard Lewis & family,100,2759.59,Fashion & Retail,United Kingdom,True,M
+William Boyd & family,94,2757.18,Gambling & Casinos,United States,True,M
+Bernard Saul II & family,94,2756.95,Finance & Investments,United States,False,M
+Alexis Lê-Quôc,51,2756.74,Technology,United States,True,M
+Ranjan Pai,53,2755.68,Healthcare,India,False,M
+Jayme Garfinkel & family,80,2753.8,Finance & Investments,Brazil,False,M
+Leonard Schleifer,73,2751.33,Healthcare,United States,True,M
+Peter Gassner,61,2750.88,Technology,United States,True,M
+Joseph Edelman,70,2748.6,Finance & Investments,United States,True,M
+Richard LeFrak & family,80,2748.25,Real Estate,United States,False,M
+Stein Erik Hagen,69,2747.72,Fashion & Retail,Norway,True,M
+Lirio Parisotto,72,2747.44,Finance & Investments,Brazil,True,M
+Nandan Nilekani,70,2745.53,Technology,India,True,M
+Huang Xiaofen & family,64,2743.18,Technology,China,True,F
+Anand Deshpande,63,2735.89,Technology,India,True,M
+Chen Hua & family,60,2732.93,Real Estate,China,True,M
+T.S. Kalyanaraman,78,2726.55,Fashion & Retail,India,True,M
+Zhu Xingming,59,2725.39,Manufacturing,China,True,M
+Atul Ruia,55,2725.06,Real Estate,India,False,M
+Joe Lonsdale,43,2724.55,Technology,United States,True,M
+Zadik Bino & family,82,2723.79,Diversified,Israel,True,M
+Jay Hennick,69,2723.4,Finance & Investments,Canada,True,M
+Chen Zhiping,50,2720.03,Manufacturing,China,True,M
+Farhad Moshiri,70,2716.54,Diversified,United Kingdom,True,M
+Zeng Chaoyi,57,2716.32,Manufacturing,China,True,M
+Gabriele Gebauer,85,2715.59,Manufacturing,Germany,False,F
+Richard Sands,75,2715.5,Food & Beverage,United States,False,M
+Yoon Dae-in,76,2715.49,Healthcare,South Korea,False,M
+Zhuo Jun,60,2707.59,Manufacturing,Hong Kong,False,F
+Richard Hayne & family,78,2707.44,Fashion & Retail,United States,True,M
+Lam Kong,61,2705.71,Healthcare,China,True,M
+Selçuk Bayraktar,46,2703.0,Technology,Turkey,False,M
+She Yingjie,68,2700.19,Manufacturing,Hong Kong,True,M
+Bidzina Ivanishvili & family,70,2700.0,Finance & Investments,Georgia,True,M
+V. Prem Watsa,75,2699.06,Finance & Investments,Canada,True,M
+Jeff Sutton,66,2689.89,Real Estate,United States,True,M
+Ipek Kirac,41,2688.61,Diversified,Turkey,False,F
+Eugene Murtagh,83,2688.06,Manufacturing,Ireland,True,M
+Michael Hintze,72,2685.87,Finance & Investments,Australia,True,M
+Mortimer Zuckerman,88,2684.91,Real Estate,United States,True,M
+Pham Thu Huong,56,2677.57,Diversified,Vietnam,True,F
+Wee Ee Cheong,73,2670.03,Finance & Investments,Singapore,False,M
+Toto Wolff,54,2659.15,Sports,Austria,True,M
+Alexandra Daitch,63,2657.71,Food & Beverage,United States,False,F
+Lucy Stitzer,66,2657.71,Food & Beverage,United States,False,F
+Sarah MacMillan,72,2657.71,Food & Beverage,United States,False,F
+Anthony Langley,71,2653.66,Diversified,United Kingdom,True,M
+Leng Youbin,57,2653.35,Food & Beverage,China,True,M
+Louise Lindh,46,2652.73,Diversified,Sweden,False,F
+Stephan Crétier,62,2648.19,Service,Canada,True,M
+Reid Hoffman,58,2646.98,Technology,United States,True,M
+Qi Jinxing,64,2643.08,Real Estate,China,True,M
+Jorge Perez,76,2641.73,Real Estate,United States,True,M
+Sam Goi,79,2641.41,Food & Beverage,Singapore,True,M
+Hans-Werner Hector,86,2636.13,Technology,Germany,True,M
+Andrey Andreev,52,2636.1,Technology,United Kingdom,True,M
+Anna Angelicoussis & family,70,2635.0,Logistics,Greece,True,F
+Timm Oberwelland,56,2632.58,Food & Beverage,Germany,False,M
+Mark Leonard & family,69,2630.83,Technology,Canada,True,M
+Henry Swieca,68,2630.8,Finance & Investments,United States,True,M
+Martin Knauf,45,2630.29,Manufacturing,Germany,False,M
+Bernard Ecclestone & family,95,2630.0,Sports,United Kingdom,True,M
+Bertil Hult,85,2627.4,Service,Sweden,True,M
+Eugene Wu,80,2626.52,Finance & Investments,Taiwan,False,M
+Jack Cowin,83,2624.13,Food & Beverage,Australia,True,M
+Alex Beard,58,2621.57,Metals & Mining,United Kingdom,True,M
+Ramesh Juneja,70,2619.84,Healthcare,India,True,M
+Tang Yiu,92,2618.84,Fashion & Retail,Hong Kong,True,M
+Jimmy John Liautaud,62,2618.0,Food & Beverage,United States,True,M
+Jin Baofang,73,2617.67,Energy,China,True,M
+David Hoffmann,73,2617.55,Diversified,United States,True,M
+Xue Hua,65,2617.44,Manufacturing,China,True,M
+George Joseph,104,2616.36,Finance & Investments,United States,True,M
+Anthony Hall,70,2607.92,Technology,Australia,True,M
+Hong Feng,49,2603.57,Technology,China,True,M
+Li Wanqiang,48,2600.82,Technology,China,True,M
+Daniel Rocher,72,2599.78,Fashion & Retail,France,False,M
+Bris Rocher,47,2599.77,Fashion & Retail,France,False,M
+Xie Liangzhi & family,60,2596.21,Healthcare,China,True,M
+J. Hyatt Brown,88,2595.66,Finance & Investments,United States,False,M
+Huijiao Yu,60,2593.91,Logistics,China,True,M
+Alessandra Garavoglia,66,2592.21,Food & Beverage,Italy,False,F
+William Foley II,81,2590.89,Finance & Investments,United States,True,M
+Cameron Winklevoss,44,2588.48,Finance & Investments,United States,True,M
+Tyler Winklevoss,44,2588.48,Finance & Investments,United States,True,M
+Douglas Hsu,83,2587.48,Diversified,Taiwan,False,M
+Stephan Schmidheiny,78,2585.0,Finance & Investments,Switzerland,False,M
+Hal Jackman,93,2584.08,Finance & Investments,Canada,True,M
+Rajeev Juneja,60,2582.27,Healthcare,India,True,M
+William Young,85,2582.0,Manufacturing,United States,True,M
+Zhang Xinghai & family,63,2581.63,Manufacturing,China,True,M
+Bruce Karsh,70,2580.0,Finance & Investments,United States,True,M
+Maren Otto,84,2578.68,Diversified,Germany,False,F
+Sandeep Engineer,64,2578.56,Manufacturing,India,True,M
+Ana Lucia de Mattos Barretto Villela,52,2578.2,Finance & Investments,Brazil,False,F
+Andreas Pohl,61,2573.03,Finance & Investments,Germany,False,M
+Stefan Olsson,77,2573.02,Diversified,Sweden,False,M
+Mustafa Rahmi Koc,95,2571.14,Diversified,Turkey,False,M
+Emad Al Muhaidib,69,2568.02,Diversified,Saudi Arabia,False,M
+David Booth,80,2566.99,Finance & Investments,United States,True,M
+Olivier Pomel,49,2565.66,Technology,France,True,M
+Kalanithi Maran,60,2564.59,Media & Entertainment,India,True,M
+Robert G. Miller,80,2562.56,Technology,Canada,True,M
+Liang Xinjun,57,2562.17,Finance & Investments,Singapore,True,M
+Sam Chong,83,2560.5,Metals & Mining,Australia,True,M
+Kathy Britton,56,2556.86,Real Estate,United States,False,F
+Fernando Roig,78,2554.54,Fashion & Retail,Spain,False,M
+Roy Carroll II,63,2552.94,Real Estate,United States,True,M
+Alain Taravella,78,2551.34,Real Estate,France,True,M
+Han Tao,65,2551.05,Manufacturing,China,True,M
+Alexander Svetakov,58,2550.88,Finance & Investments,Russia,True,M
+D. Leopoldo Del Pino,63,2550.79,Construction & Engineering,Spain,False,M
+David Golub,64,2547.0,Finance & Investments,United States,True,M
+Sam Hupert,71,2544.09,Technology,Australia,True,M
+Barbara Banke & family,72,2543.0,Food & Beverage,United States,True,F
+Dmitry Mazepin,58,2529.0,Manufacturing,Russia,True,M
+Jennifer Pritzker,75,2526.65,Finance & Investments,United States,False,F
+Tom Ford,64,2522.74,Fashion & Retail,United States,True,M
+Roger Wang,77,2522.6,Fashion & Retail,United States,True,M
+Park Soon-jae,71,2522.21,Healthcare,South Korea,True,M
+Dwight Schar,84,2521.5,Construction & Engineering,United States,True,M
+Chin Jong Hwa,67,2520.82,Automotive,Taiwan,True,M
+Mario Germano Giuliani,54,2520.55,Healthcare,Switzerland,False,M
+Anthony Wood,60,2518.01,Technology,United States,True,M
+Alexander Frolov,61,2517.79,Metals & Mining,Russia,True,M
+Gurbachan Singh Dhingra,76,2515.89,Manufacturing,India,True,M
+Kuldip Singh Dhingra,78,2515.89,Manufacturing,India,True,M
+Zhang Yuqiang,70,2515.73,Manufacturing,China,True,M
+Mehmet Sinan & Family Tara,67,2515.35,Construction & Engineering,Turkey,False,M
+Richard Chang,79,2514.62,Manufacturing,Hong Kong,True,M
+Liu Fangyi,65,2513.13,Healthcare,China,True,M
+Luis Enrique Yarur Rey,75,2512.72,Finance & Investments,Chile,False,M
+John Elkann,50,2512.27,Finance & Investments,Italy,False,M
+Katharina Otto-Bernstein,62,2508.71,Real Estate,Germany,False,F
+Zhu Gongshan & family,68,2507.33,Manufacturing,China,True,M
+Sun Shoukuan,76,2507.05,Manufacturing,China,True,M
+Hussain Binghatti Aljbori,69,2506.94,Real Estate,United Arab Emirates,True,M
+Fan Daidi,60,2501.27,Fashion & Retail,China,True,F
+Katharina Andresen,30,2500.81,Diversified,Norway,False,F
+Frank Slootman,67,2500.68,Technology,United States,True,M
+Bret Taylor,45,2500.0,Technology,United States,True,M
+Clay Bavor,43,2500.0,Technology,United States,True,M
+Henry Davis,75,2499.0,Food & Beverage,United States,False,M
+Mi Enhua,68,2497.32,Fashion & Retail,China,True,M
+Or Wai Sheun,74,2493.75,Real Estate,Hong Kong,True,M
+Oei Hong Leong,78,2492.72,Finance & Investments,Singapore,False,M
+Wu Yiling,76,2489.37,Healthcare,China,True,M
+Igor Rotenberg,52,2486.47,Diversified,Russia,True,M
+Devi Shetty,73,2485.55,Healthcare,India,True,M
+Marianna Latsis & family,73,2482.34,Diversified,Greece,False,F
+Michael Polsky,77,2479.0,Energy,United States,True,M
+Wesley Edens,64,2478.45,Finance & Investments,United States,True,M
+Cai Jianyong,55,2474.08,Metals & Mining,China,True,M
+Chen Tei-fu,78,2472.0,Fashion & Retail,Taiwan,True,M
+Yvonne Bauer,49,2470.9,Media & Entertainment,Germany,False,F
+Kenneth Feld & family,77,2470.37,Media & Entertainment,United States,False,M
+Henry Sy Jr,72,2469.2,Diversified,Philippines,False,M
+Walter P.J. Droege,73,2464.78,Finance & Investments,Germany,True,M
+Arne Alexander Wilhelmsen,61,2461.71,Diversified,Norway,False,M
+Bent Wilhelmsen,66,2461.71,Diversified,Norway,False,M
+Peter Preben Wilhelmsen,64,2461.71,Diversified,Norway,False,M
+Jim Crane,72,2458.59,Sports,United States,True,M
+Charles Bronfman,94,2458.5,Food & Beverage,Canada,False,M
+Zhang Fan,60,2458.22,Technology,China,True,M
+Pierre van der Mersch & family,91,2457.74,Finance & Investments,Belgium,True,M
+Zeng Chaolin,43,2457.31,Metals & Mining,China,False,M
+Alexandra Andresen,29,2457.23,Diversified,Norway,False,F
+Wang Kunxiao,56,2457.05,Manufacturing,China,True,M
+Sergei Gordeev,53,2455.41,Real Estate,Russia,True,M
+Jian Yao,65,2454.73,Healthcare,China,False,F
+Egon Durban,52,2454.0,Finance & Investments,United States,True,M
+Greg Mondre,51,2454.0,Finance & Investments,United States,True,M
+Kenneth Hao,57,2454.0,Finance & Investments,United States,True,M
+Alec Gores,73,2453.11,Finance & Investments,United States,True,M
+Mike Repole,57,2451.64,Food & Beverage,United States,True,M
+Ren Jinsheng & family,63,2451.06,Healthcare,China,True,M
+Nicola Bulgari,85,2450.17,Fashion & Retail,Italy,False,M
+Wee Ee Lim,64,2446.42,Finance & Investments,Singapore,False,M
+Riaz Valani,49,2446.3,Finance & Investments,United States,True,M
+Haluk Bayraktar,47,2446.0,Technology,Turkey,False,M
+T. Denny Sanford,90,2443.5,Finance & Investments,United States,True,M
+Manuel Puig Rocha,64,2442.52,Fashion & Retail,Spain,False,M
+Cristiano Crippa,56,2441.03,Manufacturing,Italy,False,M
+Roberto Crippa,46,2441.03,Manufacturing,Italy,False,M
+Alexander Skorobogatko,58,2439.83,Logistics,Russia,True,M
+Brett Blundy,66,2438.51,Fashion & Retail,Australia,True,M
+Thomas Steyer,68,2436.1,Finance & Investments,United States,True,M
+Huang Zelan & family,70,2435.27,Metals & Mining,China,True,M
+Bennett Dorrance,80,2434.79,Food & Beverage,United States,False,M
+Nicola Leibinger-Kammueller,66,2432.97,Manufacturing,Germany,False,F
+Peter Leibinger,59,2432.97,Manufacturing,Germany,False,M
+Regine Leibinger,63,2432.97,Manufacturing,Germany,False,F
+Rolf Gerling,71,2432.81,Finance & Investments,Germany,False,M
+Alexandre Grendene Bartelle,76,2430.89,Fashion & Retail,Brazil,True,M
+Dong Jinggui,65,2428.45,Automotive,China,True,M
+Kristo Käärmann,45,2426.45,Finance & Investments,Estonia,True,M
+Paul Lee,68,2425.99,Manufacturing,United States,True,M
+Alexey Repik,46,2424.21,Healthcare,Russia,True,M
+Florian Rehm,48,2423.46,Food & Beverage,Germany,False,M
+Wang Wenjing,61,2421.39,Technology,China,True,M
+Nan Cunhui,62,2419.72,Manufacturing,China,True,M
+David Teoh,70,2417.93,Telecom,Australia,True,M
+Reinfried Pohl Jr,66,2416.17,Finance & Investments,Germany,False,M
+Adebayo Ogunlesi,72,2414.76,Finance & Investments,United States,True,M
+John Stanton,70,2411.75,Telecom,United States,True,M
+Essam Al Muhaidib,67,2411.63,Diversified,Saudi Arabia,False,M
+Sulaiman Al Muhaidib,71,2411.63,Diversified,Saudi Arabia,False,M
+James Dinan,66,2409.0,Finance & Investments,United States,True,M
+Jannie Mouton & family,79,2408.54,Finance & Investments,South Africa,True,M
+Chu Lam Yiu,56,2408.39,Manufacturing,Hong Kong,True,F
+Ioannis Papalekas,49,2404.65,Real Estate,Greece,True,M
+Mika Anttonen,59,2392.11,Energy,Finland,True,M
+Shlomo Kramer,60,2391.0,Technology,Israel,True,M
+David Dean Halbert,70,2389.62,Healthcare,United States,True,M
+Zygmunt Solorz & family,69,2385.62,Media & Entertainment,Poland,True,M
+Madeleine Grogg,65,2385.22,Healthcare,Switzerland,False,F
+Koo Bon-neung,77,2382.74,Technology,South Korea,False,M
+Yoo Jung-hyun,57,2378.14,Media & Entertainment,South Korea,False,F
+Zhou Hongyi,55,2377.29,Technology,China,True,M
+John de Mol,71,2377.01,Media & Entertainment,Netherlands,True,M
+Steven Schonfeld,66,2377.0,Finance & Investments,United States,True,M
+Bhadresh Shah,74,2376.55,Manufacturing,India,True,M
+Wang Jianfeng & family,65,2375.16,Automotive,China,True,M
+Kie Chie Wong,78,2373.72,Metals & Mining,Malaysia,False,M
+Renato dos Santos,48,2373.42,Finance & Investments,Brazil,True,M
+Sylvia Stroeher,70,2373.0,Fashion & Retail,Germany,False,F
+Song Chi-hyung,47,2371.93,Finance & Investments,South Korea,True,M
+Ma Bin & family,55,2369.94,Manufacturing,China,True,M
+Hans Jakob Limbach,78,2369.71,Healthcare,Germany,True,M
+Gao Xingjiang,62,2364.82,Manufacturing,China,True,M
+Fred Ehrsam,37,2360.7,Finance & Investments,United States,True,M
+Shi Yonghong & family,57,2356.13,Food & Beverage,China,True,M
+F.C. Tseng,65,2354.8,Technology,Taiwan,True,M
+Wei Huang,66,2354.49,Real Estate,China,True,M
+Igor Makarov,64,2351.95,Energy,Cyprus,True,M
+Rishad Naoroji,74,2351.94,Diversified,India,False,M
+Steve Case,67,2350.89,Technology,United States,True,M
+Manuel Villar,76,2348.89,Real Estate,Philippines,True,M
+Michael Ying,76,2348.44,Fashion & Retail,Hong Kong,True,M
+Lee Dong-chae,66,2347.4,Manufacturing,South Korea,True,M
+Joe Lacob,70,2344.0,Sports,United States,True,M
+Cho Jyh-jer,70,2343.42,Technology,Taiwan,True,M
+Enrique Coppel Luken,78,2336.63,Fashion & Retail,Mexico,False,M
+Du Jinhao,72,2336.54,Healthcare,China,True,M
+Christopher Kwok,40,2333.98,Real Estate,Hong Kong,False,M
+Christiane Knauf,54,2331.15,Manufacturing,Germany,False,F
+Christine Knauf,70,2331.15,Construction & Engineering,Germany,False,F
+Karl Knauf,69,2331.15,Manufacturing,Germany,False,M
+Edward Kwok,45,2330.8,Real Estate,Hong Kong,False,M
+Todd Wagner,65,2330.73,Media & Entertainment,United States,True,M
+Leslie Alexander,82,2329.42,Sports,United States,True,M
+Wei Ing-Chou,72,2328.65,Food & Beverage,Taiwan,True,M
+Wei Yin-Chun,69,2328.65,Food & Beverage,Taiwan,True,M
+Wei Yin-Heng,67,2328.65,Food & Beverage,Taiwan,True,M
+Wei Ying-Chiao,71,2328.65,Food & Beverage,Taiwan,True,M
+David Fong,68,2326.0,Real Estate,Hong Kong,False,M
+Daniel Lubetzky,57,2324.0,Food & Beverage,United States,True,M
+Dermot Desmond,75,2321.75,Finance & Investments,Ireland,True,M
+Ke Zunhong & family,71,2320.56,Healthcare,China,True,M
+Wu Lanlan & family,52,2320.51,Manufacturing,China,True,F
+Nerio Alessandri,65,2319.68,Manufacturing,Italy,True,M
+Steven Witkoff & family,69,2319.38,Real Estate,United States,True,M
+Acharya Balkrishna,53,2318.83,Food & Beverage,India,True,M
+Kevin Systrom,42,2318.78,Technology,United States,True,M
+Abhay Soi,52,2318.58,Healthcare,India,True,M
+Ion Tiriac,86,2317.61,Finance & Investments,Romania,True,M
+Guo Guangchang,59,2317.52,Diversified,China,True,M
+Sheryl Sandberg,56,2314.1,Technology,United States,True,F
+Bent Jensen & Family,74,2313.4,Manufacturing,Denmark,False,M
+Vivek Ramaswamy,40,2313.22,Healthcare,United States,True,M
+Sanjeev Bikhchandani,62,2312.67,Technology,India,True,M
+Thomas Dundon,54,2310.0,Sports,United States,True,M
+Carlos March Delgado,80,2309.43,Finance & Investments,Spain,False,M
+Bill Malhotra,76,2307.88,Real Estate,Canada,True,M
+Edward Lampert,63,2307.83,Finance & Investments,United States,True,M
+Alexander Ponomarenko,61,2307.83,Logistics,Russia,True,M
+Shu Ping,65,2305.28,Food & Beverage,Singapore,True,F
+Li Gaiteng,54,2304.69,Manufacturing,China,True,M
+Sunil Vachani,57,2303.34,Manufacturing,India,True,M
+Salil Singhal,78,2303.1,Manufacturing,India,False,M
+Phillip Frost,89,2301.38,Healthcare,United States,True,M
+Fiona Geminder,61,2300.81,Manufacturing,Australia,False,F
+David Grain,63,2300.0,Finance & Investments,United States,True,M
+Luciano Hang,63,2294.83,Fashion & Retail,Brazil,True,M
+Brian Hill,65,2294.81,Fashion & Retail,Canada,True,M
+Rafique Malik,75,2292.89,Fashion & Retail,India,False,M
+Dong Wei,55,2292.11,Healthcare,China,True,M
+Phongthep Chiaravanont,74,2291.8,Diversified,Thailand,False,M
+Heikki Kyostila,80,2291.66,Healthcare,Finland,True,M
+David Paul,59,2291.39,Healthcare,United States,True,M
+Bob Ell,81,2290.13,Real Estate,Australia,True,M
+Jerry Reinsdorf,90,2290.0,Sports,United States,True,M
+Rita Tong Liu,77,2288.05,Real Estate,Hong Kong,True,F
+Sergei Sudarikov,54,2287.06,Finance & Investments,Russia,True,M
+Liang Qin & family,54,2286.54,Technology,China,True,F
+Li Zhiyuan,71,2285.19,Manufacturing,China,True,M
+Christopher Rokos,55,2285.0,Finance & Investments,United Kingdom,True,M
+Yusuf Hamied,89,2284.8,Healthcare,India,False,M
+Joaquin del Pino y Calvo-Sotelo,65,2283.77,Construction & Engineering,Spain,False,M
+Daniel Hirschfeld,84,2283.25,Fashion & Retail,United States,False,M
+David Adelman,54,2282.0,Real Estate,United States,True,M
+Matthew Pritzker,43,2280.45,Diversified,United States,False,M
+Ami Luttwak,42,2280.0,Technology,Israel,True,M
+Assaf Rappaport,42,2280.0,Technology,Israel,True,M
+Roy Reznik,37,2280.0,Technology,Israel,True,M
+Yinon Costica,43,2280.0,Technology,Israel,True,M
+Shigenobu Nagamori,81,2279.55,Manufacturing,Japan,True,M
+Chung Yong-jin,57,2277.33,Fashion & Retail,South Korea,False,M
+Jyoti Bansal,48,2277.0,Technology,United States,True,M
+Stefan Soloviev,50,2274.5,Real Estate,United States,False,M
+Edwin Leong,74,2274.38,Real Estate,Hong Kong,True,M
+Arnout Schuijff,58,2272.81,Technology,Netherlands,True,M
+Ji Wei & family,69,2272.72,Manufacturing,China,True,M
+Ho Hung Anh,55,2272.61,Finance & Investments,Vietnam,True,M
+Manas Chiaravanond,70,2270.96,Diversified,Thailand,False,M
+Fan Xiulian,62,2270.77,Healthcare,China,True,F
+Bahaa Hariri,60,2270.53,Real Estate,Lebanon,False,M
+Somsri Lamsam,70,2270.37,Diversified,Thailand,False,F
+Basudeo Singh,85,2269.18,Healthcare,India,True,M
+Jupally Rameshwar Rao,70,2267.21,Real Estate,India,True,M
+Gu Wei,61,2262.67,Manufacturing,China,True,M
+Ron Sim,67,2262.61,Fashion & Retail,Singapore,True,M
+Akio Nitori,82,2260.09,Fashion & Retail,Japan,True,M
+Leonard Abess,77,2259.91,Finance & Investments,United States,False,M
+Sabrina Benetton,52,2259.6,Fashion & Retail,Italy,False,F
+Liu Chengyu & family,63,2256.63,Manufacturing,China,True,M
+Huang Jiangji,65,2255.9,Technology,Hong Kong,True,M
+Inder Jaisinghani,73,2254.56,Manufacturing,India,True,M
+Xiang Guangming & family,62,2254.05,Manufacturing,China,True,M
+Marcelo Claure,55,2252.62,Telecom,United States,True,M
+Alicia Koplowitz,72,2251.2,Finance & Investments,Spain,False,F
+Prathip Chiravanond,77,2250.2,Diversified,Thailand,False,M
+Wong Luen Hei,64,2248.28,Manufacturing,China,True,M
+Ed Craven,30,2246.29,Gambling & Casinos,Australia,True,M
+Christian Birkenstock,53,2245.77,Fashion & Retail,Germany,False,M
+Constantinos Martinos & family,73,2245.18,Logistics,Greece,True,M
+Ryan Horton,53,2244.72,Real Estate,United States,False,M
+Katsumi Tada,80,2242.89,Real Estate,Japan,True,M
+Clayton Zekelman,57,2242.0,Manufacturing,Canada,False,M
+Drorit Wertheim,70,2241.73,Food & Beverage,Israel,False,F
+Cynthia Helena Grossman Fleishman,71,2239.68,Food & Beverage,Mexico,False,F
+Ajay Bhardwaj,65,2239.45,Healthcare,India,True,M
+Reagan Horton,50,2239.29,Real Estate,United States,False,M
+Xue Jiping,75,2235.49,Telecom,China,True,M
+Charles Edelstenne & family,88,2235.44,Manufacturing,France,True,M
+Djoko Susanto,76,2234.09,Fashion & Retail,Indonesia,True,M
+Tibor Veres,64,2233.9,Diversified,Hungary,True,M
+Abdullah Al Othaim,69,2231.52,Fashion & Retail,Saudi Arabia,False,M
+Sergei Studennikov & family,59,2230.23,Fashion & Retail,Russia,True,M
+Karin Sartorius-Herbst,83,2229.99,Healthcare,Germany,False,F
+Irving Grousbeck & family,91,2229.0,Sports,United States,True,M
+Noam Gottesman,64,2228.99,Finance & Investments,United States,True,M
+K. Dinesh,71,2227.96,Technology,India,True,M
+Helena Dassault,36,2225.74,Diversified,France,False,F
+Remi Dassault,25,2225.74,Diversified,France,False,M
+Paul Saville,70,2224.15,Real Estate,United States,True,M
+Jim Thompson & family,86,2223.23,Logistics,Ireland,True,M
+Cheng Yixiao,42,2222.72,Media & Entertainment,China,True,M
+Benjamin Otto,50,2222.48,Fashion & Retail,Germany,False,M
+Ales Zavoral,49,2220.24,Fashion & Retail,Czech Republic,True,M
+Zhu Yiming,53,2219.79,Technology,China,True,M
+Jerry Speyer & family,85,2219.31,Real Estate,United States,True,M
+Zhang Bangxin,46,2218.7,Service,China,True,M
+Howard Marks,80,2215.88,Finance & Investments,United States,True,M
+Gordon Wu,90,2215.64,Real Estate,Hong Kong,True,M
+Dennis Gillings,82,2214.99,Healthcare,United Kingdom,True,M
+Chen Jinxia,58,2213.61,Finance & Investments,China,False,F
+Jason Murray,47,2211.78,Healthcare,United States,True,M
+Pawel Marchewka,53,2211.11,Technology,Poland,True,M
+Juan March Delgado,86,2206.24,Finance & Investments,Spain,False,M
+Liu Weiping,47,2205.17,Food & Beverage,China,True,M
+Mark Hancock,50,2204.32,Healthcare,United States,True,M
+Roberto Hernandez Ramirez,84,2203.1,Finance & Investments,Mexico,True,M
+Beda Diethelm,85,2200.46,Healthcare,Switzerland,True,M
+Adarsh Hiremath,23,2200.0,Technology,United States,True,M
+Brendan Foody,23,2200.0,Technology,United States,True,M
+Liang Rubo,43,2200.0,Technology,China,True,M
+Surya Midha,22,2200.0,Technology,United States,True,M
+Vlad Yatsenko,42,2200.0,Finance & Investments,Ukraine,True,M
+Natacha Nikolajevic,59,2196.63,Diversified,France,False,F
+Bijan Tehrani,32,2195.72,Gambling & Casinos,United States,True,M
+Laurie Tisch,75,2195.7,Diversified,United States,False,F
+Steven Tisch,77,2195.7,Diversified,United States,False,M
+Hermanto Tanoko,63,2193.46,Manufacturing,Indonesia,False,M
+Vivek Chand Burman,89,2189.14,Food & Beverage,India,False,M
+John Armitage,66,2189.0,Finance & Investments,Ireland,True,M
+Bill Austin,84,2187.89,Manufacturing,United States,True,M
+Dan Wilks,69,2187.36,Energy,United States,True,M
+Ramesh Jaisinghani,69,2185.25,Manufacturing,India,False,M
+Linda Pritzker,72,2184.2,Service,United States,False,F
+Ajay Jaisinghani,74,2182.3,Manufacturing,India,False,M
+Mao Geping & family,62,2181.26,Fashion & Retail,China,True,M
+Chen Qixing,66,2181.11,Technology,China,True,M
+Strive Masiyiwa,65,2178.85,Telecom,Zimbabwe,True,M
+Mario Gabelli,84,2178.64,Finance & Investments,United States,True,M
+Karl Scheufele III & family,87,2177.58,Fashion & Retail,Switzerland,True,M
+Jerry Moyes & family,82,2176.6,Logistics,United States,True,M
+Heikki Herlin,39,2176.43,Manufacturing,Finland,False,M
+Kishore Jain,62,2175.82,Fashion & Retail,India,False,M
+Jiang Yintai & family,75,2174.67,Automotive,China,True,M
+Marc Lasry,65,2174.55,Finance & Investments,United States,True,M
+Alberto Bombassei,85,2174.08,Automotive,Italy,False,M
+Rubens Menin Teixeira de Souza,70,2172.99,Diversified,Brazil,True,M
+Li Zhongchu,62,2172.29,Technology,China,True,M
+Dragos Paval,59,2171.07,Fashion & Retail,Romania,True,M
+Ruan Shuilong & family,90,2170.39,Manufacturing,China,True,M
+Domenico Dolce,67,2170.08,Fashion & Retail,Italy,True,M
+Stefano Gabbana,63,2170.07,Fashion & Retail,Italy,True,M
+Sandor Csanyi,73,2167.23,Diversified,Hungary,True,M
+Chen Shibin,59,2165.74,Manufacturing,China,True,M
+Larry Robbins,56,2164.0,Finance & Investments,United States,True,M
+Jian Jun,62,2163.12,Healthcare,China,True,F
+Alexandra Burt,52,2162.57,Metals & Mining,Australia,False,F
+Julio Bozano,90,2159.97,Finance & Investments,Brazil,True,M
+Lyu Yixiong,63,2157.36,Fashion & Retail,China,True,M
+Bruce Toll,83,2156.75,Real Estate,United States,True,M
+Jaroslav Hascak & family,56,2156.15,Finance & Investments,Slovakia,True,M
+Wilma Tisch,98,2155.36,Diversified,United States,False,F
+Li Jianquan & family,69,2155.32,Healthcare,Hong Kong,True,M
+Kabir Mulchandani,53,2154.39,Real Estate,India,False,M
+Gustavo Denegri & family,89,2154.29,Healthcare,Italy,True,M
+Vladislav Filev & family,62,2153.12,Service,Russia,True,M
+Richard Saghian,44,2149.0,Fashion & Retail,United States,True,M
+Koh Wee Meng,62,2148.53,Real Estate,Singapore,True,M
+Petter Stordalen & family,63,2147.65,Service,Norway,True,M
+Anurang Jain,64,2146.88,Manufacturing,India,True,M
+Karl-Johan Persson,51,2146.4,Fashion & Retail,Sweden,False,M
+Marek Dospiva,56,2145.63,Finance & Investments,Czech Republic,True,M
+Ibrahim Al Muhaidib,39,2144.75,Real Estate,Saudi Arabia,False,M
+Liang Guangwei,62,2142.92,Manufacturing,China,True,M
+Hisao Nagata,69,2142.2,Fashion & Retail,Japan,False,M
+Evan Spiegel,35,2140.26,Technology,United States,True,M
+John Liew,58,2138.8,Finance & Investments,United States,True,M
+Alex Birkenstock,57,2137.35,Fashion & Retail,Germany,False,M
+Mustafa Kucuk,62,2136.69,Fashion & Retail,Turkey,True,M
+Wong Man Li,61,2135.6,Manufacturing,Hong Kong,True,M
+Nicholas Pritzker,82,2131.42,Finance & Investments,United States,False,M
+Li Jianli,53,2130.84,Manufacturing,China,True,M
+Gao Yunfeng,59,2126.77,Manufacturing,China,True,M
+Vasily Anisimov,74,2125.0,Metals & Mining,Croatia,True,M
+Solina Chau,64,2120.01,Finance & Investments,Hong Kong,True,F
+Tong Yongsheng & family,61,2118.29,Manufacturing,China,True,M
+Ilkka Herlin,67,2117.97,Manufacturing,Finland,False,M
+Tim Draper,67,2117.59,Finance & Investments,United States,False,M
+Simon Nixon,58,2114.85,Technology,United Kingdom,True,M
+Archie Hwang,73,2111.72,Technology,Singapore,True,M
+Gideon Hamburger,81,2109.87,Finance & Investments,Israel,False,M
+Nurit Manor,73,2109.87,Finance & Investments,Israel,False,F
+Yair Hamburger,79,2109.87,Finance & Investments,Israel,False,M
+Ni Zugen,69,2107.0,Manufacturing,China,True,M
+Ishay Davidi,64,2105.55,Finance & Investments,Israel,True,M
+Athanasios Martinos & family,76,2104.6,Logistics,Greece,True,M
+Manuel Arango Arias,90,2104.0,Fashion & Retail,Mexico,True,M
+Pavel Baudis,65,2103.64,Technology,Czech Republic,True,M
+Anthony Casalena,43,2102.0,Technology,United States,True,M
+Ye Guofu,48,2101.18,Fashion & Retail,China,True,M
+Andy Konwinski,42,2100.0,Technology,United States,True,M
+Aravind Srinivas,31,2100.0,Technology,India,True,M
+Denis Yarats,38,2100.0,Technology,United States,True,M
+Guillermo Rauch,35,2100.0,Technology,United States,True,M
+Johnny Ho,65,2100.0,Technology,United States,True,M
+Manfredi Lefebvre d'Ovidio & family,72,2099.68,Service,Italy,False,M
+Michael Heine,76,2098.8,Finance & Investments,Australia,True,M
+Solomon Lew,81,2098.34,Fashion & Retail,Australia,True,M
+Walter Wang,61,2098.06,Manufacturing,United States,False,M
+Manuel Lao Hernández & family,81,2097.72,Gambling & Casinos,Spain,True,M
+Mohammed Dewji,50,2093.97,Diversified,Tanzania,False,M
+John Bloor,82,2091.18,Diversified,United Kingdom,True,M
+Alberto Cortina,80,2090.48,Finance & Investments,Spain,True,M
+Wee Ee Chao,70,2089.24,Finance & Investments,Singapore,False,M
+Radha Vembu,53,2088.89,Technology,India,False,F
+Larry Connor,76,2087.94,Real Estate,United States,True,M
+Leonie Baldock,54,2082.72,Metals & Mining,Australia,False,F
+Paolo Bulgari,88,2079.82,Fashion & Retail,Italy,False,M
+Binod Chaudhary,71,2077.33,Diversified,Nepal,False,M
+Scott Nuttall,53,2074.77,Finance & Investments,United States,True,M
+B. Wayne Hughes Jr,66,2073.18,Real Estate,United States,False,M
+Abdullah Amer Al Nahdi,65,2070.86,Healthcare,Saudi Arabia,True,M
+Doug Ostrover,63,2069.64,Finance & Investments,United States,True,M
+Robin Khuda,46,2066.44,Technology,Australia,True,M
+Michael Hsing,65,2065.52,Technology,United States,True,M
+Jack Cogen,70,2064.56,Technology,United States,True,M
+Bernhard Braun-Luedicke,49,2063.57,Healthcare,Germany,False,M
+Eva Maria Braun-Luedicke,39,2063.57,Healthcare,Germany,False,F
+Friederike Braun-Luedicke,42,2063.57,Healthcare,Germany,False,F
+Alberto Alcocer,83,2061.65,Finance & Investments,Spain,True,M
+Luiz Frias,63,2059.55,Media & Entertainment,Brazil,False,M
+Angela Leong,65,2058.56,Real Estate,Hong Kong,False,F
+Chu Mang Yee & family,66,2058.0,Real Estate,China,True,M
+Chung Yong-ji,56,2057.74,Healthcare,South Korea,True,M
+Wang Miaotong,68,2057.52,Automotive,China,True,M
+Liesel Pritzker Simmons,42,2054.16,Diversified,United States,False,F
+An Kang,77,2052.97,Healthcare,China,True,M
+Dominika Kulczyk,48,2052.29,Finance & Investments,Poland,False,F
+Wichai Thongtang,79,2051.64,Finance & Investments,Thailand,True,M
+Nihat Ozdemir,76,2050.5,Diversified,Turkey,True,M
+Sezai Bacaksiz,76,2050.5,Diversified,Turkey,True,M
+Hamdi Akin & family,71,2049.74,Diversified,Turkey,True,M
+Narendrakumar Parekh,88,2049.37,Manufacturing,India,False,M
+Andres Santo Domingo,47,2049.08,Food & Beverage,United States,False,M
+Herbert Allen Jr & family,86,2046.41,Finance & Investments,United States,False,M
+Ajay Parekh,68,2045.39,Manufacturing,India,False,M
+Matthew Roszak,53,2044.81,Finance & Investments,United States,True,M
+Serge Godin,76,2043.55,Technology,Canada,True,M
+Prem Kumar Arora,87,2043.21,Healthcare,India,False,M
+J. Frank Harrison III & family,71,2043.14,Food & Beverage,United States,False,M
+Gao Mingqing,73,2042.46,Metals & Mining,China,True,M
+Tom Persson,41,2042.36,Fashion & Retail,Sweden,False,M
+G. Rajendran,83,2042.18,Fashion & Retail,India,True,M
+Alex Bouaziz,32,2040.0,Technology,France,True,M
+Shuo Wang,37,2040.0,Technology,United States,True,F
+Randal J. Kirk,72,2039.86,Healthcare,United States,True,M
+John Abele & family,89,2039.0,Healthcare,United States,True,M
+Zhang Jingzhang & family,90,2038.43,Manufacturing,China,True,M
+Lee Chae-yoon,75,2037.55,Technology,South Korea,True,M
+Tom Werner,76,2036.43,Sports,United States,True,M
+Vadim Yakunin,63,2036.04,Healthcare,Russia,True,M
+Per Sandberg,64,2035.96,Healthcare,Sweden,False,M
+Raj Sardana,66,2033.9,Technology,United States,True,M
+Guilherme Benchimol,49,2033.26,Finance & Investments,Brazil,True,M
+Pantaleo Dell'Orco,73,2032.28,Fashion & Retail,Italy,False,M
+Ilona Herlin,61,2031.27,Manufacturing,Finland,False,F
+Robert Fisher,72,2031.06,Fashion & Retail,United States,False,M
+Kim Nam-goo,62,2030.03,Finance & Investments,South Korea,False,M
+Ron Corio,64,2029.9,Energy,United States,True,M
+Stephen Orenstein & family,62,2029.9,Diversified,United States,False,M
+Vikram Punia,53,2029.65,Healthcare,Russia,True,M
+Yuri Kovalchuk & family,74,2028.76,Finance & Investments,Russia,True,M
+Eugene Kaspersky,60,2027.58,Technology,Russia,True,M
+Carmen Daurella Aguilera,69,2026.54,Food & Beverage,Spain,False,F
+Wu Shaoxun,70,2026.43,Food & Beverage,China,True,M
+Stephane Bonvin,59,2026.35,Real Estate,Switzerland,True,M
+Zhao Lixin,60,2022.57,Technology,China,True,M
+Aneel Bhusri,60,2021.29,Technology,United States,True,M
+Hemendra Kothari,79,2020.82,Finance & Investments,India,False,M
+Ian Wood & family,83,2019.7,Energy,United Kingdom,False,M
+Mark Coombs,65,2018.36,Finance & Investments,United Kingdom,True,M
+Gavril Yushvaev & family,68,2016.28,Finance & Investments,Russia,True,M
+Jitendra Virwani,60,2016.15,Real Estate,India,False,M
+Charlotte Soderstrom,49,2014.65,Fashion & Retail,Sweden,False,F
+P.V. Krishna Reddy,56,2013.09,Construction & Engineering,India,True,M
+Avram Glazer,65,2011.0,Sports,United States,False,M
+Bryan Glazer,61,2011.0,Sports,United States,False,M
+Darcie Glazer Kassewitz,57,2011.0,Sports,United States,False,F
+Edward Glazer,56,2011.0,Sports,United States,False,M
+Joel Glazer,59,2011.0,Sports,United States,False,M
+Kevin Glazer,64,2011.0,Sports,United States,False,M
+Husnu Ozyegin,81,2010.85,Finance & Investments,Turkey,True,M
+Bill Gross,82,2009.47,Finance & Investments,United States,True,M
+David Walentas,87,2007.33,Real Estate,United States,True,M
+Liu Zhenfeng,64,2006.87,Manufacturing,China,True,M
+Taylor Swift,36,2006.5,Media & Entertainment,United States,True,F
+Zhao Tao,60,2006.49,Healthcare,Singapore,False,M
+Hao Hong,70,2004.71,Healthcare,United States,True,M
+David Kabiller,62,2004.0,Finance & Investments,United States,True,M
+Yigal Dimri,70,2003.21,Construction & Engineering,Israel,True,M
+Clark Hunt & family,61,2000.4,Sports,United States,False,M
+Daniel Hunt & family,49,2000.4,Sports,United States,False,M
+Lamar Hunt Jr & family,69,2000.4,Sports,United States,False,M
+Sharron Hunt & family,68,2000.4,Sports,United States,False,F
+Joseph 'Pitt'  Reeves Hyde III,83,2000.0,Automotive,United States,False,M
+Oren Zeev,61,2000.0,Finance & Investments,Israel,True,M
+Gary Chouest & family,81,1999.72,Logistics,United States,False,M
+Wang Zhenhua,64,1998.65,Real Estate,China,True,M
+Michael Ashcroft,80,1997.12,Finance & Investments,United Kingdom,True,M
+David Lichtenstein,64,1996.61,Real Estate,United States,True,M
+Yao Kuizhang,61,1996.61,Food & Beverage,China,True,M
+Edir Macedo & family,81,1996.01,Media & Entertainment,Brazil,True,M
+Gregg Hymowitz,60,1996.0,Finance & Investments,United States,True,M
+Carsten Maschmeyer,66,1995.7,Finance & Investments,Germany,True,M
+Mehmet Ali Aydinlar,69,1993.29,Healthcare,Turkey,True,M
+Nicholas Howley,64,1992.12,Manufacturing,United States,True,M
+Pan Dong,61,1989.35,Fashion & Retail,Canada,True,F
+Willis Johnson,78,1989.08,Automotive,United States,True,M
+Philippe Ginestet & family,72,1988.77,Fashion & Retail,France,True,M
+Michelle Zatlyn,46,1988.52,Technology,Canada,True,F
+Roberto Angelini Rossi,77,1987.36,Diversified,Chile,False,M
+Gundbert Scherf,44,1986.44,Technology,Germany,True,M
+Niklas Köhler,34,1986.44,Technology,Germany,True,M
+Torsten Reil,52,1986.44,Technology,Germany,True,M
+Joe Rogers Jr,79,1984.0,Food & Beverage,United States,False,M
+Alexander Ramlie,53,1983.6,Metals & Mining,Indonesia,True,M
+Robert Miller,92,1983.23,Fashion & Retail,United Kingdom,True,M
+Vasily Shikin,41,1981.29,Technology,United States,True,M
+Koo Kwang-mo,48,1981.1,Diversified,South Korea,False,M
+Amjad Masad,65,1980.0,Technology,United States,True,M
+Peter Sperling,66,1980.0,Service,United States,False,M
+Amy Wyss,55,1979.0,Healthcare,United States,False,F
+Zhou Yahui,49,1975.76,Media & Entertainment,China,True,M
+Sefik Yilmaz Dizdar,88,1974.3,Fashion & Retail,Turkey,True,M
+Hiroshi Ishibashi,79,1974.11,Automotive,Japan,False,M
+Farris Wilks,74,1973.96,Energy,United States,True,M
+Richard Desmond,74,1972.1,Media & Entertainment,United Kingdom,True,M
+Huang Zhenda & family,78,1970.26,Construction & Engineering,China,True,M
+Alfred Oetker,59,1964.68,Fashion & Retail,Germany,False,M
+Carl Ferdinand Oetker,53,1964.68,Fashion & Retail,Germany,False,M
+David Fattal & family,68,1964.54,Service,Israel,True,M
+Gan Zhongru,77,1963.13,Healthcare,China,True,M
+Alfons Doblinger,82,1961.91,Real Estate,Germany,True,M
+John Van Lieshout,80,1961.63,Real Estate,Australia,True,M
+Gao Jifan & family,61,1960.95,Energy,China,True,M
+Gary Fegel,52,1960.0,Metals & Mining,Switzerland,True,M
+Xu Chuanhua & family,91,1958.13,Manufacturing,China,True,M
+Wenaas Lars,75,1957.17,Service,Norway,True,M
+Ruslan Rahimkulov,47,1957.06,Diversified,Russia,False,M
+Richard Fortin,77,1956.28,Fashion & Retail,Canada,True,M
+Stéphane Bancel,53,1955.14,Healthcare,France,True,M
+Geoffrey Palmer,75,1952.45,Real Estate,United States,True,M
+Evan Williams,54,1952.0,Technology,United States,True,M
+William Koch,85,1951.0,Energy,United States,False,M
+Christopher Goldsbury,83,1950.59,Food & Beverage,United States,False,M
+Lin Xiucheng & family,70,1948.64,Technology,China,True,M
+Gerda Tschira,82,1948.07,Technology,Germany,False,F
+Harald Tschira,51,1948.07,Technology,Germany,False,M
+Udo Tschira,56,1948.07,Technology,Germany,False,M
+Pawan Munjal,71,1948.05,Automotive,India,False,M
+John Hancock,50,1946.75,Metals & Mining,Australia,False,M
+Peter Lim,72,1944.76,Finance & Investments,Singapore,True,M
+Giammaria Giuliani,48,1941.88,Healthcare,Switzerland,False,M
+P.P. Reddy,68,1938.02,Construction & Engineering,India,True,M
+Zhao Ding,36,1937.99,Food & Beverage,China,True,M
+Zhang Xiaojuan,56,1937.94,Logistics,China,True,F
+Sue Gross,76,1937.37,Finance & Investments,United States,False,F
+Boris Zingarevich,66,1934.86,Diversified,Russia,True,M
+Ginia Rinehart,39,1933.87,Metals & Mining,Australia,False,F
+Holger Loclair,75,1933.86,Manufacturing,Germany,True,M
+Airat Shaimiev,64,1931.65,Energy,Russia,True,M
+Xu Shugen,60,1931.58,Manufacturing,China,True,M
+Li Jinyang,43,1929.92,Metals & Mining,China,False,F
+Cristina Junqueira,43,1929.84,Finance & Investments,Brazil,True,F
+Conni Jonsson,65,1928.54,Finance & Investments,Sweden,True,M
+Yeh Kuo-I,85,1927.61,Manufacturing,Taiwan,True,M
+Li Weiguo,61,1925.23,Manufacturing,China,True,M
+Sun Mengquan & family,76,1922.86,Food & Beverage,China,True,M
+Asok Kumar Hiranandani,71,1922.08,Real Estate,Singapore,False,M
+Bianca Rinehart,49,1919.74,Metals & Mining,Australia,False,F
+Hope Welker,40,1919.74,Metals & Mining,Australia,False,F
+Sandro Veronesi & family,66,1919.49,Fashion & Retail,Italy,True,M
+Massimo Moratti,80,1919.49,Energy,Italy,False,M
+Alberto Prada,72,1918.22,Fashion & Retail,Italy,False,M
+Marina Prada,80,1918.22,Fashion & Retail,Italy,False,F
+Joseph Bae,54,1917.47,Finance & Investments,United States,True,M
+Xue Xiangdong & family,67,1915.59,Technology,China,True,M
+Raymond Kwok,73,1915.35,Real Estate,Hong Kong,False,M
+Ralph Winterhalter,48,1914.0,Manufacturing,Germany,True,M
+Daniel Chiu,65,1912.87,Energy,Hong Kong,True,M
+Oleg Boyko,61,1912.24,Diversified,Russia,True,M
+Lesley Bamberger,60,1911.6,Real Estate,Netherlands,False,M
+Zhang Xingang,65,1905.47,Technology,United States,True,M
+Thomas Eisert,33,1904.65,Manufacturing,Germany,False,M
+Lai Shixian,51,1904.41,Fashion & Retail,China,True,M
+Meng Qingshan & family,77,1902.09,Manufacturing,China,True,M
+Pham Thuy Hang,51,1900.38,Diversified,Vietnam,True,F
+Charlwin Mao,41,1900.0,Fashion & Retail,China,True,M
+Eric Glyman,35,1900.0,Finance & Investments,United States,True,M
+Gene Lee,35,1900.0,Finance & Investments,United States,True,M
+Karim Atiyeh,36,1900.0,Finance & Investments,United States,True,M
+Miranda Qu,41,1900.0,Fashion & Retail,China,True,F
+John Goff,70,1899.85,Real Estate,United States,True,M
+Noubar Afeyan,63,1897.62,Healthcare,United States,True,M
+Elisabeth Douglas,84,1897.3,Diversified,Sweden,False,F
+Diona Teh Li Shian,65,1896.64,Finance & Investments,Malaysia,False,F
+Lillian Teh Li Ming,65,1896.64,Finance & Investments,Malaysia,False,F
+Lillyn Teh Li Hua,65,1896.64,Finance & Investments,Malaysia,False,F
+William Teh Lee Pang,65,1896.64,Finance & Investments,Malaysia,False,M
+Leo Huang,75,1894.8,Manufacturing,Taiwan,True,M
+Jane Lauder,53,1894.41,Fashion & Retail,United States,False,F
+Barbara Benetton,56,1894.07,Fashion & Retail,Italy,False,F
+Viren Doshi,57,1890.26,Energy,India,False,M
+Hui Wing Mau,75,1889.65,Real Estate,Hong Kong,True,M
+Kim Kardashian,45,1885.0,Fashion & Retail,United States,True,F
+Peter Jackson,64,1884.69,Media & Entertainment,New Zealand,True,M
+Pavan Jain,74,1883.41,Manufacturing,India,False,M
+Koo Bon-sik,67,1881.47,Technology,South Korea,False,M
+Timur Rahimkulov,49,1881.18,Diversified,Russia,False,M
+Stephen Rubin & family,89,1880.86,Fashion & Retail,United Kingdom,False,M
+Marc Andreessen,54,1880.44,Finance & Investments,United States,True,M
+Girdhari Lal Bawri,78,1878.52,Healthcare,India,True,M
+Joop van den Ende,84,1877.78,Media & Entertainment,Netherlands,True,M
+Yasuhiro Fukushima,78,1877.51,Media & Entertainment,Japan,True,M
+Emre Tezmen,53,1875.9,Finance & Investments,Turkey,True,M
+Peng Hao,58,1875.38,Manufacturing,China,True,M
+Terry Taylor,75,1875.2,Automotive,United States,True,M
+Martine Rothblatt,71,1874.49,Healthcare,United States,True,F
+Abbas Sajwani,26,1874.27,Real Estate,United Arab Emirates,False,M
+Zbigniew Juroszek & family,63,1874.26,Diversified,Poland,True,M
+Wang Wenmo,69,1873.1,Fashion & Retail,China,True,M
+Itzhak Ezratti & family,73,1872.51,Real Estate,United States,True,M
+Giovanni Arvedi,88,1871.9,Metals & Mining,Italy,True,M
+Zakhar Smushkin,64,1870.68,Diversified,Russia,True,M
+Raamdeo Agrawal,69,1869.32,Finance & Investments,India,True,M
+Rubén Coppel Luken,76,1869.3,Fashion & Retail,Mexico,False,M
+Alex Shevchenko,46,1869.0,Technology,Canada,True,M
+Max Lytvyn,46,1869.0,Technology,Canada,True,M
+Yin Yee Lee,74,1868.31,Manufacturing,China,True,M
+James Tisch,73,1868.3,Diversified,United States,False,M
+Li Rucheng,74,1867.97,Fashion & Retail,China,True,M
+Masateru Uno & family,79,1866.88,Fashion & Retail,Japan,True,M
+Suman Munjal,73,1866.87,Automotive,India,False,M
+Hu Yangzhong,61,1865.03,Technology,China,True,M
+Ruan Hongliang,65,1864.57,Manufacturing,China,True,M
+Barbara Berlusconi,41,1864.03,Media & Entertainment,Italy,False,F
+Eleonora Berlusconi,39,1864.03,Media & Entertainment,Italy,False,F
+Luigi Berlusconi,37,1864.03,Media & Entertainment,Italy,False,M
+Samir Mane,58,1861.09,Diversified,Albania,True,M
+Juan Domingo Beckmann Legorreta & family,58,1859.71,Food & Beverage,Mexico,False,M
+Renu Munjal,71,1859.22,Automotive,India,False,F
+Mario Moretti Polegato & family,73,1857.75,Fashion & Retail,Italy,True,M
+Stephane Courbit,60,1857.16,Media & Entertainment,France,True,M
+Alan Zekelman,63,1856.0,Manufacturing,Canada,False,M
+Mark Attanasio,68,1855.3,Finance & Investments,United States,True,M
+James Leininger,81,1852.04,Healthcare,United States,True,M
+Jean-Pierre Cayard & family,83,1851.36,Food & Beverage,France,False,M
+Jeff T. Green,49,1850.93,Media & Entertainment,United States,True,M
+Philip O'Doherty,65,1850.0,Technology,Ireland,True,M
+Christoph Henkel,68,1849.36,Fashion & Retail,Germany,False,M
+Carlie Irsay-Gordon,45,1848.6,Sports,United States,False,F
+Casey Foyt,43,1848.6,Sports,United States,False,F
+Kalen Jackson,38,1848.6,Sports,United States,False,F
+Jose Maria Aristrain,63,1848.43,Metals & Mining,Spain,False,M
+Bennett Rosenthal,62,1846.05,Finance & Investments,United States,True,M
+Alexander Isaev,50,1843.3,Energy,Russia,True,M
+John Oyler,58,1840.2,Healthcare,United States,True,M
+Stanley Hubbard,92,1838.91,Media & Entertainment,United States,False,M
+Cao Kejian,64,1837.62,Manufacturing,China,True,M
+Christoffel Wiese,84,1836.81,Fashion & Retail,South Africa,True,M
+Duncan MacMillan,88,1834.0,Finance & Investments,United States,True,M
+Bambang Sutantio,67,1833.51,Food & Beverage,Indonesia,True,M
+Zong Yanmin,61,1831.45,Manufacturing,China,True,M
+Anju Agarwal,58,1831.1,Healthcare,India,False,F
+Artem Khachatryan,51,1831.0,Fashion & Retail,Russia,True,M
+Sergei Katsiev,68,1827.63,Fashion & Retail,Russia,True,M
+Michael Minhong Yu,64,1826.53,Service,China,True,M
+Helena Revoredo & family,79,1826.28,Service,Spain,False,F
+Kwee Liong Keng,80,1825.71,Real Estate,Singapore,False,M
+Kwee Liong Phing,68,1825.71,Real Estate,Singapore,False,M
+Kwee Liong Seen,73,1825.71,Real Estate,Singapore,False,M
+Kwee Liong Tek,79,1825.71,Real Estate,Singapore,False,M
+Girdhari Jaisinghani,81,1824.25,Manufacturing,India,False,M
+Xu Yingzhuo,58,1823.96,Food & Beverage,China,True,M
+Eduardo Voigt Schwartz,36,1823.92,Manufacturing,Brazil,False,M
+Mariana Voigt Schwartz Gomes,40,1823.92,Manufacturing,Brazil,False,F
+Banwari Lal Bawri,73,1823.38,Healthcare,India,True,M
+Chang Jianming & family,61,1822.47,Manufacturing,China,True,M
+Zsolt Felcsuti,54,1820.96,Manufacturing,Hungary,True,M
+Youssef Mansour,80,1817.0,Diversified,Egypt,True,M
+Said Gutseriev,38,1815.08,Energy,Russia,False,M
+Satish Mehta,75,1814.63,Healthcare,India,True,M
+Surjit Kumar Gupta,84,1810.9,Manufacturing,India,False,M
+Bernd Freier,69,1810.45,Fashion & Retail,Germany,True,M
+Marius Nacht,60,1810.25,Technology,Israel,True,M
+Wu Cheng,41,1809.47,Metals & Mining,China,True,M
+Sebastian Kulczyk,45,1807.46,Finance & Investments,Poland,False,M
+Mochtar Riady & family,96,1806.58,Diversified,Indonesia,True,M
+Harvey Jones,73,1806.07,Technology,United States,True,M
+Liu Gexin & family,74,1803.85,Healthcare,China,True,M
+Saroj Rani Gupta,75,1803.72,Manufacturing,India,True,F
+Michael Patterson,51,1803.17,Finance & Investments,United States,True,M
+Scot French,55,1803.17,Finance & Investments,United States,True,M
+Alexander Tkachev,65,1802.68,Food & Beverage,Russia,True,M
+Shao Qinxiang,71,1802.57,Manufacturing,China,True,M
+Li Qiong,48,1801.7,Media & Entertainment,China,False,F
+Grigory Berezkin,59,1800.55,Energy,Russia,True,M
+Arthur Mensch,33,1800.0,Technology,France,True,M
+Brian Higgins,61,1800.0,Finance & Investments,United States,True,M
+Gerry Cardinale,58,1800.0,Finance & Investments,United States,True,M
+Guillaume Lample,35,1800.0,Technology,France,True,M
+O. Francis Biondi,61,1800.0,Finance & Investments,United States,True,M
+Timothy Dunn & family,70,1800.0,Energy,United States,True,M
+Timothée Lacroix,34,1800.0,Technology,France,True,M
+JB Straubel,50,1798.7,Automotive,United States,True,M
+Walter Kortschak,66,1797.7,Finance & Investments,United States,True,M
+Larry Culp,63,1795.96,Manufacturing,United States,True,M
+Alexander Knauf,51,1791.31,Manufacturing,Germany,False,M
+Michael Arougheti,53,1791.17,Finance & Investments,United States,True,M
+Alan Miller & family,88,1790.33,Healthcare,United States,True,M
+Radik Shaimiev,61,1786.8,Energy,Russia,True,M
+Charlotte Colket Weber,83,1784.46,Food & Beverage,United States,False,F
+Mitchell Jacobson,75,1783.95,Service,United States,False,M
+Mrudula Parekh,78,1782.67,Manufacturing,India,False,F
+Andrew Tan,74,1782.45,Diversified,Philippines,True,M
+Chow Shing Yuk,47,1781.0,Logistics,Hong Kong,True,M
+Melissa Ma,65,1779.51,Technology,China,True,F
+Alberto Coppel Luken,74,1775.85,Fashion & Retail,Mexico,False,M
+José Coppel Luken,67,1775.85,Fashion & Retail,Mexico,False,M
+Horst Wortmann & family,84,1774.99,Fashion & Retail,Germany,True,M
+Yang Qiumei,61,1771.85,Technology,Hong Kong,False,F
+James France,81,1771.44,Sports,United States,False,M
+Anna Maria Braun,47,1771.44,Healthcare,Germany,False,F
+Johanna Braun,46,1771.44,Healthcare,Germany,False,F
+Karl Friedrich Braun,43,1771.44,Healthcare,Germany,False,M
+Lee Jay-hyun,66,1769.4,Diversified,South Korea,False,M
+Park Dong-suk,64,1765.94,Manufacturing,South Korea,True,M
+Amnon Shashua,65,1765.2,Automotive,Israel,True,M
+Timothy Boyle,76,1764.27,Fashion & Retail,United States,True,M
+Gary Michelson,77,1764.1,Healthcare,United States,True,M
+Chen Wenyuan & family,58,1761.8,Technology,China,True,M
+Christine Franken & family,81,1761.01,Healthcare,Germany,False,F
+Ulrike Baro,76,1761.01,Healthcare,Germany,False,F
+Lei Jufang,73,1760.84,Healthcare,China,True,F
+Albert Shigaboutdinov,73,1759.71,Diversified,Russia,True,M
+Ricardo Villela Marino,52,1759.48,Finance & Investments,Brazil,False,M
+Cargill MacMillan III,66,1758.74,Food & Beverage,United States,False,M
+John MacMillan,76,1758.74,Food & Beverage,United States,False,M
+Martha MacMillan,74,1758.74,Food & Beverage,United States,False,F
+William MacMillan,71,1758.74,Food & Beverage,United States,False,M
+Will Adderley,54,1758.7,Fashion & Retail,United Kingdom,False,M
+Pia Hollweg-Vajen,51,1758.59,Manufacturing,Germany,False,F
+Rodolfo Villela Marino,50,1757.93,Finance & Investments,Brazil,False,M
+Kai-Uwe Hollweg,60,1757.42,Manufacturing,Germany,False,M
+Rustem Sulteev,72,1756.21,Energy,Russia,True,M
+Carmen Riu Guell,71,1755.56,Service,Spain,False,F
+Luis Riu,66,1755.56,Real Estate,Spain,False,M
+Maike Oberwelland-Height,62,1755.4,Food & Beverage,Germany,False,F
+Pavel Demidov & family,57,1751.33,Food & Beverage,Russia,True,M
+Fumio Kaneko,69,1751.12,Service,Japan,True,M
+Donald Friese,85,1750.0,Manufacturing,United States,True,M
+Mati Staniszewski,31,1750.0,Technology,Poland,True,M
+Piotr Dabkowski,31,1750.0,Technology,Poland,True,M
+Adam Forste,48,1749.76,Diversified,United States,True,M
+Kevin Marchetti,48,1749.76,Diversified,United States,True,M
+Alexander Diehl,47,1743.4,Manufacturing,Germany,False,M
+Carla Diehl,36,1743.4,Manufacturing,Germany,False,F
+Konstantin Diehl,33,1743.4,Manufacturing,Germany,False,M
+Laura Diehl,37,1743.4,Manufacturing,Germany,False,F
+Markus Diehl,42,1743.4,Manufacturing,Germany,False,M
+Stephanie Haas,44,1743.4,Manufacturing,Germany,False,F
+Keith Bentley & family,67,1743.13,Technology,United States,True,M
+William Fisher,69,1738.7,Fashion & Retail,United States,False,M
+Tian Ming,72,1738.32,Technology,China,True,M
+James Scapa,69,1732.77,Technology,United States,True,M
+Zhang Shilong & family,60,1732.11,Technology,China,True,M
+Wang Xicheng & family,77,1729.07,Manufacturing,China,True,M
+Igor Khudokormov,57,1728.84,Food & Beverage,Russia,True,M
+Zhong Ruonong & family,63,1728.0,Manufacturing,China,True,F
+Gretel Packer,60,1727.6,Finance & Investments,Australia,False,F
+Zhang Yin,69,1727.18,Manufacturing,China,True,F
+Hal Steinbrenner,57,1727.15,Sports,United States,False,M
+Jennifer Steinbrenner Swindal,66,1727.15,Sports,United States,False,F
+Jessica Steinbrenner,62,1727.15,Sports,United States,False,F
+Faisal Bin Qassim Al Thani,78,1726.88,Diversified,Qatar,True,M
+Li Weiwei,49,1725.73,Technology,China,True,M
+Alfred West Jr,83,1723.59,Finance & Investments,United States,True,M
+Catherine Phillips,74,1721.89,Finance & Investments,Canada,True,F
+John Phillips,75,1721.89,Finance & Investments,Canada,True,M
+Huang Dawen,65,1721.61,Manufacturing,Hong Kong,True,M
+Aloke Lohia,67,1721.36,Manufacturing,India,False,M
+Ivan Chrenko,58,1721.2,Real Estate,Slovakia,True,M
+Sergey Shishkarev,58,1718.21,Logistics,Russia,True,M
+Helene Odfjell,60,1717.5,Construction & Engineering,Norway,False,F
+Madhusudan Agarwal,70,1716.6,Food & Beverage,India,False,M
+Lin Fanlian,64,1714.93,Energy,China,True,M
+Chen Yuantai,58,1713.46,Energy,China,True,M
+Paul Van Zuydam,88,1712.15,Manufacturing,South Africa,True,M
+Ulrich Mommert & family,85,1710.68,Automotive,Austria,True,M
+Scott Lin,93,1710.37,Technology,Taiwan,True,M
+Chris Lin,65,1706.76,Manufacturing,Taiwan,True,M
+Li Haiyan,54,1705.73,Food & Beverage,China,True,F
+George Yancopoulos,66,1704.71,Healthcare,United States,True,M
+Monica Crippa,61,1703.37,Manufacturing,Italy,False,F
+Wang Linxiang,74,1702.61,Fashion & Retail,China,True,M
+Drew Houston,43,1701.44,Technology,United States,True,M
+Christian Dreyer,61,1700.16,Manufacturing,Germany,False,M
+Justus Dreyer,55,1700.16,Manufacturing,Germany,False,M
+Igor Tulchinsky,59,1700.0,Finance & Investments,United States,True,M
+Ivan Zhao,39,1700.0,Technology,Canada,True,M
+Vladimir Leshchikov,69,1700.0,Real Estate,Russia,True,M
+Wang Chaobin,70,1700.0,Real Estate,China,True,M
+Cao Ji,74,1699.7,Manufacturing,China,True,M
+Zhou Jian,49,1698.85,Energy,China,True,M
+Guy Laliberté,66,1697.68,Media & Entertainment,Canada,True,M
+S.D. Shibulal,71,1697.39,Technology,India,True,M
+Lloyd Blankfein,71,1696.34,Finance & Investments,United States,True,M
+Carlos Sanchez,64,1690.52,Healthcare,Brazil,False,M
+Sasson Dayan & family,86,1688.81,Finance & Investments,Brazil,True,M
+Farkhad Akhmedov,70,1687.0,Energy,Russia,True,M
+Jon Winkelried,66,1686.99,Finance & Investments,United States,True,M
+Zhuang Kuilong & family,63,1686.38,Manufacturing,China,True,M
+Artur Grynbaum,57,1685.29,Fashion & Retail,Brazil,True,M
+Melchior Oeri,32,1683.91,Healthcare,Switzerland,False,M
+Thomas Bruch,76,1683.81,Fashion & Retail,Germany,False,M
+Fu Guangming & family,72,1683.18,Food & Beverage,China,True,M
+Anita Zucker,74,1682.48,Manufacturing,United States,False,F
+Lau Cho Kun,90,1682.42,Diversified,Malaysia,False,M
+Fang Hongbo,59,1680.59,Manufacturing,China,True,M
+Lai Jianfa,65,1680.02,Logistics,China,True,M
+Lu Di,65,1680.0,Technology,China,True,M
+Phil Shawe,56,1680.0,Technology,United States,True,M
+Ye Xiaoping,63,1679.85,Healthcare,China,True,M
+Lim Kok Thay,74,1679.18,Gambling & Casinos,Malaysia,False,M
+Pacal Vanhalst & family,56,1678.63,Finance & Investments,Belgium,False,M
+Brandt Louie,82,1678.14,Food & Beverage,Canada,False,M
+David Mindus,54,1677.48,Real Estate,Sweden,True,M
+Zhang Yubo,41,1675.48,Manufacturing,China,True,M
+Zhao Jianhui,66,1675.28,Manufacturing,United States,True,M
+Ivan Savvidis & family,67,1674.55,Diversified,Russia,True,M
+Gabriella Meister,77,1674.34,Manufacturing,Germany,False,F
+Forrest Preston,93,1672.91,Healthcare,United States,True,M
+Jeremy Allaire,54,1672.52,Finance & Investments,United States,True,M
+R.G. Chandramogan,77,1668.09,Food & Beverage,India,True,M
+Jahm Najafi,63,1667.0,Finance & Investments,United States,True,M
+Ludwig Theodor Braun,36,1666.04,Healthcare,Germany,False,M
+Othman Benjelloun & family,93,1664.46,Finance & Investments,Morocco,False,M
+David Kaplan,58,1662.89,Finance & Investments,United States,True,M
+Diego Della Valle,72,1661.06,Fashion & Retail,Italy,False,M
+K.C. Liu,72,1660.98,Technology,Taiwan,True,M
+Akirov Alfred,85,1657.91,Real Estate,Israel,True,M
+Ulrike Meister,59,1657.47,Manufacturing,Germany,False,F
+Andrew Tisch,76,1655.61,Diversified,United States,False,M
+Huang Xu,58,1655.19,Technology,China,True,M
+Chen Yung-tai,90,1653.64,Real Estate,Taiwan,True,M
+Leonid Simanovsky,76,1653.61,Finance & Investments,Russia,True,M
+Shyam Bhartia,73,1653.32,Healthcare,India,False,M
+Kenny Troutt,78,1653.2,Telecom,United States,True,M
+Liu Xiaodong,58,1653.07,Manufacturing,China,True,M
+Sam Pollock,59,1652.46,Finance & Investments,Canada,True,M
+Anand Burman,73,1652.16,Food & Beverage,India,False,M
+Hari Bhartia,69,1650.81,Diversified,India,False,M
+Torsten Toeller,60,1649.04,Fashion & Retail,Germany,True,M
+Min-Liang Tan,48,1647.55,Media & Entertainment,Singapore,True,M
+Edward Netylko,58,1647.29,Healthcare,Russia,True,M
+Cheng Zhenghui,61,1646.97,Healthcare,China,True,M
+Anil Gupta,66,1646.35,Manufacturing,India,False,M
+Franziska Wuerbser,38,1645.85,Manufacturing,Germany,False,F
+Hitesh Doshi,59,1645.74,Energy,India,True,M
+Jeffrey Gundlach,67,1643.8,Finance & Investments,United States,True,M
+Lu Ruibo,62,1643.71,Manufacturing,China,True,M
+Pankaj Doshi,63,1643.45,Energy,India,False,M
+Francisco Jose Riberas Mera,61,1643.21,Manufacturing,Spain,False,M
+Thomas Powell,85,1640.94,Manufacturing,United States,True,M
+Zhou Jian,49,1640.25,Technology,China,True,M
+Bulent Eczacibasi,76,1639.05,Diversified,Turkey,False,M
+Ren Jianhua,69,1638.25,Manufacturing,China,True,M
+Li Shui-po,69,1637.31,Manufacturing,Taiwan,True,M
+Juan Maria Riberas Mera,57,1636.59,Metals & Mining,Spain,False,M
+Mohammad Abunayyan,63,1636.17,Diversified,Saudi Arabia,False,M
+Lai Guogui & family,62,1635.86,Manufacturing,China,True,M
+Luo Yangyong & family,50,1635.1,Metals & Mining,China,True,M
+Li Xiaohua & family,64,1633.55,Manufacturing,China,True,M
+Kishin RK,42,1632.27,Real Estate,Singapore,False,M
+Raj Kumar,71,1632.27,Real Estate,Singapore,True,M
+Gloria Joseph,102,1631.64,Finance & Investments,United States,False,F
+Zeng Kaitian,51,1630.1,Technology,China,True,M
+Vladimir Krupchak,68,1630.05,Manufacturing,Cyprus,True,M
+Lalit Khaitan,82,1628.3,Food & Beverage,India,False,M
+Sze Man Bok,76,1625.97,Manufacturing,China,True,M
+Pieter van der Does,56,1624.75,Technology,Netherlands,True,M
+Dmitry Alexeyev,51,1622.01,Fashion & Retail,Russia,True,M
+Jim McKelvey,60,1620.54,Technology,United States,True,M
+Hans-Ueli Rihs & family,82,1620.24,Manufacturing,Switzerland,False,M
+Alan Wilson,85,1620.22,Fashion & Retail,Australia,False,M
+Bruce Wilson,80,1620.22,Fashion & Retail,Australia,False,M
+John Wilson,88,1620.22,Fashion & Retail,Australia,False,M
+Yoshiaki Yoshida,85,1618.7,Fashion & Retail,Japan,True,M
+Motilal Oswal,63,1618.51,Finance & Investments,India,True,M
+Deniz Sahenk,80,1617.56,Diversified,Turkey,False,F
+Samuel Chen,76,1616.8,Finance & Investments,Taiwan,True,M
+Zhang Jianguo & family,63,1616.48,Energy,China,True,M
+Lou Jing & family,63,1615.99,Healthcare,China,True,M
+Jose Llorens Torra,82,1614.86,Finance & Investments,Spain,True,M
+Vladimir Yevtushenkov,77,1614.7,Telecom,Russia,True,M
+Liang Yunchao,57,1614.46,Food & Beverage,China,True,M
+Sanjay Agarwal,55,1613.23,Finance & Investments,India,True,M
+Alexander Sixt,46,1612.91,Automotive,Germany,False,M
+Konstantin Sixt,43,1612.91,Automotive,Germany,False,M
+Lai Jianping,65,1611.03,Food & Beverage,China,True,M
+Lu Zongjun,62,1609.55,Logistics,China,True,M
+Hans Sy,70,1609.43,Diversified,Philippines,False,M
+Yi Dasheng,65,1607.93,Diversified,China,True,M
+Art Levinson,76,1603.65,Diversified,United States,True,M
+Warren Chen,75,1603.61,Manufacturing,Taiwan,True,M
+Olivia Holding,61,1602.12,Finance & Investments,United States,False,F
+Wirastuty Fangiono,53,1601.12,Manufacturing,Indonesia,False,F
+Tang Jinkui & family,70,1599.85,Manufacturing,China,True,M
+Antti Aarnio-Wihuri,86,1598.32,Diversified,Finland,False,M
+Ronnie Screwvala,69,1597.3,Media & Entertainment,India,True,M
+Wang Zhenggen,53,1597.21,Technology,China,True,M
+Lisa Su,56,1596.65,Technology,United States,True,F
+Pan Laican,65,1595.73,Food & Beverage,China,True,M
+Henry Engelhardt,68,1593.94,Finance & Investments,United States,True,M
+Dean Solon,61,1592.0,Energy,United States,True,M
+Dmitry Nikolaev,59,1591.39,Energy,Russia,True,M
+Ingrid Wu,54,1591.19,Manufacturing,United States,True,F
+Margarita Latsis Catsiapis & family,64,1590.85,Diversified,Greece,False,F
+Richard Fairbank,75,1590.83,Finance & Investments,United States,True,M
+Steven Sarowitz,60,1590.33,Technology,United States,True,M
+Agustín Coppel Luken,64,1588.88,Fashion & Retail,Mexico,False,M
+Shalom Meckenzie & family,49,1588.84,Gambling & Casinos,Israel,True,M
+Yu Kai,49,1588.83,Technology,China,True,M
+Aziz Akhannouch & family,65,1587.71,Diversified,Morocco,False,M
+Mariarosa Lavelli,82,1587.16,Manufacturing,Italy,False,F
+Doris Fisher,94,1586.57,Fashion & Retail,United States,True,F
+Cai Zaihua,63,1585.93,Manufacturing,China,True,M
+Gerald Schwartz,84,1585.63,Finance & Investments,Canada,True,M
+Yang Yunchun,56,1585.12,Manufacturing,China,True,M
+Winai Teawsomboonkij,63,1585.02,Food & Beverage,Thailand,True,M
+Huang Yi,64,1583.27,Automotive,Hong Kong,True,M
+Herriot Tabuteau,57,1582.58,Healthcare,United States,True,M
+Kwek Leng Keow,74,1581.49,Diversified,Singapore,False,M
+Kwek Leng Peck,70,1581.49,Diversified,Singapore,False,M
+Patricia Angelini Rossi,72,1581.23,Diversified,Chile,False,F
+Thaksin Shinawatra,76,1580.94,Finance & Investments,Thailand,True,M
+Kirill Minovalov,55,1580.16,Diversified,Russia,True,M
+Allan Wong,76,1580.06,Manufacturing,Hong Kong,True,M
+Ke Xiping & family,65,1578.84,Diversified,China,True,M
+Wang Shuifu,71,1577.86,Manufacturing,China,True,M
+Hans Thomann,63,1577.47,Fashion & Retail,Germany,True,M
+Herbert Sy,69,1577.46,Diversified,Philippines,False,M
+Sidney Kimmel,98,1576.25,Fashion & Retail,United States,True,M
+Wu Zhigang & family,91,1575.6,Food & Beverage,China,True,M
+Terence (Terry) Matthews,83,1574.89,Telecom,Canada,True,M
+Fernando Espinosa Abdalá,76,1574.85,Healthcare,Mexico,False,M
+Leopoldo Espinosa Abdalá,65,1574.85,Healthcare,Mexico,False,M
+Julia Oetker,47,1574.83,Fashion & Retail,Germany,False,F
+Vladimir Ivanov,55,1574.83,Technology,Russia,True,M
+Annika Bootsman Kleberg,60,1572.99,Logistics,Sweden,False,F
+Jonas Kleberg,62,1572.99,Logistics,Sweden,False,M
+Ramesh Kunhikannan,62,1571.0,Manufacturing,India,True,M
+Ben Ashkenazy,56,1570.87,Real Estate,United States,True,M
+Lim Chap Huat,71,1570.14,Real Estate,Singapore,True,M
+Yang Xuegang,61,1568.4,Manufacturing,China,True,M
+Anton Osika,35,1568.0,Technology,Sweden,True,M
+Fabian Hedin,26,1568.0,Technology,Sweden,True,M
+Fumio Sakiya,81,1567.43,Manufacturing,Japan,True,M
+Shamsheer Vayalil,49,1566.84,Healthcare,India,False,M
+Ronald Perelman,83,1566.82,Finance & Investments,United States,True,M
+Georg Haub,64,1565.79,Fashion & Retail,Germany,False,M
+Evgeny (Eugene) Shvidler,62,1562.45,Metals & Mining,United States,True,M
+Alessandro Rosano,57,1561.02,Fashion & Retail,Italy,True,M
+Konstantin Goncharov & family,54,1560.77,Logistics,Russia,True,M
+Michael Steinhardt,85,1558.74,Finance & Investments,United States,True,M
+Bharat Desai,73,1557.0,Technology,United States,True,M
+Erik Must,83,1554.75,Finance & Investments,Norway,True,M
+Filippo Ghirelli,46,1554.3,Energy,Italy,True,M
+Magic Johnson,66,1551.72,Diversified,United States,True,M
+Bachtiar Karim,68,1550.32,Manufacturing,Indonesia,False,M
+Brian Roberts,66,1550.23,Media & Entertainment,United States,False,M
+Ahmet Calik,68,1550.0,Diversified,Turkey,True,M
+Robert Mouawad,81,1548.8,Service,Lebanon,False,M
+Frank McCourt,72,1548.0,Sports,United States,True,M
+Robert Knauf & family,48,1547.09,Manufacturing,Germany,False,M
+Karin Schick,55,1545.4,Technology,Germany,False,F
+Nelson Peltz,83,1543.44,Finance & Investments,United States,True,M
+Peter Guber,84,1543.1,Sports,United States,True,M
+Christina Flügel,50,1542.42,Food & Beverage,Germany,False,F
+Wu Chung-yi,70,1542.35,Manufacturing,Taiwan,False,M
+Dick Wolf,79,1539.0,Media & Entertainment,United States,True,M
+Sekar Vembu,54,1538.26,Technology,India,True,M
+Richard Warke,66,1536.97,Metals & Mining,Canada,True,M
+Yusaku Maezawa,50,1532.73,Technology,Japan,True,M
+Sundar Pichai,53,1531.74,Technology,United States,True,M
+Vladimir Voronin,50,1531.61,Construction & Engineering,Russia,True,M
+Alexander Evnevich & family,66,1531.58,Food & Beverage,Russia,True,M
+Bobby Murphy,37,1530.42,Technology,United States,True,M
+Vitali Machitski & family,71,1529.78,Diversified,Russia,True,M
+Yves-Loic Martin,60,1528.62,Healthcare,France,True,M
+Andrei Komarov & family,59,1526.23,Manufacturing,Russia,True,M
+Ilson Mateus & family,63,1524.96,Fashion & Retail,Brazil,True,M
+Dhruv Sawhney,81,1523.1,Construction & Engineering,India,False,M
+Kim Sang-beom,65,1522.83,Technology,South Korea,False,M
+Miguel Tomás Arrufat Pujol,64,1521.79,Technology,Spain,True,M
+Koon Poh Ming,69,1519.06,Metals & Mining,Malaysia,True,M
+Eustasio Lopez Gonzalez,72,1519.05,Real Estate,Spain,True,M
+Satyanarayana Chava,65,1518.71,Healthcare,India,True,M
+Jose Isaac Peres & family,85,1517.97,Real Estate,Brazil,True,M
+Qiu Minxiu,80,1517.77,Technology,China,True,F
+George Christ & family,71,1517.14,Technology,United States,True,M
+Manoj Upadhyay,55,1516.9,Energy,India,True,M
+Chen Kaichen,70,1514.99,Manufacturing,China,True,M
+Tang Xiuguo,62,1511.94,Manufacturing,China,True,M
+Surin Upatkoon,77,1510.68,Diversified,Thailand,True,M
+Vladimir Fartushnyak,64,1510.48,Fashion & Retail,Russia,True,M
+Yuan Zhongxue,70,1509.3,Manufacturing,China,True,M
+Xiang Wenbo,63,1508.86,Manufacturing,China,True,M
+Kapil Bhatia,93,1508.72,Service,India,True,M
+Liu Ming Chung,63,1508.55,Manufacturing,Brazil,True,M
+Mori Arkin,73,1507.59,Healthcare,Israel,True,M
+Hary Tanoesoedibjo,60,1507.05,Media & Entertainment,Indonesia,True,M
+Michael Teel,74,1506.9,Fashion & Retail,United States,False,M
+Carsten Koerl,61,1506.82,Sports,Germany,True,M
+Kim Jung-youn,22,1505.49,Media & Entertainment,South Korea,False,F
+Kim Jung-min,24,1505.49,Media & Entertainment,South Korea,False,F
+Arsen Kanokov,69,1504.4,Real Estate,Russia,True,M
+Lucio Co,71,1502.88,Fashion & Retail,Philippines,True,M
+Premchand Godha,79,1500.68,Healthcare,India,True,M
+Ignacio Torras,61,1500.0,Energy,United States,True,M
+John Morgan,70,1500.0,Service,United States,True,M
+Justin Yuan,45,1500.0,Media & Entertainment,China,True,M
+Peter Ludwig,41,1500.0,Technology,United States,True,M
+Prasanna Sankar,37,1500.0,Technology,India,True,M
+Qasar Younis,44,1500.0,Technology,United States,True,M
+Seth Klarman,68,1500.0,Finance & Investments,United States,True,M
+Thomas Crowley Jr & family,59,1500.0,Logistics,United States,False,M
+Xu Zhenhua,47,1500.0,Media & Entertainment,China,True,M
+Tony Xu,41,1499.7,Technology,United States,True,M
+Chirayu Amin,79,1499.3,Healthcare,India,False,M
+Carmen Thyssen,83,1498.09,Manufacturing,Spain,False,F
+Wang Xiaoshen,57,1497.91,Manufacturing,China,True,M
+G.V. Prasad,65,1497.42,Healthcare,India,False,M
+Karl Hedin,76,1497.12,Construction & Engineering,Sweden,False,M
+Alan Gerry,97,1496.4,Media & Entertainment,United States,True,M
+Thomas von Koch,60,1494.66,Finance & Investments,Sweden,True,M
+Turgay Ciner,70,1494.04,Diversified,Turkey,True,M
+Jim Koch,76,1493.96,Food & Beverage,United States,True,M
+Heloise Pratt,63,1493.04,Manufacturing,Australia,False,F
+Tiger Woods,50,1491.0,Sports,United States,True,M
+Mao Zhongwu,63,1490.9,Manufacturing,China,True,M
+Song Fei,59,1490.45,Manufacturing,China,True,M
+Brendan Blumer,39,1490.29,Finance & Investments,Hong Kong,True,M
+Wang Mingwang,58,1489.09,Manufacturing,China,True,M
+Paul Fireman,82,1489.0,Fashion & Retail,United States,True,M
+Arvind Lal,76,1488.98,Healthcare,India,False,M
+Satish Reddy,58,1488.14,Healthcare,India,False,M
+Wang Zhenghua,82,1487.62,Service,China,True,M
+Stephen Winn,79,1486.8,Real Estate,United States,True,M
+Lin Chang Su-O,85,1483.83,Real Estate,Taiwan,False,F
+Yu Qibing & family,60,1481.88,Manufacturing,China,True,M
+Dan Gertler,52,1480.72,Metals & Mining,Israel,False,M
+Chen Zhisong,60,1480.59,Technology,China,True,M
+Oguz Tezmen,78,1480.22,Finance & Investments,Turkey,False,M
+Filip Balcaen & family,66,1479.32,Diversified,Belgium,False,M
+Nir Zuk,55,1477.29,Technology,United States,True,M
+Brad Keywell,56,1474.73,Technology,United States,True,M
+Anas Sefrioui & family,68,1472.63,Real Estate,Morocco,True,M
+Mu Rongjun,46,1471.39,Technology,China,True,M
+Philip Fayer,48,1471.23,Technology,Canada,True,M
+Stewart Butterfield,53,1471.16,Technology,Canada,True,M
+Bingkun Xie & family,59,1471.16,Fashion & Retail,China,True,M
+Jenny Lindén Urnes,55,1470.06,Manufacturing,Sweden,False,F
+Georgios Peristeris,69,1468.86,Real Estate,Greece,True,M
+Rolly van Rappard,65,1467.74,Finance & Investments,Netherlands,True,M
+Rubens Ometto Silveira Mello,76,1466.86,Energy,Brazil,False,M
+Chu Jian,63,1466.67,Manufacturing,China,True,M
+Zhang Liguo,62,1466.34,Manufacturing,China,True,M
+Roland Duchatelet & family,79,1466.34,Technology,Belgium,True,M
+Pantas Sutardja,63,1465.08,Technology,United States,True,M
+Rajeev Gulati,61,1464.9,Food & Beverage,India,False,M
+Sylvia Wedemeyer,58,1464.13,Manufacturing,Germany,False,F
+Jimmy Rane,79,1464.0,Manufacturing,United States,True,M
+D.V. Manjunatha,58,1463.58,Energy,India,True,M
+Lu Lili,65,1463.45,Technology,China,True,F
+Chang Chung-Hsing,64,1460.8,Manufacturing,Taiwan,True,M
+Barry Bentley & family,70,1460.54,Technology,United States,True,M
+Vadim Vikulov,62,1460.41,Food & Beverage,Russia,True,M
+Dora Voigt de Assis,28,1460.1,Manufacturing,Brazil,False,F
+Lívia Voigt de Assis,21,1460.1,Manufacturing,Brazil,False,F
+Li Jiaquan,62,1460.02,Manufacturing,China,True,M
+Martin Herrenknecht,83,1459.45,Manufacturing,Germany,True,M
+Chen Xuehua,65,1459.24,Metals & Mining,China,True,M
+Rajju Shroff,92,1458.31,Manufacturing,India,True,M
+Marc Lipschultz,57,1457.54,Finance & Investments,United States,True,M
+Alexander Savelyev & family,72,1457.35,Finance & Investments,Russia,True,M
+Li Xuhui,57,1456.97,Food & Beverage,China,True,F
+Tseng Cheng,64,1454.32,Manufacturing,Taiwan,False,M
+Harley Sy,66,1453.7,Diversified,Philippines,False,M
+Faruk Eczacibasi,71,1449.05,Diversified,Turkey,False,M
+David Xueling Li,53,1447.87,Technology,China,True,M
+Adrian Paval,57,1447.77,Fashion & Retail,Romania,True,M
+Shrikant Badve,60,1447.67,Automotive,India,True,M
+Lucy Guo,31,1447.4,Technology,United States,True,F
+Zheng Wei,55,1447.27,Healthcare,China,True,M
+Tan Yu Yeh,55,1443.7,Fashion & Retail,Malaysia,True,M
+Jose Ermirio de Moraes Neto,73,1442.34,Diversified,Brazil,False,M
+Jose Roberto Ermirio de Moraes,68,1442.34,Diversified,Brazil,False,M
+Neide Helena de Moraes,71,1442.34,Diversified,Brazil,False,F
+Yao Hsiao Tung,86,1441.27,Manufacturing,Singapore,True,M
+Li Zhen & family,62,1440.96,Manufacturing,China,True,M
+George Marcus,84,1440.25,Real Estate,United States,True,M
+Swift Xie,46,1440.0,Technology,China,True,M
+Alexander Linnik,58,1438.06,Food & Beverage,Russia,True,M
+Victor Linnik,58,1438.06,Food & Beverage,Russia,True,M
+He Zhenggang,72,1437.14,Manufacturing,China,True,M
+Chris Wallin,73,1436.63,Metals & Mining,Australia,True,M
+Eric Hémar,63,1435.5,Logistics,France,True,M
+Zhao Tongtong,59,1435.32,Service,Canada,True,F
+Chaitanya Desai,54,1434.39,Manufacturing,India,False,M
+Kushal Desai,59,1434.39,Manufacturing,India,False,M
+Itamar Locks & family,71,1433.85,Food & Beverage,Brazil,False,M
+Blairo Maggi,69,1433.69,Food & Beverage,Brazil,False,M
+Andrei Filatov,54,1432.53,Logistics,Russia,True,M
+Markus Persson,46,1432.08,Media & Entertainment,Sweden,True,M
+Lu Yiwen,38,1431.13,Fashion & Retail,China,True,F
+Kirit Doshi,61,1430.75,Energy,India,False,M
+René Holecek,59,1428.85,Manufacturing,Czech Republic,True,M
+Wang Qiangxiang,54,1426.35,Service,China,True,M
+Wu Xushun & family,78,1425.36,Diversified,China,True,M
+Onkar Kanwar,83,1425.32,Automotive,India,False,M
+Adriaan Mol,42,1423.0,Technology,Netherlands,True,M
+Chua Thian Poh,77,1422.77,Real Estate,Singapore,True,M
+Wang Minwen,62,1422.7,Technology,China,True,M
+Yan Zhi,53,1422.23,Real Estate,China,True,M
+Max Levchin,50,1422.04,Finance & Investments,United States,True,M
+LeBron James,41,1422.0,Sports,United States,True,M
+Jared Smith,51,1421.0,Technology,United States,True,M
+Carson Brice,58,1420.97,Finance & Investments,United States,False,F
+Michael Wisser,53,1420.89,Logistics,Germany,False,M
+Claire Bristow,59,1420.2,Finance & Investments,United States,False,F
+Jordi Rubiralta,52,1417.33,Healthcare,Spain,False,M
+Shirley Kao,69,1416.96,Food & Beverage,Taiwan,False,F
+Brad Kelley,69,1416.85,Real Estate,United States,True,M
+Mark Pincus,60,1416.6,Technology,United States,True,M
+Li Ming,57,1415.18,Finance & Investments,Hong Kong,True,M
+Nicole Shanahan,40,1414.3,Technology,United States,False,F
+Lu Hongyan,48,1411.72,Media & Entertainment,China,True,M
+Eduard Kucera,73,1411.21,Technology,Czech Republic,True,M
+Joseph Steinberg,82,1410.77,Finance & Investments,United States,True,M
+Vladimir Bogdanov,74,1410.59,Energy,Russia,True,M
+Nanu Gupta,83,1410.43,Fashion & Retail,India,True,M
+Lee Hae-jin,58,1410.31,Technology,South Korea,True,M
+Binny Bansal,43,1410.29,Technology,India,True,M
+Wu Xiaoge,53,1409.95,Manufacturing,China,True,F
+Daniel Calugar,72,1409.91,Finance & Investments,United States,True,M
+Elly Reisman,76,1408.38,Real Estate,Canada,True,M
+Susan Co,68,1408.02,Fashion & Retail,Philippines,True,F
+Andrei Kosogov,65,1407.73,Energy,Russia,True,M
+Yao Yi,60,1407.38,Manufacturing,China,True,M
+Alexander Rakshin & family,74,1407.24,Food & Beverage,Russia,True,M
+Lee Kar Whatt,52,1406.76,Fashion & Retail,Malaysia,True,M
+Jan-Hendrik Goldbeck,49,1405.7,Construction & Engineering,Germany,False,M
+Joachim Goldbeck,55,1405.7,Construction & Engineering,Germany,False,M
+Jörg-Uwe Goldbeck,58,1405.7,Construction & Engineering,Germany,False,M
+Li Hongjing,58,1404.81,Automotive,China,True,M
+Teresita Sy-Coson,75,1404.04,Diversified,Philippines,False,F
+Ronald Clarke,70,1403.6,Technology,United States,True,M
+Douglas Rippel,59,1403.54,Finance & Investments,United States,True,M
+Sergei Kolesnikov,54,1400.79,Manufacturing,Russia,True,M
+Ayman Hariri,47,1400.0,Construction & Engineering,Lebanon,False,M
+Ed Park,51,1400.0,Healthcare,United States,True,M
+Luca Ferrari,41,1400.0,Technology,Italy,True,M
+Todd Park,53,1400.0,Healthcare,United States,True,M
+Andrew Bialecki,40,1399.67,Technology,United States,True,M
+Mirwais Azizi,63,1399.31,Real Estate,Afghanistan,True,M
+Teo Swee Ann,50,1398.57,Technology,Singapore,True,M
+Mofatraj Munot,81,1398.5,Real Estate,India,True,M
+Gleb Fetisov,59,1397.0,Telecom,Russia,True,M
+Albert Nahmad,85,1395.36,Manufacturing,United States,True,M
+Antonio Gallardo Ballart,90,1395.25,Healthcare,Spain,False,M
+Soegiarto Adikoesoemo,88,1394.86,Diversified,Indonesia,True,M
+Stelios Haji-Ioannou,59,1394.47,Service,Cyprus,False,M
+Jose Ignacio Comenge,75,1392.06,Food & Beverage,Spain,False,M
+Cristina Green,76,1390.63,Fashion & Retail,United Kingdom,True,F
+Philip Green,74,1390.63,Fashion & Retail,United Kingdom,True,M
+Ziv Aviram,67,1389.33,Automotive,Israel,True,M
+Sergey Dmitriev,60,1389.0,Technology,Cyprus,True,M
+Trevor Burgess,53,1386.6,Finance & Investments,United States,True,M
+Adam Norwitt,56,1386.6,Manufacturing,United States,True,M
+Sven Hagströmer,82,1386.28,Finance & Investments,Sweden,True,M
+Xu Xudong & family,56,1386.24,Automotive,China,True,M
+Nie Tengyun & family,50,1384.2,Service,China,True,M
+Michelle Xia,59,1383.82,Healthcare,United States,True,F
+Gary Magness,72,1382.74,Media & Entertainment,United States,False,M
+Li Zhigang,49,1382.31,Manufacturing,China,True,M
+Andrei Rappoport,62,1382.0,Finance & Investments,Russia,True,M
+Zhang Wenzhong,64,1381.65,Fashion & Retail,China,True,M
+Igor Rybakov,53,1381.18,Manufacturing,Russia,True,M
+Liu Shengjun,57,1380.07,Manufacturing,China,True,M
+Sun Guangxin,63,1379.12,Diversified,China,True,M
+Hans-Otto Kromberg,83,1378.83,Manufacturing,Germany,False,M
+Naresh Jain,91,1378.56,Automotive,India,True,M
+Michel Litvak,74,1377.58,Logistics,Russia,True,M
+Jet Jie Li,51,1377.35,Logistics,China,True,M
+Frank Laukien,66,1376.72,Manufacturing,United States,False,M
+Wang Dong,65,1376.54,Manufacturing,China,True,M
+A. Jayson Adair,56,1376.37,Automotive,United States,True,M
+Alexander Lutsenko & family,64,1375.4,Food & Beverage,Russia,True,M
+Suh Kyung-bae,63,1375.02,Fashion & Retail,South Korea,False,M
+Qin Hua,58,1374.48,Food & Beverage,China,True,M
+Josef Boquoi & family,92,1374.15,Food & Beverage,Germany,True,M
+Wang Jilei,61,1370.83,Logistics,China,True,M
+Patrick Hanrahan,70,1369.87,Technology,United States,True,M
+Vincent Lo,78,1369.39,Real Estate,Hong Kong,False,M
+Greg Brown,65,1368.54,Technology,United States,True,M
+Petro Poroshenko,60,1367.76,Food & Beverage,Ukraine,True,M
+Gina Vecchiarelli,64,1366.94,Food & Beverage,United States,False,F
+Terry Leprino,66,1366.94,Food & Beverage,United States,False,F
+Marissa Mayer,50,1365.97,Technology,United States,True,F
+Zhang Changhong,68,1365.51,Technology,China,True,M
+Huang Chulong,67,1364.27,Real Estate,Canada,True,M
+Ashwin Desai,74,1361.48,Manufacturing,India,True,M
+Gao Shuhua,79,1361.39,Healthcare,China,True,M
+Deepinder Goyal,43,1361.11,Service,India,True,M
+Yu Lili,58,1360.43,Manufacturing,China,True,F
+Michael Spencer,70,1357.66,Finance & Investments,United Kingdom,True,M
+Nikesh Arora,58,1357.4,Technology,United States,True,M
+Tyler Perry,56,1357.1,Media & Entertainment,United States,True,M
+Samih Sawiris,69,1351.87,Service,Egypt,False,M
+Yu Peidi,66,1350.2,Real Estate,Hong Kong,True,M
+Tope Awotona,45,1350.0,Technology,United States,True,M
+Chen Shiliang,62,1348.61,Manufacturing,China,True,M
+Yasseen Mansour,64,1348.06,Diversified,Egypt,True,M
+Hua Xuande & family,82,1347.01,Healthcare,China,True,M
+Harald Link,71,1345.94,Diversified,Thailand,False,M
+Bhikhabai Virani,72,1344.17,Food & Beverage,India,True,M
+Charles Liang,68,1343.83,Technology,United States,True,M
+Simón Pedro Barceló Vadell,60,1341.43,Real Estate,Spain,False,M
+Helly Nahmad,49,1340.0,Finance & Investments,Italy,False,M
+Joseph Nahmad,37,1340.0,Finance & Investments,Italy,False,M
+Christopher Stolte,53,1338.29,Technology,United States,True,M
+Hans Schmid,81,1337.58,Fashion & Retail,Germany,True,M
+Andy Fang,33,1337.12,Technology,United States,True,M
+Yao Runhao,38,1337.0,Media & Entertainment,China,True,M
+Oscar Baeza Fares,65,1336.76,Food & Beverage,Mexico,True,M
+Antonio Percassi,72,1335.13,Diversified,Italy,True,M
+William Lauder,66,1334.71,Fashion & Retail,United States,False,M
+Zhou Chengjian,60,1334.36,Fashion & Retail,China,True,M
+Smagulov Nurlan,60,1333.77,Automotive,Kazakhstan,True,M
+Zhang Shengwei,53,1333.64,Manufacturing,China,True,M
+Yang Yuanqing,61,1333.03,Technology,China,True,M
+George Raymond Zage III,56,1332.62,Finance & Investments,Singapore,True,M
+Stefan Kaluzny,59,1331.97,Finance & Investments,United States,True,M
+Cao Jianwei,47,1329.5,Manufacturing,China,True,M
+Andrei Molchanov,54,1329.48,Construction & Engineering,Russia,True,M
+Nikolay Fartushnyak,60,1328.93,Fashion & Retail,Russia,True,M
+Weng Xianding,64,1327.63,Healthcare,China,True,M
+Kimbal Musk,53,1327.24,Automotive,United States,True,M
+Shivratan Agarwal,74,1326.53,Food & Beverage,India,True,M
+Boris Rotenberg,69,1326.39,Construction & Engineering,Russia,True,M
+Femi Otedola,63,1326.21,Energy,Nigeria,True,M
+Mikhail Fedyaev,63,1324.6,Diversified,Russia,True,M
+Frank Holding Jr,64,1324.43,Finance & Investments,United States,False,M
+Ravi Modi,49,1324.02,Fashion & Retail,India,True,M
+Bahari Karim,64,1323.03,Manufacturing,Indonesia,False,M
+Burhan Karim,66,1323.03,Manufacturing,Indonesia,False,M
+Vicente Boluda Fos,71,1322.58,Logistics,Spain,False,M
+Aerin Lauder,56,1321.94,Fashion & Retail,United States,False,F
+Mustafa Latif Topbas,82,1321.71,Fashion & Retail,Turkey,True,M
+Xiong Haitao,62,1321.4,Manufacturing,China,True,F
+Kokuei Yuan,51,1320.69,Finance & Investments,Japan,True,M
+Eduardo Costantini,79,1320.44,Real Estate,Argentina,True,M
+Hou Juncheng,61,1319.76,Healthcare,China,True,M
+Sara Blakely,55,1319.05,Fashion & Retail,United States,True,F
+Ajlan bin Abdulaziz Al-Ajlan,65,1318.86,Diversified,Saudi Arabia,False,M
+Polys Haji-Ioannou,66,1318.05,Service,Cyprus,False,M
+Evangelos Mytilineos,72,1316.6,Energy,Greece,True,M
+Ma Fei,58,1316.27,Technology,China,True,M
+Mark Dixon,66,1316.16,Real Estate,United Kingdom,True,M
+Elena Baturina,63,1315.8,Construction & Engineering,Russia,True,F
+Nobutada Saji,80,1315.47,Food & Beverage,Japan,False,M
+Richard Kayne,80,1315.0,Finance & Investments,United States,True,M
+Andrei Kuzyaev,60,1314.78,Telecom,Russia,True,M
+Dong Fan,65,1312.88,Healthcare,China,True,M
+Lyudmila Kogan,60,1312.73,Finance & Investments,Russia,False,F
+Wu Bo,71,1312.38,Manufacturing,China,True,M
+Karen Virginia Beckmann Legoretta,65,1311.99,Food & Beverage,Mexico,False,F
+Ryan Graves,42,1311.3,Technology,United States,True,M
+Jorge Gallardo Ballart,84,1310.57,Healthcare,Spain,False,M
+Bina Chhabria,68,1310.42,Food & Beverage,India,False,F
+Michael Cagney,55,1310.12,Technology,United States,True,M
+Chris Wanstrath,41,1310.0,Technology,United States,True,M
+Mark Kurtser,68,1309.98,Healthcare,Russia,True,M
+Larry Fink,73,1309.52,Finance & Investments,United States,True,M
+Vinod Saraf,73,1309.25,Manufacturing,India,True,M
+Geng Diangen,69,1307.48,Technology,China,True,M
+Yuri Karptsov,62,1306.86,Fashion & Retail,Russia,True,M
+He Zhaoxi,52,1305.74,Technology,China,True,M
+Bruce Beal Jr,56,1304.95,Real Estate,United States,True,M
+Zhang Jianhui,48,1304.89,Energy,China,True,M
+Yang Ying & family,63,1303.17,Healthcare,China,True,F
+David Kong,71,1301.08,Service,Malaysia,True,M
+Aman Sanger,25,1300.0,Technology,United States,True,M
+Arvid Lunnemark,26,1300.0,Technology,Sweden,True,M
+Francesco Patarnello,40,1300.0,Technology,Italy,True,M
+Luana Lopes Lara,29,1300.0,Finance & Investments,Brazil,True,F
+Luca Querella,38,1300.0,Technology,Italy,True,M
+Matteo Danieli,41,1300.0,Technology,Italy,True,M
+Michael Truell,25,1300.0,Technology,United States,True,M
+Steven Hao,30,1300.0,Technology,United States,True,M
+Sualeh Asif,26,1300.0,Technology,Pakistan,True,M
+Tarek Mansour,29,1300.0,Finance & Investments,United States,True,M
+Ge Tairong,69,1299.49,Manufacturing,China,True,M
+Kurt Krieger,78,1297.24,Fashion & Retail,Germany,True,M
+Frederic Luddy,71,1296.82,Technology,United States,True,M
+Chey Ki-won,61,1295.28,Technology,South Korea,False,F
+Zhao Hongfei,51,1295.27,Technology,China,True,M
+Irfan Razack,72,1294.88,Real Estate,India,False,M
+Noaman Razack,68,1294.87,Real Estate,India,False,M
+Rezwan Razack,71,1294.87,Real Estate,India,False,M
+Michael Tojner,60,1294.76,Manufacturing,Austria,True,M
+J. Wayne Weaver,90,1294.7,Diversified,United States,True,M
+Michael Andlauer,61,1293.73,Logistics,Canada,True,M
+Aluru Jagadish Prasad,80,1293.1,Manufacturing,India,True,M
+Martin Moller Nielsen,61,1292.5,Logistics,Denmark,True,M
+David Feffer,69,1291.29,Manufacturing,Brazil,False,M
+Hugo Ribeiro & family,73,1290.83,Food & Beverage,Brazil,False,M
+Zhong Sheng Jian,68,1290.53,Real Estate,Singapore,True,M
+Michael Krasny,72,1290.0,Technology,United States,True,M
+Thomas Mueller,65,1289.0,Technology,United States,True,M
+Marcus Pürner,59,1288.85,Manufacturing,Germany,True,M
+Jin Lei & family,71,1288.66,Healthcare,China,True,M
+William Heinecke,76,1288.49,Real Estate,Thailand,True,M
+Huang Yimeng,44,1286.57,Media & Entertainment,China,True,M
+Christoph Zeller,68,1286.53,Healthcare,Liechtenstein,False,M
+Réal Plourde,75,1285.43,Fashion & Retail,Canada,True,M
+Carolin Hachenberg,41,1285.35,Automotive,Germany,False,F
+Christian Hymer,40,1285.35,Automotive,Germany,False,M
+Howard Huang,46,1284.35,Manufacturing,China,True,M
+Chang Kuo-Ming,68,1283.68,Logistics,Taiwan,False,M
+Thomas Bailey,89,1282.6,Finance & Investments,United States,True,M
+Lev Kvetnoi,60,1282.47,Finance & Investments,Russia,True,M
+Igor Yakovlev,60,1282.36,Fashion & Retail,Russia,True,M
+Ni Yongpei & family,74,1280.7,Food & Beverage,China,True,M
+Xu Yuejuan,64,1280.27,Manufacturing,China,True,F
+Jose Luis Rubiralta,51,1279.59,Healthcare,Spain,False,M
+Marc Rubiralta,42,1279.59,Healthcare,Spain,False,M
+Xavier Rubiralta,46,1279.59,Healthcare,Spain,False,M
+Tsao Ter-fung,79,1279.06,Food & Beverage,Taiwan,True,M
+Mike Speiser,55,1278.51,Technology,United States,True,M
+Ron Shaich,72,1278.04,Food & Beverage,United States,True,M
+Wang Shih-Chung,64,1277.36,Manufacturing,Taiwan,True,M
+Satya Nadella,58,1276.52,Technology,United States,True,M
+Alexander Klyachin,58,1275.67,Real Estate,Russia,True,M
+Lee Sang-hoon,63,1274.64,Healthcare,United States,True,M
+Lin Zhixiong & family,52,1273.59,Healthcare,China,True,M
+Zhu Jiangming,59,1273.52,Manufacturing,China,True,M
+Ma Hong,55,1272.85,Manufacturing,China,True,M
+Peng Qian,51,1270.29,Manufacturing,China,True,M
+Elizabeth Sy,73,1268.35,Diversified,Philippines,False,F
+Timothy Headington,76,1267.28,Energy,United States,False,M
+Wu Kaiting,56,1263.91,Telecom,Hong Kong,True,M
+Yuan Zhimin & family,65,1262.99,Manufacturing,China,True,M
+Lu Bin,65,1261.51,Manufacturing,China,True,M
+John Coustas,69,1260.12,Logistics,Greece,False,M
+Wang Baoqing,68,1260.05,Manufacturing,China,True,M
+Roman Avdeev,58,1260.0,Finance & Investments,Russia,True,M
+Grigory Anikeev,54,1259.08,Food & Beverage,Russia,True,M
+He Zuxun,60,1258.94,Food & Beverage,China,True,M
+Tianqiao Chen,52,1258.51,Technology,China,True,M
+Arthur Levine,74,1257.0,Finance & Investments,United States,True,M
+Lauren Leichtman,76,1257.0,Finance & Investments,United States,True,F
+Taavet Hinrikus,43,1254.7,Finance & Investments,Estonia,True,M
+Joe Kiani,61,1254.12,Healthcare,United States,True,M
+Gregory Bentley & family,70,1253.13,Technology,United States,True,M
+Ruben Vardanyan & family,57,1252.37,Finance & Investments,Armenia,True,M
+Mohammed Ibrahim,79,1251.0,Telecom,United Kingdom,True,M
+Dieter Müller,71,1250.29,Real Estate,Germany,True,M
+James Jannard,76,1250.0,Fashion & Retail,United States,True,M
+Jiang Zhaobai,62,1248.6,Real Estate,China,True,M
+Derek Stevens,58,1248.23,Gambling & Casinos,United States,False,M
+Kazim Turker,72,1247.86,Energy,Turkey,True,M
+Nancy Lerner,65,1247.01,Finance & Investments,United States,False,F
+Lim Kaling,62,1246.28,Media & Entertainment,Singapore,True,M
+Cheng Zhangwen,61,1246.17,Manufacturing,China,True,M
+Wu Zhongyi,52,1244.38,Technology,China,True,M
+Li Guoqing,56,1242.28,Manufacturing,China,True,M
+Randolph Lerner,64,1241.27,Finance & Investments,United States,False,M
+Habil Khorakiwala,83,1240.01,Healthcare,India,False,M
+Norma Lerner,90,1239.92,Finance & Investments,United States,False,F
+Kamlesh Jain,57,1238.82,Metals & Mining,India,True,M
+Jitendra Mohan,52,1238.73,Technology,United States,True,M
+Holger Timm,69,1238.61,Finance & Investments,Germany,True,M
+Rick Smith,55,1238.29,Technology,United States,True,M
+Zhou Wen & family,61,1237.91,Manufacturing,China,True,M
+Xi Chao,67,1237.88,Manufacturing,China,True,M
+Qian Ying,60,1236.69,Food & Beverage,China,True,F
+Sanjay Gajendra,51,1236.41,Technology,United States,True,M
+Boris Nuraliev,67,1235.93,Technology,Russia,True,M
+Ahmed Afif Topbas,84,1235.49,Fashion & Retail,Turkey,False,M
+Clemens Toennies,69,1233.93,Food & Beverage,Germany,True,M
+Daniel Hager,54,1233.93,Construction & Engineering,Germany,False,M
+Philip & family Hager,55,1233.93,Construction & Engineering,Germany,False,M
+Robert Toennies,47,1233.93,Food & Beverage,Germany,False,M
+Daniel Feffer,66,1232.56,Manufacturing,Brazil,False,M
+Cao Yuhua & family,71,1231.82,Automotive,China,True,M
+Dorle Hager,61,1231.6,Construction & Engineering,Germany,False,F
+Evi Hager,63,1231.6,Construction & Engineering,Germany,False,F
+Peter Hager,65,1231.6,Construction & Engineering,Germany,False,M
+Hartati Murdaya,79,1229.17,Diversified,Indonesia,True,F
+Yuan Jiandong & family,65,1228.83,Healthcare,China,True,M
+Ibrahim Erdemoglu,63,1228.19,Manufacturing,Turkey,True,M
+Chen Guodong,60,1227.87,Fashion & Retail,China,True,M
+Cheah Cheng Hye,72,1227.16,Finance & Investments,Malaysia,True,M
+Nigel Austin,55,1227.12,Fashion & Retail,Australia,True,M
+Zhou Zongwen & family,69,1227.0,Fashion & Retail,China,True,M
+Eric Ya Shen,55,1226.57,Technology,China,True,M
+Ben Francis,33,1226.19,Fashion & Retail,United Kingdom,True,M
+Isabel-Ulrike Hager,40,1225.75,Construction & Engineering,Germany,False,F
+Tony Townley,63,1224.8,Food & Beverage,United States,True,M
+Huang Jian,59,1224.57,Manufacturing,China,True,M
+J. Christopher Flowers,68,1224.37,Finance & Investments,United States,True,M
+Jeffrey Lorberbaum,71,1224.23,Manufacturing,United States,False,M
+Kim Taek-jin,59,1222.97,Media & Entertainment,South Korea,True,M
+Kenzo Tsujimoto,85,1222.64,Media & Entertainment,Japan,True,M
+Pat Neal,77,1222.51,Real Estate,United States,True,M
+Oleg Misevra,58,1221.67,Metals & Mining,Russia,True,M
+Michael Kum,81,1221.51,Real Estate,Singapore,True,M
+Simona Giorgetta,48,1221.5,Construction & Engineering,Italy,False,F
+Nicholas Woodman,50,1220.28,Technology,United States,True,M
+Gary Tharaldson,80,1220.1,Real Estate,United States,True,M
+Ruben Feffer,65,1218.86,Manufacturing,Brazil,False,M
+Jacques Merceron-Vicat & family,88,1218.26,Construction & Engineering,France,False,M
+Kim Hyoung-nyon,50,1218.13,Finance & Investments,South Korea,True,M
+Paul Sciarra,45,1216.95,Technology,United States,True,M
+J.K. Rowling,60,1216.0,Media & Entertainment,United Kingdom,True,F
+Jeff Sprecher,71,1215.43,Finance & Investments,United States,True,M
+Xu Wanmao,81,1215.02,Service,China,True,M
+Shen Jinhua,59,1214.43,Fashion & Retail,China,True,M
+Alexander Mamut & family,66,1212.77,Finance & Investments,Russia,True,M
+Huang Shanbing & family,69,1212.77,Technology,China,True,M
+Ye Shanqun & family,77,1212.46,Manufacturing,China,True,M
+Tan Lili,65,1212.42,Food & Beverage,China,True,F
+Rui Chen,48,1212.3,Media & Entertainment,China,True,M
+Sheila Johnson,77,1211.98,Media & Entertainment,United States,True,F
+John Lim,69,1211.84,Real Estate,Singapore,True,M
+Zhu Weisong,44,1211.45,Media & Entertainment,China,True,M
+Vera Rechulski Santo Domingo,77,1211.28,Food & Beverage,Brazil,False,F
+Lia Maria Aguiar,88,1211.2,Finance & Investments,Brazil,False,F
+David Humphreys & family,69,1209.93,Manufacturing,United States,False,M
+Sarah Humphreys Atkins & family,68,1209.93,Manufacturing,United States,False,F
+Giuliana Caprotti,85,1209.88,Food & Beverage,Italy,False,F
+Marina Caprotti,48,1209.88,Food & Beverage,Italy,False,F
+Wang Chou-hsiong,85,1209.8,Manufacturing,Taiwan,True,M
+Jonas Kamprad,60,1208.38,Finance & Investments,Sweden,False,M
+Mathias Kamprad,56,1208.38,Finance & Investments,Sweden,False,M
+Peter Kamprad,62,1208.38,Finance & Investments,Sweden,False,M
+Lin Zhijun,50,1207.85,Healthcare,China,True,M
+Pedro Grendene Bartelle,76,1207.71,Fashion & Retail,Brazil,True,M
+Maxim Tebar,25,1206.92,Manufacturing,Germany,False,M
+Jean-Marc Chapus,67,1206.5,Finance & Investments,United States,True,M
+Zhong Huaijun,61,1206.01,Food & Beverage,China,True,M
+Bastian Nominacher,41,1206.0,Technology,Germany,True,M
+Andrew MacMillan,38,1205.68,Food & Beverage,United States,False,M
+Anne Pedrero,57,1205.68,Food & Beverage,United States,False,F
+Christopher MacMillan,40,1205.68,Food & Beverage,United States,False,M
+Daniel MacMillan,43,1205.68,Food & Beverage,United States,False,M
+David MacMillan,71,1205.68,Food & Beverage,United States,False,M
+Donald MacMillan,56,1205.68,Food & Beverage,United States,False,M
+John H. MacMillan IV IV,73,1205.68,Food & Beverage,United States,False,M
+Kate MacMillan Reed,68,1205.68,Food & Beverage,United States,False,F
+Sandra MacMillan Kirkpatrick,53,1205.68,Food & Beverage,United States,False,F
+Wang Wenyin,58,1205.47,Metals & Mining,China,True,M
+James Truchard,82,1205.37,Technology,United States,True,M
+Junro Ito,67,1204.31,Fashion & Retail,Japan,False,M
+Yvonne Lo,81,1203.81,Fashion & Retail,Hong Kong,False,F
+Jeff Tangney,53,1203.23,Healthcare,United States,True,M
+Liu Xiucai & family,69,1203.11,Manufacturing,United States,True,M
+Kenneth Lo,87,1202.24,Fashion & Retail,United Kingdom,False,M
+Ken Kendrick,82,1202.19,Sports,United States,True,M
+Hajime Satomi,84,1201.22,Gambling & Casinos,Japan,True,M
+Jorge Feffer & family,61,1201.09,Manufacturing,Brazil,False,M
+Hyuntae Kim,50,1200.25,Healthcare,South Korea,True,M
+Danilo Iervolino,48,1199.03,Technology,Italy,True,M
+Kochouseph Chittilappilly,75,1198.4,Manufacturing,India,True,M
+Leyla Tara Suyabatmaz,59,1198.17,Construction & Engineering,Turkey,False,F
+Yasemin Zeynep Keyman,65,1198.17,Construction & Engineering,Turkey,False,F
+Michael Dunlap & family,62,1197.45,Finance & Investments,United States,True,M
+Michael Gans & family,62,1195.49,Diversified,Luxembourg,False,M
+Sanjeev Shah,62,1194.94,Food & Beverage,India,False,M
+Wen Pengcheng & family,63,1194.39,Food & Beverage,China,True,M
+Axel Oberwelland & family,59,1193.16,Food & Beverage,Germany,False,M
+Edouard Carmignac,78,1193.05,Finance & Investments,France,True,M
+Zhang Xin,60,1191.59,Real Estate,China,True,F
+Tang Ye,44,1190.16,Technology,China,True,M
+Daniela Grogg,65,1190.11,Healthcare,Switzerland,False,F
+Nicole Grogg-Hotzer & family,53,1190.11,Healthcare,Switzerland,False,F
+Su Qingcan,57,1189.9,Healthcare,China,True,M
+Thomas Sandell,65,1189.62,Finance & Investments,Sweden,True,M
+Lee Ho-jin,63,1188.72,Diversified,South Korea,False,M
+Jiang Xuefei & family,56,1188.26,Technology,China,True,M
+Benjamin Zhengmin Pan & family,56,1187.05,Technology,China,True,M
+Gao Yi & family,57,1187.01,Healthcare,China,True,M
+Clelia Haji-Ioannou,55,1185.42,Service,Cyprus,False,F
+Hisako Yamamoto,65,1185.27,Fashion & Retail,Japan,False,F
+Yasuhisa Ito,65,1185.27,Fashion & Retail,Japan,False,M
+Jeffrey Michael & family,69,1184.43,Technology,United States,True,M
+Martin Klenk,39,1183.0,Technology,Germany,True,M
+Ivan Müller Botelho,92,1182.65,Energy,Brazil,False,M
+Subbamma Jasti,92,1180.0,Healthcare,India,False,F
+Charlotte Goh,36,1179.7,Manufacturing,Singapore,False,F
+Henrietta Goh,33,1179.7,Manufacturing,Singapore,False,F
+Johan Lavoo,34,1179.7,Manufacturing,Singapore,False,M
+Martin Lavoo,39,1179.7,Manufacturing,Netherlands,False,M
+Victoria Goh,30,1179.7,Manufacturing,Singapore,False,F
+Madeleine Olsson Eriksson,81,1177.37,Diversified,Sweden,False,F
+Wu Jinzi,63,1176.72,Healthcare,United States,True,M
+Xu Jiangnan,64,1176.32,Healthcare,China,True,M
+Manny Stul,76,1176.15,Manufacturing,Australia,True,M
+Christian Angermayer,47,1175.33,Finance & Investments,Germany,True,M
+Bruce Springsteen,76,1174.5,Media & Entertainment,United States,True,M
+Christian Herz,54,1173.17,Finance & Investments,Germany,False,M
+Michaela Herz,51,1173.17,Finance & Investments,Germany,False,F
+Sachin Bansal,44,1172.88,Fashion & Retail,India,True,M
+Cheng Lili,61,1171.82,Food & Beverage,China,True,M
+Alakh Pandey,34,1170.89,Technology,India,True,M
+Prateek Boob,37,1170.89,Technology,India,True,M
+Yasuhide Uno,62,1169.86,Technology,Japan,False,M
+Xiu Laigui,71,1169.4,Healthcare,China,True,M
+Lalit Keshre,44,1168.66,Finance & Investments,India,True,M
+Xie Yi,41,1167.98,Manufacturing,China,True,M
+Vadim Novinsky,62,1167.39,Metals & Mining,Ukraine,True,M
+Gerald Engström,77,1166.88,Manufacturing,Sweden,True,M
+Ceyda Lale Tara,94,1166.45,Construction & Engineering,Turkey,False,F
+Qiao Zhiyong,62,1165.69,Manufacturing,China,True,M
+Konstantin Nikolaev,55,1165.3,Logistics,Russia,True,M
+Nikita Mishin,54,1165.3,Logistics,Russia,True,M
+Amelie Voigt Trejes,20,1165.27,Manufacturing,Brazil,False,F
+Felipe Voigt Trejes,23,1165.27,Manufacturing,Brazil,False,M
+Pedro Voigt Trejes,23,1165.27,Manufacturing,Brazil,False,M
+Phillippe Van de Vyvere,72,1164.99,Logistics,Belgium,True,M
+Lim Wee Chai,68,1164.79,Manufacturing,Malaysia,True,M
+Vitaly Orlov,60,1164.27,Food & Beverage,Russia,True,M
+Chad Richison,55,1163.66,Technology,United States,True,M
+Fredrik Österberg,55,1162.84,Gambling & Casinos,Sweden,True,M
+Liu Jianjun,65,1161.94,Metals & Mining,China,True,M
+Ke Guihua,60,1161.26,Manufacturing,China,True,M
+John Christodoulou,60,1161.21,Real Estate,United Kingdom,True,M
+Norman Asbjornson,90,1161.16,Manufacturing,United States,True,M
+Charles Beauduin,66,1161.13,Diversified,Belgium,False,M
+Xie Juhua & family,75,1160.36,Healthcare,China,False,F
+Myron Wentz,85,1160.2,Fashion & Retail,St. Kitts and Nevis,True,M
+Xiong Xiaochuan,60,1160.09,Healthcare,China,True,M
+Maxim Shubarev,57,1159.4,Real Estate,Russia,True,M
+Li Xuechun,75,1158.42,Manufacturing,China,False,M
+Ben Silbermann,43,1158.16,Media & Entertainment,United States,True,M
+He Yamin & family,69,1156.78,Manufacturing,China,True,M
+Denise Prenosil,66,1155.85,Fashion & Retail,United States,False,F
+Michele Kang,66,1155.38,Technology,United States,True,F
+Aditya Khemka,51,1155.32,Manufacturing,India,True,M
+Tony Chen,76,1155.29,Technology,Taiwan,True,M
+Sam Tarascio,81,1155.19,Real Estate,Australia,True,M
+Eiichi Kuriwada,79,1153.95,Logistics,Japan,False,M
+Saket Burman,49,1153.2,Food & Beverage,United Kingdom,False,M
+Per Franzén,50,1152.07,Finance & Investments,Sweden,True,M
+Chris Ellison,68,1151.41,Metals & Mining,Australia,True,M
+Zhang Tianyu,58,1151.27,Telecom,China,True,M
+Pan Shiyi,63,1151.14,Real Estate,China,True,M
+Theresia Gouw,58,1151.0,Finance & Investments,United States,True,F
+Shin Dong-joo,72,1150.87,Fashion & Retail,South Korea,False,M
+Marco Squinzi,54,1150.35,Construction & Engineering,Italy,False,M
+Veronica Squinzi,54,1150.35,Construction & Engineering,Italy,False,F
+Scott Smith,77,1150.0,Technology,United States,True,M
+Vijay Shekhar Sharma,47,1149.57,Service,India,True,M
+Wu Jianbin,46,1148.11,Manufacturing,China,True,M
+Thierry Cruanes,58,1146.83,Technology,United States,True,M
+Ryuji Arai,79,1146.46,Fashion & Retail,Japan,True,M
+Arnold Schwarzenegger,78,1146.33,Media & Entertainment,United States,True,M
+Mehmet Kazanci,70,1145.69,Diversified,Turkey,False,M
+Alfredo Harp Helu & family,82,1144.83,Finance & Investments,Mexico,True,M
+Eddy Sugianto,80,1141.82,Metals & Mining,Indonesia,True,M
+Oliver Samwer,52,1141.32,Technology,Germany,True,M
+Zan Shengda,63,1140.54,Diversified,China,True,M
+Yu De-Chao,62,1139.68,Healthcare,United States,True,M
+Ngo Chi Dung,58,1139.54,Finance & Investments,Vietnam,True,M
+Eduard Chukhlebov,62,1139.51,Metals & Mining,Russia,True,M
+Patokh Chodiev,73,1137.46,Metals & Mining,Belgium,True,M
+Laurent Junique,60,1137.14,Technology,France,True,M
+Qin Long,60,1136.27,Manufacturing,China,True,M
+Craig Abod,62,1136.0,Technology,United States,True,M
+Peter Salanki,39,1134.91,Technology,Sweden,True,M
+Azman Hashim,86,1133.48,Finance & Investments,Malaysia,True,M
+Christian Louboutin,63,1133.2,Fashion & Retail,France,True,M
+Fahed Hariri,45,1133.06,Construction & Engineering,Lebanon,False,M
+Shigefumi Wada,73,1131.91,Technology,Japan,True,M
+Xiong Wu,50,1131.86,Technology,China,True,M
+Mustafa Hamied,85,1131.82,Healthcare,India,False,M
+Mary Alice Malone Jr,43,1131.79,Food & Beverage,United States,False,F
+Zhao Dongping,49,1131.39,Technology,China,True,M
+Nguyen Dang Quang,62,1128.52,Food & Beverage,Vietnam,True,M
+Laurence Escalante,44,1128.14,Gambling & Casinos,Australia,True,M
+Wang Yue,42,1127.54,Technology,China,True,M
+Catherine Malone,41,1126.66,Food & Beverage,United States,False,F
+Ana Maria Marcondes Penido Sant'Anna,70,1125.44,Construction & Engineering,Brazil,False,F
+Igor Kudryashkin,64,1125.12,Metals & Mining,Russia,True,M
+Zhang Keqiang,65,1124.96,Real Estate,China,True,M
+Sung Kyu-dong,68,1123.9,Technology,South Korea,True,M
+Yang Min & family,71,1122.92,Metals & Mining,China,False,F
+Sergey Kasyanenko & family,68,1122.74,Food & Beverage,Russia,True,M
+Rafal Brzoska,48,1121.84,Logistics,Poland,True,M
+Sun Huaiqing & family,56,1121.45,Fashion & Retail,China,True,M
+Hideyuki Busujima,73,1120.68,Gambling & Casinos,Japan,False,M
+Jiang Long,52,1120.59,Technology,China,True,M
+Takaya Awata,64,1120.43,Food & Beverage,Japan,True,M
+Chandubhai Virani,69,1120.13,Food & Beverage,India,True,M
+Kanjibhai Virani,64,1120.13,Food & Beverage,India,True,M
+Daniel Dines,54,1119.78,Technology,Romania,True,M
+Catharina Mühleis,33,1119.42,Manufacturing,Germany,False,F
+Tatiana Volodina,56,1119.41,Fashion & Retail,Russia,False,F
+Shang Xiaobo & family,52,1119.03,Manufacturing,China,True,M
+Ryan Israel,41,1118.0,Finance & Investments,United States,True,M
+Hiroyuki Inoue,81,1114.98,Manufacturing,Japan,False,M
+Chen Huwen,55,1114.48,Manufacturing,China,True,M
+Nutchamai Thanombooncharoen,64,1113.89,Food & Beverage,Thailand,True,F
+Prayudh Mahagitsiri,80,1113.38,Food & Beverage,Thailand,False,M
+Hartley Rogers,66,1112.32,Finance & Investments,United States,True,M
+Kostyantin Zhevago,52,1112.11,Metals & Mining,Ukraine,True,M
+Li San Yim,76,1111.81,Manufacturing,China,True,M
+Qian Jinghong,53,1111.58,Automotive,China,True,F
+Zhang Xuewu,51,1109.57,Food & Beverage,China,True,M
+Ma Xiuhui,55,1109.34,Manufacturing,China,True,F
+Abigail Bennett,45,1109.22,Food & Beverage,United States,False,F
+Antonio Luiz Seabra,83,1108.4,Fashion & Retail,Brazil,True,M
+Valery Kustov,64,1107.37,Food & Beverage,Russia,True,M
+Guillermo Fierro,65,1107.35,Finance & Investments,Spain,False,M
+Anton Fedun,41,1107.27,Energy,Russia,False,M
+Niraj Shah,52,1106.19,Technology,United States,True,M
+Rodney Lewis,71,1105.99,Energy,United States,True,M
+Peter Kelly,68,1105.98,Technology,United Kingdom,True,M
+Arno Schodl,50,1104.23,Technology,Germany,True,M
+Markus Hannebauer,50,1104.23,Technology,Germany,True,M
+Jens von Bahr,55,1103.04,Gambling & Casinos,Sweden,True,M
+Alexander Rinke,36,1103.0,Technology,Germany,True,M
+Zhang Xuansong,54,1102.29,Fashion & Retail,China,True,M
+Steven Schuurman,50,1101.16,Technology,Netherlands,True,M
+James Cameron,71,1100.0,Media & Entertainment,Canada,True,M
+Jerry Seinfeld,72,1100.0,Media & Entertainment,United States,True,M
+Weijian Shan,72,1100.0,Finance & Investments,Hong Kong,True,M
+Jane Goldman,70,1099.67,Real Estate,United States,False,F
+Amit Burman,56,1098.81,Food & Beverage,India,False,M
+Lou Guoqiang,69,1098.43,Manufacturing,China,True,M
+Vildan Gulcelik,92,1098.42,Construction & Engineering,Turkey,False,F
+Anatoly Skurov,73,1096.03,Energy,Russia,True,M
+Joe Agresti,53,1096.0,Diversified,United States,True,M
+Peter-Alexander Wacker,74,1095.55,Manufacturing,Germany,False,M
+Marty Horton,74,1095.36,Real Estate,United States,False,F
+Lin Por-Fong,83,1092.83,Manufacturing,Taiwan,False,M
+Keiko Erikawa,77,1092.83,Media & Entertainment,Japan,True,F
+Yu Jinkun & family,83,1092.75,Manufacturing,China,True,M
+Cai Wensheng,65,1092.58,Technology,China,True,M
+Bhavish Aggarwal,40,1092.54,Technology,India,True,M
+Qi Xiangdong,55,1092.31,Technology,China,True,M
+Yoichi Erikawa,75,1090.89,Media & Entertainment,Japan,True,M
+Ekaterina Fedun,37,1090.43,Energy,Russia,False,F
+Chen Qingzhou & family,60,1090.28,Telecom,China,True,M
+Tulay Kazanci,70,1089.48,Diversified,Turkey,False,F
+Aidyn Rakhimbayev,53,1088.92,Real Estate,Kazakhstan,True,M
+Ali Erdemoglu,66,1088.72,Manufacturing,Turkey,True,M
+Fritz Draexlmaier,74,1088.25,Automotive,Germany,False,M
+Bhaskara Rao Bollineni,72,1087.76,Healthcare,India,True,M
+Hong Seok-joh,73,1087.3,Fashion & Retail,South Korea,False,M
+Christian Chabot,54,1087.06,Technology,United States,True,M
+Eugene MIkhaylov,43,1086.38,Food & Beverage,Russia,False,M
+Sergey Mikhaylov,47,1086.38,Food & Beverage,Russia,False,M
+Paritosh Garg,70,1085.1,Manufacturing,India,True,M
+Dou Zhenggang,72,1084.18,Diversified,China,True,M
+Krishna Kumar Bangur,65,1083.81,Manufacturing,India,False,M
+Zachary Stern,44,1083.45,Food & Beverage,United States,False,M
+Cai Hongbin,65,1083.07,Healthcare,China,True,M
+Carlos Eduardo M. Scripilliti,65,1082.53,Diversified,Brazil,False,M
+Regina Helena S. Velloso,65,1082.53,Diversified,Brazil,False,M
+Rajesh Sharma,56,1082.43,Finance & Investments,India,False,M
+Clóvis Ermírio de Moraes,65,1082.41,Diversified,Brazil,False,M
+William Fung,77,1081.94,Logistics,Hong Kong,False,M
+Bart van Malderen,59,1081.89,Manufacturing,Belgium,False,M
+Maky Zanganeh,55,1081.07,Healthcare,United States,True,F
+Michael Novogratz,61,1081.0,Finance & Investments,United States,True,M
+Steve Conine,53,1080.52,Technology,United States,True,M
+Andrii Verevskyi,51,1080.32,Food & Beverage,Ukraine,True,M
+Farhad Ebrahimi,87,1077.64,Manufacturing,United States,True,M
+Alan Rydge,73,1076.86,Media & Entertainment,Australia,True,M
+Quek Leng Chye,82,1076.79,Diversified,Singapore,False,M
+Carl-Anton Kunz,27,1076.19,Manufacturing,Germany,False,M
+Wee Wei Chi,68,1075.56,Finance & Investments,Singapore,False,F
+Wee Wei Ling,75,1075.56,Finance & Investments,Singapore,False,F
+Hans Langer,74,1075.56,Manufacturing,Germany,True,M
+Xia Xinde,61,1074.92,Manufacturing,China,True,M
+Zhou Liangzhang & family,63,1074.79,Manufacturing,China,True,M
+Alexander Mikhalskiy,66,1073.34,Fashion & Retail,Russia,True,M
+Lu Zhongfang,83,1071.87,Automotive,China,True,F
+Diamantis Diamantides & family,78,1071.15,Logistics,Greece,True,M
+Chen Xueli,74,1070.88,Healthcare,China,True,M
+Lin Por-Chun,77,1070.34,Manufacturing,Taiwan,False,M
+Hua Shen,63,1069.22,Technology,United States,True,M
+Timothy Springer,78,1068.92,Healthcare,United States,True,M
+Chang Kuo-Cheng,64,1068.78,Logistics,Taiwan,False,M
+Petr Bely,53,1066.97,Healthcare,Russia,True,M
+Donald Mackenzie,69,1065.41,Finance & Investments,United Kingdom,True,M
+Li Jianguo,61,1063.35,Telecom,China,True,M
+Zhang Hongwei,71,1063.17,Diversified,China,True,M
+Victor Fung,80,1063.09,Logistics,United States,False,M
+Caspar Callerström,53,1063.08,Finance & Investments,Sweden,True,M
+Brian Lawson,66,1062.5,Finance & Investments,Canada,True,M
+Andrea Della Valle,60,1061.94,Fashion & Retail,Italy,False,M
+Bruce Mathieson,82,1061.32,Real Estate,Australia,True,M
+Maria Frias,65,1061.2,Media & Entertainment,Brazil,False,F
+Xu Zhihan,53,1060.92,Technology,China,True,M
+Deepak Mehta,69,1060.73,Manufacturing,India,False,M
+Luigi Cremonini & family,87,1060.72,Food & Beverage,Italy,True,M
+Tseng Sing-ai,65,1060.34,Manufacturing,Taiwan,False,F
+Rajinder Gupta,67,1059.94,Manufacturing,India,True,M
+Zheng Xiaodong,62,1057.91,Manufacturing,China,True,M
+Ong Leong Huat,82,1057.06,Finance & Investments,Malaysia,True,M
+Delfin Jorge Ezequiel Carballo,73,1056.83,Finance & Investments,Argentina,True,M
+Christian Sinding,53,1055.66,Finance & Investments,Norway,True,M
+Chen Jinghong & family,80,1055.36,Manufacturing,China,True,M
+Manoj Punjabi,53,1054.83,Media & Entertainment,Indonesia,True,M
+Orion Hindawi,46,1054.0,Technology,United States,True,M
+Lee Su-jin,48,1053.0,Technology,South Korea,True,M
+K. Rai Sahi,80,1051.65,Real Estate,Canada,True,M
+Chen Huxiong,55,1050.82,Manufacturing,China,True,M
+Sachin Agarwal,54,1047.85,Manufacturing,India,False,M
+Mats Paulsson & family,82,1047.13,Construction & Engineering,Sweden,True,M
+Michael Rees,51,1045.6,Finance & Investments,United States,True,M
+Zhong Peifeng,63,1045.08,Telecom,United States,True,M
+Zhang Feng & family,62,1044.36,Manufacturing,China,True,M
+Gyorgy Gattyan,55,1043.12,Media & Entertainment,Hungary,True,M
+Jeffrey Soffer,58,1040.73,Real Estate,United States,False,M
+Zhang Cheng Fei,58,1040.69,Manufacturing,China,True,M
+Leone Benetton,41,1038.39,Fashion & Retail,Italy,False,M
+Beyoncé Knowles-Carter,44,1037.6,Media & Entertainment,United States,True,F
+Cyrus Madon,60,1037.36,Finance & Investments,Canada,True,M
+Dick Portillo,86,1037.07,Food & Beverage,United States,True,M
+Wang Jinhua,63,1036.5,Metals & Mining,China,True,M
+Cho Hyun-beom,54,1036.06,Automotive,South Korea,False,M
+Ric Elias,58,1035.7,Media & Entertainment,United States,True,M
+Zhu Zhaojiang,52,1035.6,Manufacturing,China,True,M
+Chen Baozhen,83,1034.22,Technology,China,True,F
+Aydin Dogan,90,1033.95,Media & Entertainment,Turkey,True,M
+Kevin Plank,53,1033.84,Fashion & Retail,United States,True,M
+Huang Qiaoling,67,1031.86,Media & Entertainment,China,True,M
+Li Li,62,1031.53,Healthcare,China,True,M
+Larry Silverstein,94,1031.34,Real Estate,United States,True,M
+Harshil Mathur,35,1031.33,Finance & Investments,India,True,M
+Shashank Kumar,35,1031.33,Finance & Investments,India,True,M
+Dylan Field,34,1031.17,Technology,United States,True,M
+Wei Lidong & family,50,1029.66,Technology,China,True,M
+Bang Si-hyuk,53,1028.78,Media & Entertainment,South Korea,True,M
+Tsai Cheng-Chiu,65,1028.57,Finance & Investments,Taiwan,False,M
+Rihanna,38,1028.11,Fashion & Retail,Barbados,True,F
+Yuri Shefler,58,1028.09,Food & Beverage,Russia,True,M
+Xu Shijun & family,63,1027.33,Manufacturing,China,True,M
+Don Ahern,72,1027.2,Service,United States,False,M
+Clemens Fischer,50,1027.0,Diversified,Germany,True,M
+Fu Kwan,68,1026.91,Diversified,China,True,M
+Bill Cummings,89,1026.6,Real Estate,United States,True,M
+Lin Por-Shih,81,1026.39,Manufacturing,Taiwan,False,M
+Chang Jing,43,1023.22,Technology,China,True,M
+Ninian Mogan Lourdenadin,72,1023.1,Real Estate,Malaysia,True,M
+Kristina Hollweg,57,1022.43,Manufacturing,Germany,False,F
+Giannis Alafouzos & family,68,1021.31,Logistics,Greece,False,M
+Richard Yuengling Jr & family,83,1021.19,Food & Beverage,United States,False,M
+Naresh Trehan,79,1020.21,Healthcare,India,True,M
+Murat Vargi,78,1019.85,Telecom,Turkey,True,M
+Simone Maag de Moura Cunha,65,1019.6,Healthcare,Switzerland,False,F
+Gao Jinzhu,66,1019.17,Metals & Mining,China,True,F
+Paul Taubman,65,1016.24,Finance & Investments,United States,True,M
+Li Liufa & family,68,1016.01,Diversified,China,True,M
+Jared Kushner,45,1015.65,Finance & Investments,United States,False,M
+Xu Guozhong & family,62,1014.97,Manufacturing,China,True,M
+Walter Kurtz,81,1013.27,Manufacturing,Germany,True,M
+Omani Carson,61,1009.79,Finance & Investments,United States,True,M
+Ivan Streshinsky,56,1008.48,Diversified,Russia,True,M
+Vladimir Melnikov,78,1008.32,Fashion & Retail,Russia,True,M
+Cai Mingtong,74,1008.07,Technology,China,True,M
+Louis Bacon,69,1008.0,Finance & Investments,United States,True,M
+Laszlo Szijj,67,1007.02,Construction & Engineering,Hungary,True,M
+Neerja Sethi,71,1006.4,Technology,United States,True,F
+Jorge Rodriguez Rodriguez,80,1005.52,Diversified,Peru,True,M
+Anne Dinning,63,1005.5,Finance & Investments,United States,True,F
+Shyam Sankar,44,1005.24,Technology,United States,True,M
+Waldemar Munich,68,1004.91,Construction & Engineering,Germany,True,M
+Zach McLeroy,63,1004.1,Food & Beverage,United States,True,M
+Muhammed Aziz Khan,71,1003.99,Energy,Singapore,True,M
+Rameshchandra Jain,77,1003.9,Manufacturing,India,True,M
+Axel Stawski,75,1000.64,Real Estate,United States,True,M
+David Hindawi,81,1000.0,Technology,United States,True,M
+Dr. Dre,61,1000.0,Media & Entertainment,United States,True,M
+Richard Kurtz,85,1000.0,Real Estate,United States,True,M
+Robert Johnson,80,1000.0,Media & Entertainment,United States,True,M
+Shayne Coplan,27,1000.0,Technology,United States,True,M
+Stephen Ketchum,64,1000.0,Finance & Investments,United States,True,M
+Thor Bjorgolfsson,59,1000.0,Diversified,Iceland,True,M
+Trae Stephens,42,1000.0,Technology,United States,True,M
