@@ -13,28 +13,42 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
-      - name: Install Playwright
+      - name: Install dependencies
         run: |
           npm init -y
           npm install playwright
 
-      - name: Open Website
+      - name: Install Chromium
+        run: |
+          npx playwright install chromium
+
+      - name: Open Streamlit App
         run: |
           node -e "
           const { chromium } = require('playwright');
+
           (async() => {
-            const browser = await chromium.launch();
-            const page = await browser.newPage();
-            await page.goto('https://promptpolish-soon.streamlit.app', {
-              waitUntil: 'networkidle',
-              timeout: 120000
+            const browser = await chromium.launch({
+              headless: true
             });
-            console.log('opened');
+
+            const page = await browser.newPage();
+
+            await page.goto(
+              'https://promptpolish-soon.streamlit.app',
+              {
+                waitUntil: 'networkidle',
+                timeout: 120000
+              }
+            );
+
+            console.log('Website opened successfully');
+
             await browser.close();
           })();
           "
