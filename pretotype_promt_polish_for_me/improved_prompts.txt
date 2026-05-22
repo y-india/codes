@@ -34,3 +34,43 @@ Create a user interface (UI) that displays as a pop-up. The pop-up should show:
 * Your prompt
 * The original prompt below it
 Use the provided file as a reference to complete this task.
+
+--- Original ---
+ok on basis of this logo (connect phto)
+
+make a website page something like taht 
+
+
+LOGO WRITTEN IN HUGE WORDS
+below
+COMING SOON 
+Sorry meassgae that we are working on it continuesly, you will get it soon, 
+
+you can provide your email anddress, 
+
+
+it must  here (b/w meassage)
+EMAIL ADDRESS BOX 
+
+so we will give you 
+
+
+1month free preium adfter luanch
+
+
+
+
+in most below 
+
+Yuvraj 2026 PromtPolish
+--- Improved ---
+Create a simple website page with the following elements:
+* A large logo (using the provided image)
+* Below the logo:
+  * Text "LOGO WRITTEN IN HUGE WORDS" in huge font
+  * "COMING SOON" message
+  * Apology message: "Sorry, we are working on it continuously, you will get it soon"
+  * Email address box to collect user emails
+  * Message below the email box: "so we will give you 1 month free premium after launch"
+* Include the text "Yuvraj 2026 PromptPolish" at the bottom of the page
+Build this page using HTML, CSS, and JavaScript, and ensure it is functional and user-friendly.

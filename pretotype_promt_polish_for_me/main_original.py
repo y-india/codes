@@ -9,7 +9,7 @@ from groq import Groq
 
 # ── Config ───────────────────────────────────────────────────────────────────
 client     = Groq(api_key=os.getenv("GROQ_API_KEY"))
-OUTPUT_FILE = "improved_prompts.txt"
+OUTPUT_FILE = r"D:\codes_vs\pretotype_promt_polish_for_me\improved_prompts.txt"
 
 # ── Shared state ─────────────────────────────────────────────────────────────
 captured_text = ""
