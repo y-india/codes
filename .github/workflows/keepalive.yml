@@ -46,7 +46,14 @@ jobs:
                 timeout: 120000
               }
             );
-
+            
+            await page.goto(
+              'https://yuvirana.streamlit.app',
+              {
+                waitUntil: 'networkidle',
+                timeout: 120000
+              }
+            );
 
             console.log('Website opened successfully');
 
