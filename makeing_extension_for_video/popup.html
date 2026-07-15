@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ResumeRefresh</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>
+            Resume<span class="accent">Refresh</span>
+        </h2>
+
+        <div class="history-section">
+
+            <button id="historyBtn" class="history-btn">
+                Edit My History
+            </button>
+
+            <div id="historyMenu" class="history-menu">
+
+                <button id="addProgressBtn">View Detailed History</button>
+
+                <button id="changeHistoryBtn">Change Past History</button>
+
+                <button id="viewHistoryBtn">Add New Progress</button>
+
+                <button id="deleteHistoryBtn">Delete My History</button>
+
+            </div>
+
+        </div>
+
+        <label>Paste your Job Description</label>
+
+        <textarea
+            id="jobDescription"
+            placeholder="Paste the complete Job Description here...">
+        </textarea>
+
+        <label>Upload your Recent Resume</label>
+
+        <div class="upload-box" id="dropArea">
+
+            <input
+                type="file"
+                id="resume"
+                accept=".pdf,.doc,.docx"
+                hidden>
+
+            <p id="fileName">
+                Drag & Drop Resume
+                <br>
+                or
+                <br>
+                Click to Upload
+            </p>
+
+        </div>
+
+        <button id="submitBtn">
+            <span id="btnText">Submit</span>
+            <span id="loader" class="loader"></span>
+        </button>
+
+    </div>
+
+    <script src="popup.js"></script>
+
+</body>
+
+</html>
