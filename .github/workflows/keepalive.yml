@@ -40,7 +40,7 @@ jobs:
             const page = await browser.newPage();
 
             await page.goto(
-              'https://promptpolish-soon.streamlit.app',
+              'https://resumerefresh.streamlit.app',
               {
                 waitUntil: 'networkidle',
                 timeout: 120000
