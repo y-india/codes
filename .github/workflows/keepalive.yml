@@ -39,13 +39,7 @@ jobs:
 
             const page = await browser.newPage();
 
-            await page.goto(
-              'https://resumerefresh.streamlit.app',
-              {
-                waitUntil: 'networkidle',
-                timeout: 120000
-              }
-            );
+
             
             await page.goto(
               'https://yuvirana.streamlit.app',
