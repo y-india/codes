@@ -27,29 +27,38 @@ jobs:
         run: |
           npx playwright install chromium
 
-      - name: Open Streamlit App
+      - name: Open Streamlit Apps
         run: |
           node -e "
           const { chromium } = require('playwright');
 
-          (async() => {
+          (async () => {
             const browser = await chromium.launch({
               headless: true
             });
 
             const page = await browser.newPage();
 
-
-            
-            await page.goto(
+            const urls = [
               'https://yuvirana.streamlit.app',
-              {
-                waitUntil: 'networkidle',
-                timeout: 120000
-              }
-            );
+              'https://resumerefresh.streamlit.app'
+            ];
 
-            console.log('Website opened successfully');
+            for (const url of urls) {
+              try {
+                console.log('Opening:', url);
+
+                await page.goto(url, {
+                  waitUntil: 'networkidle',
+                  timeout: 120000
+                });
+
+                console.log('Website opened successfully:', url);
+              } catch (error) {
+                console.error('Failed to open:', url);
+                console.error(error.message);
+              }
+            }
 
             await browser.close();
           })();
