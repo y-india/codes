@@ -12,6 +12,18 @@ simply if it is not installed simply go and download python so I'm using Windows
 
 command from here and go to this project open the terminal and paste it over here and press enter now it will install the py test in your project so you see that it's installing this one and successfully installed now how we can verify that the p t has been successfully install or not so what you need to do you need to copy this command pest Das D version and go back here and paste this one here and press enter so you see that the pyus version has been displayed which means that the pyus has
 
+
+
+
+
+
+
+
+
+
+
+
+
 been installed successfully now let's go back to this website so they you will find different explanation how to guides reference is you see how to use the fixtures how to invoke the P test how to Mark the test function the attributes how to parameterize so we will see all these features in our upcoming tutorials and right now we will simply go here and just click on this examples and customization tricks so click on this get started so here you see some basic test so basically as we just learned
 
 that we'll be writing our test in the format of the simple function so this is a simple F python functions right and as we learn that there's automatic discovery of the test files and the function so you see that the name of the file is testore sample. py and you can also see that the name of this test function start with the test underscore and then name of the function so by using this pattern the P test will automatically detect your test file and the test functions thank you so much for
