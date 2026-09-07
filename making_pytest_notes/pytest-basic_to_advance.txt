@@ -2,6 +2,10 @@ HELLO EVERYONE##################### and welcome to this spest tutorial Series th
 
 syntax is really simple which means that you will be writing your test as a regular python functions then there's no need to inherit any specific class then there's a feature for the automatic discovery of your test files and function and how it works is that your test files should start with the test keyword followed by underscore or at the end with the underscore Das test similarly your test function should start with the keyword test followed by the underscore then there's a feature of
 
+
+
+
+
 parameterizations which means that you can run your single test with a multiple set of data then there's another feature which is known as fixtures so fixtures are used for the setup and tear down of your scripts for example you want to set up your browser you want to close your browser so these kind of things can be done using the fixtures then there are detail assertions there are so many sessions available so that we can test our application properly now the question is that why we need this spest
 
 the reason is that the the features like automatic discovery of test parameterization fixtures the the things which are specific to the testing are not good in the serium we need something robust in terms of the automation testing okay now let's go to the pie charm let's go to my desktop over here and let's set up our project so let me open the P CH over here and what we we will do is that we will install and set up a project for the P test and simply we will go here and click on new
