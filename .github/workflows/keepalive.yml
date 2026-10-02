@@ -41,7 +41,7 @@ jobs:
 
             const urls = [
               'https://yuvirana.streamlit.app',
-              'https://resumerefresh.streamlit.app'
+              'https://validationloop.streamlit.app'
             ];
 
             for (const url of urls) {
